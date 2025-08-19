@@ -1,0 +1,25 @@
+2025-08-16 20:53:55,119 - INFO - ============================================================
+2025-08-16 20:53:55,119 - INFO - COMMERCIAL RSS FEED MONITOR - STARTING
+2025-08-16 20:53:55,119 - INFO - ============================================================
+2025-08-16 20:53:55,119 - INFO - Monitoring 5 topic categories
+2025-08-16 20:53:55,119 - INFO - Feed limits: 50 per feed, 100 per topic, 300 total articles max
+2025-08-16 20:53:55,119 - INFO - ============================================================
+2025-08-16 20:53:55,119 - INFO - Timeout set to: 300 seconds
+2025-08-16 20:54:03,111 - INFO - Reached total limit of 300 articles, stopping collection
+2025-08-16 20:54:03,298 - INFO - Reached total limit of 300 articles, stopping collection
+2025-08-16 20:54:03,298 - INFO - SUCCESS: Found 336 new articles
+2025-08-16 20:54:03,299 - INFO - ARTICLES BY TOPIC:
+2025-08-16 20:54:03,299 - INFO -   US News: 69 articles
+2025-08-16 20:54:03,299 - INFO -   World News: 67 articles
+2025-08-16 20:54:03,299 - INFO -   Business: 96 articles
+2025-08-16 20:54:03,299 - INFO -   Technology: 76 articles
+2025-08-16 20:54:03,299 - INFO -   Science: 28 articles
+2025-08-16 20:54:03,299 - INFO - Commercial output saved to: commercial_articles_output.json
+2025-08-16 20:54:03,299 - INFO - ============================================================
+2025-08-16 20:54:03,299 - INFO - PERFORMANCE SUMMARY:
+2025-08-16 20:54:03,299 - INFO -   Total processing time: 8.18 seconds
+2025-08-16 20:54:03,299 - INFO -   Articles processed: 336
+2025-08-16 20:54:03,299 - INFO -   Processing rate: 41.07 articles/second
+2025-08-16 20:54:03,299 - INFO - ============================================================
+2025-08-16 20:54:03,299 - INFO - COMMERCIAL RSS FEED MONITOR - COMPLETE
+2025-08-16 20:54:03,299 - INFO - ============================================================

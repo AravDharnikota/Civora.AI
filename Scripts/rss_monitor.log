@@ -1,0 +1,422 @@
+2025-08-16 20:58:28,590 - INFO - ============================================================
+2025-08-16 20:58:28,590 - INFO - COMMERCIAL RSS FEED MONITOR - STARTING
+2025-08-16 20:58:28,590 - INFO - ============================================================
+2025-08-16 20:58:28,590 - INFO - Monitoring 5 topic categories
+2025-08-16 20:58:28,590 - INFO - Feed limits: 50 per feed, 100 per topic, 300 total articles max
+2025-08-16 20:58:28,591 - INFO - ============================================================
+2025-08-16 20:58:28,591 - INFO - Timeout set to: 300 seconds
+2025-08-16 20:58:36,344 - INFO - Reached total limit of 300 articles, stopping collection
+2025-08-16 20:58:36,489 - INFO - Reached total limit of 300 articles, stopping collection
+2025-08-16 20:58:36,490 - INFO - SUCCESS: Found 336 new articles
+2025-08-16 20:58:36,490 - INFO - ARTICLES BY TOPIC:
+2025-08-16 20:58:36,490 - INFO -   US News: 69 articles
+2025-08-16 20:58:36,490 - INFO -   World News: 67 articles
+2025-08-16 20:58:36,490 - INFO -   Business: 96 articles
+2025-08-16 20:58:36,490 - INFO -   Technology: 76 articles
+2025-08-16 20:58:36,490 - INFO -   Science: 28 articles
+2025-08-16 20:58:36,491 - INFO - Commercial output saved to: commercial_articles_output.json
+2025-08-16 20:58:36,491 - INFO - ============================================================
+2025-08-16 20:58:36,491 - INFO - PERFORMANCE SUMMARY:
+2025-08-16 20:58:36,491 - INFO -   Total processing time: 7.90 seconds
+2025-08-16 20:58:36,491 - INFO -   Articles processed: 336
+2025-08-16 20:58:36,491 - INFO -   Processing rate: 42.53 articles/second
+2025-08-16 20:58:36,491 - INFO - ============================================================
+2025-08-16 20:58:36,491 - INFO - COMMERCIAL RSS FEED MONITOR - COMPLETE
+2025-08-16 20:58:36,491 - INFO - ============================================================
+2025-08-18 21:03:15,250 - INFO - ============================================================
+2025-08-18 21:03:15,250 - INFO - COMMERCIAL RSS FEED MONITOR - STARTING
+2025-08-18 21:03:15,250 - INFO - ============================================================
+2025-08-18 21:03:15,250 - INFO - Monitoring 8 topic categories
+2025-08-18 21:03:15,250 - INFO - Feed limits: 50 per feed, 100 per topic, 300 total articles max
+2025-08-18 21:03:15,250 - INFO - ============================================================
+2025-08-18 21:03:15,250 - INFO - Timeout set to: 300 seconds
+2025-08-18 21:03:15,251 - ERROR - CRITICAL ERROR: no such column: is_seen
+2025-08-18 21:03:15,251 - ERROR - Stack trace:
+Traceback (most recent call last):
+  File "/Users/arav/Documents/Civora/Scripts/detect_similar.py", line 180, in <module>
+    fresh_news = fetch_latest_news()
+                 ^^^^^^^^^^^^^^^^^^^
+  File "/Users/arav/Documents/Civora/Scripts/detect_similar.py", line 97, in fetch_latest_news
+    seen = load_seen()
+           ^^^^^^^^^^^
+  File "/Users/arav/Documents/Civora/Scripts/detect_similar.py", line 59, in load_seen
+    cursor.execute("SELECT url FROM articles WHERE is_seen = TRUE")
+sqlite3.OperationalError: no such column: is_seen
+2025-08-18 21:04:02,746 - INFO - ============================================================
+2025-08-18 21:04:02,747 - INFO - COMMERCIAL RSS FEED MONITOR - STARTING
+2025-08-18 21:04:02,747 - INFO - ============================================================
+2025-08-18 21:04:02,747 - INFO - Monitoring 8 topic categories
+2025-08-18 21:04:02,747 - INFO - Feed limits: 50 per feed, 100 per topic, 300 total articles max
+2025-08-18 21:04:02,747 - INFO - ============================================================
+2025-08-18 21:04:02,747 - INFO - Timeout set to: 300 seconds
+2025-08-18 21:05:09,453 - INFO - ============================================================
+2025-08-18 21:05:09,454 - INFO - COMMERCIAL RSS FEED MONITOR - STARTING
+2025-08-18 21:05:09,454 - INFO - ============================================================
+2025-08-18 21:05:09,454 - INFO - Monitoring 8 topic categories
+2025-08-18 21:05:09,454 - INFO - Feed limits: 50 per feed, 100 per topic, 300 total articles max
+2025-08-18 21:05:09,454 - INFO - ============================================================
+2025-08-18 21:05:09,454 - INFO - Timeout set to: 300 seconds
+2025-08-18 21:05:09,454 - INFO - Processing topic: Business
+2025-08-18 21:05:09,772 - ERROR - Error processing Business RSS feed https://feeds.bbci.co.uk/news/business/rss.xml: table articles has no column named is_seen
+2025-08-18 21:05:10,357 - ERROR - Error processing Business RSS feed https://www.breitbart.com/economy/feed/: table articles has no column named is_seen
+2025-08-18 21:05:10,689 - ERROR - Error processing Business RSS feed https://www.breitbart.com/economy/feed/: table articles has no column named is_seen
+2025-08-18 21:05:12,382 - ERROR - Error processing Business RSS feed https://www1.cbn.com/cbnnews/finance/feed: table articles has no column named is_seen
+2025-08-18 21:05:13,491 - ERROR - Error processing Business RSS feed https://www1.cbn.com/cbnnews/finance/feed: table articles has no column named is_seen
+2025-08-18 21:05:13,738 - ERROR - Error processing Business RSS feed http://rss.cnn.com/rss/money_latest.rss: table articles has no column named is_seen
+2025-08-18 21:05:14,109 - ERROR - Error processing Business RSS feed http://rss.cnn.com/rss/money_latest.rss: table articles has no column named is_seen
+2025-08-18 21:05:14,423 - ERROR - Error processing Business RSS feed https://dailycaller.com/section/business/feed/: table articles has no column named is_seen
+2025-08-18 21:05:14,814 - ERROR - Error processing Business RSS feed https://www.dailymail.co.uk/money/index.rss: table articles has no column named is_seen
+2025-08-18 21:05:15,140 - ERROR - Error processing Business RSS feed https://feeds.foxnews.com/foxnews/business: table articles has no column named is_seen
+2025-08-18 21:05:16,442 - ERROR - Error processing Business RSS feed https://www.npr.org/rss/rss.php?id=1006: table articles has no column named is_seen
+2025-08-18 21:05:17,312 - ERROR - Error processing Business RSS feed https://nypost.com/business/feed/: table articles has no column named is_seen
+2025-08-18 21:05:19,623 - ERROR - Error processing Business RSS feed https://www.newsnationnow.com/business/feed/: table articles has no column named is_seen
+2025-08-18 21:05:19,875 - ERROR - Error processing Business RSS feed https://www.oann.com/category/business/feed/: table articles has no column named is_seen
+2025-08-18 21:05:20,063 - ERROR - Error processing Business RSS feed https://www.oann.com/category/business/feed/: table articles has no column named is_seen
+2025-08-18 21:05:21,371 - ERROR - Error processing Business RSS feed https://www.theguardian.com/business/rss: table articles has no column named is_seen
+2025-08-18 21:05:21,563 - ERROR - Error processing Business RSS feed https://thehill.com/business/feed/: table articles has no column named is_seen
+2025-08-18 21:05:21,756 - ERROR - Error processing Business RSS feed https://rss.nytimes.com/services/xml/rss/nyt/Business.xml: table articles has no column named is_seen
+2025-08-18 21:05:32,008 - ERROR - Error processing Business RSS feed https://feeds.washingtonpost.com/rss/business: table articles has no column named is_seen
+2025-08-18 21:05:32,008 - INFO - Processing topic: Health
+2025-08-18 21:05:32,324 - ERROR - Error processing Health RSS feed https://feeds.bbci.co.uk/news/health/rss.xml: table articles has no column named is_seen
+2025-08-18 21:05:32,796 - ERROR - Error processing Health RSS feed https://www.breitbart.com/health/feed/: table articles has no column named is_seen
+2025-08-18 21:05:33,099 - ERROR - Error processing Health RSS feed https://www.breitbart.com/health/feed/: table articles has no column named is_seen
+2025-08-18 21:05:45,613 - INFO - ============================================================
+2025-08-18 21:05:45,613 - INFO - COMMERCIAL RSS FEED MONITOR - STARTING
+2025-08-18 21:05:45,613 - INFO - ============================================================
+2025-08-18 21:05:45,613 - INFO - Monitoring 8 topic categories
+2025-08-18 21:05:45,613 - INFO - Feed limits: 50 per feed, 100 per topic, 300 total articles max
+2025-08-18 21:05:45,613 - INFO - ============================================================
+2025-08-18 21:05:45,613 - INFO - Timeout set to: 300 seconds
+2025-08-18 21:05:45,614 - INFO - Processing topic: Business
+2025-08-18 21:05:45,746 - INFO - Added article: Bioethanol plant begins shut-down process... to Business
+2025-08-18 21:05:45,746 - INFO - Added article: Intel shares jump as Softbank to buy $2bn stake in... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Soho House bought for £2bn as Ashton Kutcher joins... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: 'Unaffordable' rents well over a third of income... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Newsmax settles Dominion election defamation case ... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: How to destroy harmful 'forever chemicals'... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Trump's trade war puts US love for Scottish goods ... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Expect smaller broccoli if heatwave continues, far... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Qantas hit with record fine for illegal layoffs du... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Swatch sorry for 'slanted eyes' ad after China upr... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Meta investigated over AI having 'sensual' chats w... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Yellow stickers and fridge hacks: How to feed chil... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Greeting customers deters shoplifters, police say... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Nerd glasses and friendship necklaces: Claire's wa... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: The US economy is a puzzle but the pieces aren't f... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: British racing to hold one-day strike in tax prote... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: 'Bus fares have cut my food budget': Under-22s on ... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Topshop returns to the High Street, but can it get... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Bioethanol layoffs to start next week after rescue... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Shein's UK sales soar by a third to hit £2bn... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Iceland offers £1 reward for reporting shoplifters... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Kingsmill owner to buy Hovis to make UK bread gian... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Data centres to be expanded across UK as concerns ... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Cost of weight-loss drug Mounjaro could rise signi... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: UK's Turing AI Institute responds to staff anger a... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Gatwick strikes suspended after new pay offer... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Intel shares jump on report of possible US stake i... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Should Europe wean itself off US tech?... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Inside Australia's billion-dollar bid to take on C... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Economic woes dominate as Bolivia prepares to go t... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: How to get AI to work in 22 languages... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Will AI make language dubbing easy for film and TV... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: China's unemployed young adults who are pretending... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Why firms are merging HR and IT departments... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: How Europe is vying for rare earth independence fr... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Will new greener brake pads be more expensive?... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: How South Korea's K-beauty industry is being hit b... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: Rise in food charity school holiday meal deliverie... to Business
+2025-08-18 21:05:45,747 - INFO - Added article: More workers needing food banks - support group... to Business
+2025-08-18 21:05:45,748 - INFO - Added article: US wholesale prices jump in July as tariffs hit... to Business
+2025-08-18 21:05:45,748 - INFO - Added article: The UK car industry is at a tipping point - can it... to Business
+2025-08-18 21:05:45,748 - INFO - Added article: Trump's global tariffs 'victory' may well come at ... to Business
+2025-08-18 21:05:45,748 - INFO - Added article: Labour might be down, but it's not necessarily out... to Business
+2025-08-18 21:05:45,748 - INFO - Added article: China's electric cars are becoming slicker and che... to Business
+2025-08-18 21:05:45,748 - INFO - Added article: The secretive US factory that lays bare the contra... to Business
+2025-08-18 21:05:45,748 - INFO - Added article: 'One video about a dress made me £6,000'... to Business
+2025-08-18 21:05:45,748 - INFO - Added article: Sylvanian Drama lawsuit dropped – but account will... to Business
+2025-08-18 21:05:45,748 - INFO - Added article: The Interview... to Business
+2025-08-18 21:05:46,090 - INFO - Added article: Trump Calls Putin During Talks With Europeans, Mak... to Business
+2025-08-18 21:05:46,090 - INFO - Added article: Watch: Cargo Ship Explodes in Chesapeake Bay near ... to Business
+2025-08-18 21:05:46,090 - INFO - Added article: Poll: Trump Approval Surges to 54 Percent After Me... to Business
+2025-08-18 21:05:46,090 - INFO - Added article: Exclusive — Harmeet Dhillon: 75% of Biden's DOJ Ci... to Business
+2025-08-18 21:05:46,090 - INFO - Added article: Exclusive: MAHA Chef Andrew Gruel Explains How Big... to Business
+2025-08-18 21:05:46,090 - INFO - Added article: Why People Are Praising Trump's Revocation of Bide... to Business
+2025-08-18 21:05:46,090 - INFO - Added article: Newsmax Will Pay $67 Million to Settle Defamation ... to Business
+2025-08-18 21:05:46,090 - INFO - Added article: Breitbart Business Digest: Trump's Tariff Policy I... to Business
+2025-08-18 21:05:46,090 - INFO - Added article: Matthew Perry Death: ‘Ketamine Queen’ Drug Dealer ... to Business
+2025-08-18 21:05:46,090 - INFO - Added article: Disney's Marvel Studios Abandoning Atlanta Ga. for... to Business
+2025-08-18 21:05:46,090 - INFO - Added article: Kathy Griffin Joins a Dating App: 'I Have A Lot of... to Business
+2025-08-18 21:05:46,090 - INFO - Added article: Exclusive: Israeli MK Barred from Australia over F... to Business
+2025-08-18 21:05:46,090 - INFO - Added article: Illegal Aliens Arrested for Stealing Saw Palmetto ... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Gwinn: ESPN Does Not Hire People Who Know Sports, ... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: European Leaders Rally Around Zelensky Despite Spe... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: 'I Don't Believe It': Trump Praises Zelensky's Whi... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: GOP Rep. Alford: Trump Is Setting Up with Zelensky... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: GOP Rep. Carter: Only Trump Could Move Putin, Zele... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Journalist Mark Judge to Launch 'Anti-Communist Fi... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Conan O’Brien: 'Late-Night Television Going to Dis... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: ABC's 'GMA' Promotes Sex-Swapped Broadway Play Abo... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: 'Star Wars' Star Mark Hamill Planned to Leave U.S.... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Pop Star JADE Shames ‘White, Straight, Privileged’... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Helen Mirren Says 'I’m a Feminist, But You Can’t H... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Video: James Gunn's 'Peacemaker' Returns with John... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: FL Officials: Illegal Alien Trucker from India Rec... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Nolte: Trump to Sign Executive Order Outlawing Mai... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Trump Administration Tightens Rules on Tax Credits... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Exclusive -- Marsha Blackburn Explains What Govern... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Nolte – Death Blow: Humiliated MSNBC Forced to Reb... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Nolte: Far-left Columnist Robin Givhan out at Far-... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: 'Make Our Streets Safe Again!' -- Thousands Protes... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Nine in Ten Voters Back Deporting Migrant Sex Offe... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Are You 'Delulu'? 'Tradwife' and 'Skibidi' Among S... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Israel Expels Australian PA Diplomats in Response ... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Woke Fatigue: Socialist Party’s Pro-Hamas Protest ... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Report: Food Prices Drop in Gaza as Aid Surges In... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: James Comey Declares Himself a 'Swiftie,' Says Tay... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: WATCH: Fever Star Sophie Cunningham Left Writhing ... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: ESPN Ditches Spike Lee's Docuseries About Colin Ka... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Leftists Blast Lamar Jackson for Reposting Religio... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Green Inferno: Semi-Truck Carrying 8 Teslas Engulf... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: 'Godfather of AI' Geoffrey Hinton Wants Machines t... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Josh Hawley to Investigate if Meta AI Bots Enabled... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Maureen Dowd Shocker: Trump Making the Right Moves... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: WATCH -- Chuck Todd: Joe Biden's Legacy Is 'Donald... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: David Brooks: Trump-Backed Redistricting Is Using ... to Business
+2025-08-18 21:05:46,091 - INFO - Added article: Angry Gavin Newsom Files FOIA Request on Border Pa... to Business
+2025-08-18 21:05:46,092 - INFO - Added article: Mother of Slain D.C. Intern: Trump Taking His Deat... to Business
+2025-08-18 21:05:46,092 - INFO - Added article: Life Sentence for 'Babysitter From Hell' Who Took ... to Business
+2025-08-18 21:05:47,728 - INFO - Added article: 'Our Children Are Going to Pay the Price' – 'Unsus... to Business
+2025-08-18 21:05:47,728 - INFO - Added article: Trump Touts 'Baby Bonuses' as US Baby Bust Underwa... to Business
+2025-08-18 21:05:47,728 - INFO - [Business] Reached limit of 100 articles, moving to next topic...
+2025-08-18 21:05:47,728 - INFO - Processing topic: Health
+2025-08-18 21:05:48,021 - INFO - Added article: Warning issued over branded kids' magnesium gummie... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: Government turns to TikTokers to advise on cosmeti... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: Baby did not die due to mouldy flat, coroner finds... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: 'Chemo wrecked my teeth, I can't afford treatment'... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: 'Broken and burnt out': Nurse lifts lid on staffin... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: AI designs antibiotics for gonorrhoea and MRSA sup... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: What are UV levels and how can you protect yoursel... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: What does hot weather do to the body?... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: When is it too hot to walk your dog?... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: What to do if you think someone has heat exhaustio... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: What should you look for when choosing sunscreen?... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: Why are pollen levels making hay fever so bad this... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: How do heat health alerts work?... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: Why today's sunshine is more dangerous than normal... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: Hot weather: How to sleep in the heat... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: Lucy Letby's new expert supporters claim no babies... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: Drinks that make you chill - do they really do wha... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: A walk-in fishermen's clinic saved Tom from sepsis... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: Could RFK Jr's move to pull mRNA vaccine funding b... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: Why we need to talk about periods, breasts and inj... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: Students feel 'let down' by mental health support ... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: Babies made using three people's DNA are born free... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: NHS tracker - are hospital waiting times improving... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: Why are measles cases rising in the UK?... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: Alzheimer's has isolated us, says Fiona Phillips' ... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: Vaccine roll-outs cut deaths by 60% - study... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: South Africans fear spike in HIV infections as US ... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: Is RFK Jr's divisive plan to Make America Healthy ... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: How is your hospital doing as NHS battles to bring... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: Emma is doing something she swore she never would ... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: I lost £15,000 after going to an IVF middleman... to Health
+2025-08-18 21:05:48,021 - INFO - Added article: How to stay safe at festivals this summer... to Health
+2025-08-18 21:05:48,022 - INFO - Added article: Stop telling me to lower my cortisol - it's making... to Health
+2025-08-18 21:05:48,022 - INFO - Added article: 'Our sister died of cancer because of our mum's co... to Health
+2025-08-18 21:05:48,022 - INFO - Added article: How does a £1.6m fine affect an NHS trust?... to Health
+2025-08-18 21:05:48,022 - INFO - Added article: The teenage caffeine pouch trend troubling US expe... to Health
+2025-08-18 21:05:48,022 - INFO - Added article: Sleep, exercise, hydrate - do we really need to st... to Health
+2025-08-18 21:05:48,022 - INFO - Added article: Is the most expensive lip balm always the best?... to Health
+2025-08-18 21:05:48,022 - INFO - Added article: Ketamine helped me escape my negative thoughts - t... to Health
+2025-08-18 21:05:48,022 - INFO - Added article: The English neighbourhood that claims to hold the ... to Health
+2025-08-18 21:05:48,022 - INFO - Added article: Why are disposable vapes being banned and how harm... to Health
+2025-08-18 21:05:48,022 - INFO - Added article: Labour's plan for benefits throws up a bigger dile... to Health
+2025-08-18 21:05:48,022 - INFO - Added article: First place in British Isles set to approve right ... to Health
+2025-08-18 21:05:48,022 - INFO - Added article: Generation K: The disturbing rise of ketamine abus... to Health
+2025-08-18 21:05:48,022 - INFO - Added article: Assisted dying bill: What is in proposed law?... to Health
+2025-08-18 21:05:48,022 - INFO - Added article: 'My first cervical screening was over before I kne... to Health
+2025-08-18 21:05:48,022 - INFO - Added article: Is the system letting down people who were harmed ... to Health
+2025-08-18 21:05:48,022 - INFO - Added article: How will weight-loss drugs change our relationship... to Health
+2025-08-18 21:05:48,022 - INFO - Added article: NHS needs better plan around weight loss jabs, war... to Health
+2025-08-18 21:06:02,152 - INFO - Added article: RSV hospitalization rate for seniors is 10 times h... to Health
+2025-08-18 21:06:02,152 - INFO - Added article: Covid-19 boosters could keep thousands of kids out... to Health
+2025-08-18 21:06:02,152 - INFO - Added article: Experimental therapy gantenerumab fails to slow or... to Health
+2025-08-18 21:06:02,152 - INFO - Added article: US gets D+ grade for rising preterm birth rates, n... to Health
+2025-08-18 21:06:02,152 - INFO - Added article: Desperate for heart surgery for their baby, a fami... to Health
+2025-08-18 21:06:02,152 - INFO - Added article: Fuzzy first photo of a black hole gets a sharp mak... to Health
+2025-08-18 21:06:02,152 - INFO - Added article: Paper airplane breaks a world distance record... to Health
+2025-08-18 21:06:02,152 - INFO - Added article: This bat fossil could fill in a piece of the evolu... to Health
+2025-08-18 21:06:02,152 - INFO - Added article: How long you can use vintage Tupperware... to Health
+2025-08-18 21:06:02,152 - INFO - Added article: Why we have nightmares and how to stop them... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: Your guide to finding the right Theragun massage g... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: 8 activewear brands you should add to your workout... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: The best coupons at CVS Pharmacy... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: ... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: ... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: The planet is getting hotter fast. This is what ha... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: ... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: ... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: What a medication abortion is like, according to a... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: How to cool down without AC... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: The benefits of 'body doubling' when you have ADHD... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: ... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: If you think you can't focus for long, you're righ... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: ... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: ... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: ... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: What you should know if there's no sexual attracti... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: ... to Health
+2025-08-18 21:06:02,153 - INFO - Added article: ... to Health
+2025-08-18 21:06:04,065 - INFO - Added article: Cancer Diagnoses Skyrocketed In Recent Years And O... to Health
+2025-08-18 21:06:04,065 - INFO - Added article: VA Moves To Scrap Biden-Era Rule Forcing Taxpayers... to Health
+2025-08-18 21:06:04,065 - INFO - Added article: RFK Swears In Tech Expert Susan Monarez As CDC Dir... to Health
+2025-08-18 21:06:04,065 - INFO - Added article: Trump Admin Teams Up With Big Tech On Private Heal... to Health
+2025-08-18 21:06:04,065 - INFO - Added article: ‘Extinction-Level’: MAHA Warns Pesticide Immunity ... to Health
+2025-08-18 21:06:04,065 - INFO - Added article: Trump FDA Pushes For ‘Gas Station’ Opioid To Be Ad... to Health
+2025-08-18 21:06:04,065 - INFO - Added article: EXCLUSIVE: Republicans Strongly Agree With Trump T... to Health
+2025-08-18 21:06:04,065 - INFO - Added article: MAHA Sounds Alarm Over Pesticide Manufacturer Immu... to Health
+2025-08-18 21:06:04,065 - INFO - Added article: FDA Head To ‘Listen To Concerns’ Regarding Coerced... to Health
+2025-08-18 21:06:04,065 - INFO - Added article: Medical School Accreditors Surrender To Trump In B... to Health
+2025-08-18 21:06:04,065 - INFO - Added article: FDA Commissioner Says Fluoride In Water, Supplemen... to Health
+2025-08-18 21:06:04,065 - INFO - Added article: EXCLUSIVE: Sen. Cassidy Wants To Make Sure Medical... to Health
+2025-08-18 21:06:04,065 - INFO - Added article: Coca-Cola To Offer Cane Sugar Alternative After Tr... to Health
+2025-08-18 21:06:04,065 - INFO - Added article: Reforms Announced After Doctors Moved To Harvest O... to Health
+2025-08-18 21:06:04,066 - INFO - Added article: ‘Trojan Horse To Curtail Basic Democratic Freedoms... to Health
+2025-08-18 21:06:04,066 - INFO - Added article: Trump Says He Convinced Coca-Cola To Replace Corn ... to Health
+2025-08-18 21:06:04,066 - INFO - Added article: FDA Approves Gardenia Blue Color In Win For MAHA... to Health
+2025-08-18 21:06:04,066 - INFO - Added article: Conservative Watchdog Sues Feds For Concealing Bid... to Health
+2025-08-18 21:06:04,066 - INFO - Added article: Hershey To Axe Artificial Dyes By End Of 2027... to Health
+2025-08-18 21:06:04,066 - INFO - Added article: Trump Admin Gives Final Warning To Hospitals Flout... to Health
+2025-08-18 21:06:04,421 - INFO - Added article: I lost 126lbs taking part in The Biggest Loser-but... to Health
+2025-08-18 21:06:04,421 - INFO - Added article: Harvard doctor reveals shocking change to your FAC... to Health
+2025-08-18 21:06:04,421 - INFO - [Health] Reached limit of 100 articles, moving to next topic...
+2025-08-18 21:06:04,421 - INFO - Processing topic: Politics
+2025-08-18 21:06:04,782 - INFO - Added article: Starmer offers support and pragmatism ahead of Ukr... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: Sultana: Corbyn 'capitulated' on antisemitism defi... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: The Green Party is at a crossroads. Is it time the... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: First group of Gaza children to be brought to UK '... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: Politicians sign letter urging PM to 'act now' ove... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: Afghans resettled in UK hit by new data breach... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: UK trade envoy resigns over northern Cyprus visit... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: Nigel Farage urges PM to appoint Reform peers to H... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: Thousands cross Channel in small boats since new m... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: Charity boss offers Jenrick 'olive branch' over BB... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: Suspended Labour councillor cleared of encouraging... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: Sturgeon book reignites trans row with JK Rowling... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: 'No regrets' for Reform mayor Luke Campbell... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: MP's WhatsApp messages suspension to be lifted... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: Lib Dems call for law review after Palestine Actio... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: Epping hotel for migrants puts public at 'unaccept... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: England flags hung by locals taken down... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: More than 11,000 no-fault bailiff evictions in pas... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: UK economic growth slows but beats forecasts... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: Council asks public for ideas over £50m shortfall... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: Putin must 'prove he is serious about peace,' says... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: BBC apologises after Jenrick accused of xenophobia... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: Trial of Labour MP Tulip Siddiq begins in Banglade... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: I felt phenomenal shame about being sexually abuse... to Politics
+2025-08-18 21:06:04,783 - INFO - Added article: Are latest UK growth figures good or bad news for ... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: After mass arrests, what happens next with Palesti... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: Hackers, secret cables and security fears: The exp... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: What challenges will new guidance on ethnicity pos... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: What we learned from Nicola Sturgeon's memoir... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: What are the rules around police giving out a susp... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: Jeremy Corbyn's new party needs a name and it's tr... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: After 100 years, is Plaid Cymru on verge of leadin... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: What does recognising a Palestinian state mean?... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: The delicate politics behind the UK's move on Pale... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: How many new homes in your area after Labour's fir... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: Chris Mason: Trump visit provides Starmer with inv... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: Can Starmer's Palestinian pledge be more than symb... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: Scotland gives Trump three things he likes - and o... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: Could Jeremy Corbyn's new party shake up politics?... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: Chris Mason: Why Labour had little choice but to s... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: Starmer stamps authority with MP suspensions, but ... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: Starmer and Macron plead for patience in an impati... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: Migrant deal will be seen as failure if numbers do... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: 'Thank you, but it's too late': Why some Palestini... to Politics
+2025-08-18 21:06:04,784 - INFO - Added article: Who is in charge? The prime minister's authority i... to Politics
+2025-08-18 21:06:07,276 - INFO - Added article: Newsom Says He Will 'END THE TRUMP PRESIDENCY', Re... to Politics
+2025-08-18 21:06:07,276 - INFO - Added article: Amid Sharp Increase in Cannabis Poisonings, Trump ... to Politics
+2025-08-18 21:06:07,276 - INFO - Added article: Tim Scott's Recipe for Greatness? Remember America... to Politics
+2025-08-18 21:06:07,277 - INFO - Added article: Trump Declares 'Liberation Day' in DC, Takes Feder... to Politics
+2025-08-18 21:06:07,277 - INFO - Added article: Congress to Subpoena Bill and Hillary Clinton in J... to Politics
+2025-08-18 21:06:07,277 - INFO - Added article: Texas Gov. Abbott Aims to Arrest Democrats Who Fle... to Politics
+2025-08-18 21:06:07,277 - INFO - Added article: Trump Hints at Tariff Rebate as Prices Set to Rise... to Politics
+2025-08-18 21:06:07,277 - INFO - Added article: Ex-Trump Prosecutor Jack Smith Faces Investigation... to Politics
+2025-08-18 21:06:07,277 - INFO - Added article: Faith Leaders Ask Trump to Protect States' Rights ... to Politics
+2025-08-18 21:06:07,277 - INFO - Added article: HUD Secretary Turner Is Helping Rescue Teens Who F... to Politics
+2025-08-18 21:06:07,277 - INFO - Added article: Trump Reveals New Details About Epstein Connection... to Politics
+2025-08-18 21:06:07,277 - INFO - Added article: Speaker Mike Johnson to CBN News: Big Beautiful Bi... to Politics
+2025-08-18 21:06:07,277 - INFO - Added article: Latest on Epstein Files as Trump Admin Accuses Oba... to Politics
+2025-08-18 21:06:07,277 - INFO - Added article: A Spat or Worse? Trump and MAGA Marriage on the Ro... to Politics
+2025-08-18 21:06:07,277 - INFO - Added article: Exclusive: House Speaker Johnson Willing to Subpoe... to Politics
+2025-08-18 21:06:07,277 - INFO - Added article: Military Recruitment Goes from Crisis to Comeback,... to Politics
+2025-08-18 21:06:07,277 - INFO - Added article: Congress Calls for Transparency on the Epstein Fil... to Politics
+2025-08-18 21:06:07,277 - INFO - Added article: Trump Tries to Calm Epstein Controversy with Relea... to Politics
+2025-08-18 21:06:07,277 - INFO - Added article: President Trump Diagnosed With Chronic Venous Insu... to Politics
+2025-08-18 21:06:07,277 - INFO - Added article: Republicans Move to Make Some DOGE Cuts Permanent,... to Politics
+2025-08-18 21:06:08,738 - INFO - Added article: How Kyrsten Sinema's decision makes Democrats' 202... to Politics
+2025-08-18 21:06:08,738 - INFO - Added article: Meet the woman steering Biden's bipartisan winning... to Politics
+2025-08-18 21:06:08,738 - INFO - Added article: CNN Political Briefing... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: The Axe Files with David Axelrod... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: Margins of Error... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: The notable legal clouds that continue to hang ove... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: The fine print of the Respect for Marriage Act... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: Everything you need to know about Biden's student ... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: Politics of the Day... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: 0% intro APR until 2024 is 100% insane... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: It's official: now avoid credit card interest into... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: Experts: this is the best cash back card of 2022... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: Turn Your Rising Home Equity Into Cash You Can Use... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: Dream Big with a Home Equity Loan... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: Want Cash Out of Your Home? Here Are Your Best Opt... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: Use the Right Card for Holiday Gifts (Save Hundred... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: 10 Cards Charging 0% Interest Until 2024... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: Get a $200 Cash Back Bonus on Holiday Gift Buying... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: ... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: ... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: ... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: ... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: ... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: ... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: ... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: ... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: ... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: ... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: ... to Politics
+2025-08-18 21:06:08,739 - INFO - Added article: ... to Politics
+2025-08-18 21:06:09,199 - INFO - Added article: School With Pro-Trans Policy Reportedly Suspends B... to Politics
+2025-08-18 21:06:09,200 - INFO - Added article: Jeanine Pirro Announces Feds Nabbed Suspect Who Th... to Politics
+2025-08-18 21:06:09,200 - INFO - Added article: Top California Dem Lawmaker Reportedly Had House S... to Politics
+2025-08-18 21:06:09,200 - INFO - Added article: Socialist Minneapolis Mayoral Candidate Has Rally ... to Politics
+2025-08-18 21:06:09,200 - INFO - Added article: ‘Hell No’: Why Some Californians Want Zero Part In... to Politics
+2025-08-18 21:06:09,200 - INFO - [Politics] Reached limit of 100 articles, moving to next topic...
+2025-08-18 21:06:09,200 - INFO - Marked 300 articles as seen
+2025-08-18 21:06:09,205 - INFO - Business: 100 articles
+2025-08-18 21:06:09,205 - INFO - Health: 100 articles
+2025-08-18 21:06:09,205 - INFO - Politics: 100 articles
+2025-08-18 21:06:09,205 - INFO - SUCCESS: Found 300 new articles
+2025-08-18 21:06:09,206 - INFO - ARTICLES BY TOPIC:
+2025-08-18 21:06:09,206 - INFO -   Business: 100 articles
+2025-08-18 21:06:09,206 - INFO -   Health: 100 articles
+2025-08-18 21:06:09,206 - INFO -   Politics: 100 articles
+2025-08-18 21:06:09,206 - INFO - ============================================================
+2025-08-18 21:06:09,206 - INFO - DATABASE STATISTICS:
+2025-08-18 21:06:09,206 - INFO -   Total articles in database: 300
+2025-08-18 21:06:09,206 - INFO -   Articles marked as seen: 300
+2025-08-18 21:06:09,206 - INFO -   Articles not yet seen: 0
+2025-08-18 21:06:09,206 - INFO -   Articles by topic in database:
+2025-08-18 21:06:09,206 - INFO -     Business: 100 articles
+2025-08-18 21:06:09,207 - INFO -     Health: 100 articles
+2025-08-18 21:06:09,207 - INFO -     Politics: 100 articles
+2025-08-18 21:06:09,208 - INFO - Commercial output saved to: commercial_articles_output.json
+2025-08-18 21:06:09,208 - INFO - ============================================================
+2025-08-18 21:06:09,208 - INFO - PERFORMANCE SUMMARY:
+2025-08-18 21:06:09,208 - INFO -   Total processing time: 23.60 seconds
+2025-08-18 21:06:09,208 - INFO -   Articles processed: 300
+2025-08-18 21:06:09,208 - INFO -   Processing rate: 12.71 articles/second
+2025-08-18 21:06:09,208 - INFO - ============================================================
+2025-08-18 21:06:09,208 - INFO - COMMERCIAL RSS FEED MONITOR - COMPLETE
+2025-08-18 21:06:09,208 - INFO - ============================================================
