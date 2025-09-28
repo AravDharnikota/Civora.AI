@@ -1,0 +1,21 @@
+{
+  "article_url": "https://www.yahoo.com/news/politics/",
+  "article_title": "Politics",
+  "scraped_at": "2025-09-28T13:03:12.066070",
+  "images": [
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/erIcqJ4TlTy1c4hcJlOJRQ--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cbs_news_897/3ff0f1412081b075a0052917030bd58e.cf.webp",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/ce955d4cc326ce28f766a0b84dcfdfda.webp"
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/aNueDDraqRuLybJMiH5Eww--~B/Zmk9Zml0O2g9ODA7cHlvZmY9MDt3PTgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2020-11/ec491b50-2b0f-11eb-bbff-a10db874d9ea.cf.webp",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c63ad27d655e5989cdb7fa688f2197b9.webp"
+    }
+  ]
+}

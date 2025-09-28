@@ -1,0 +1,21 @@
+{
+  "article_url": "https://www.nytimes.com/2025/09/28/us/politics/federal-government-shutdown-trump.html",
+  "article_title": "With Scant Information, Federal Workers Brace for Possible Shutdown",
+  "scraped_at": "2025-09-28T13:01:22.180561",
+  "images": [
+    {
+      "src": "https://static01.nyt.com/images/2025/09/28/multimedia/28dc-federal-government-pmbc/28dc-federal-government-pmbc-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "alt": "",
+      "title": "",
+      "caption": "With days left before the government runs out of money at 12:01 a.m. on Wednesday, federal workers are largely still in the dark about what to expect.Credit...Eric Lee for The New York Times",
+      "downloaded_path": "scraped_news/images/83292925b72b12111c8a189bb21a1626.webp"
+    },
+    {
+      "src": "https://static01.nyt.com/images/2019/12/13/reader-center/author-eileen-sullivan/author-eileen-sullivan-thumbLarge-v2.png",
+      "alt": "Eileen Sullivan",
+      "title": "Eileen Sullivan",
+      "caption": "T.S.A. agents working at Reagan National Airport in December 2018, during the last government shutdown. Employees of the Transportation Security Administration are considered essential, and may have to work without pay during a shutdown.Credit...Manuel Balce Ceneta/Associated Press",
+      "downloaded_path": "scraped_news/images/578328be726fee8390f32afb49d92f95.png"
+    }
+  ]
+}

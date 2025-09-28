@@ -1,0 +1,21 @@
+{
+  "article_url": "https://www.usatoday.com/news/politics/",
+  "article_title": "Politics",
+  "scraped_at": "2025-09-28T13:02:32.797659",
+  "images": [
+    {
+      "src": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/28/USAT/86408786007-washington-monument-trash-shutdown.jpg?crop=6657",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": null
+    },
+    {
+      "src": "https://www.usatoday.com/gciaf/prod/p?a=pageview&p=USAT-TEALIUM-TANGENT&m=web&k=f14ebdd6-0569-4c64-af73-99937bc06379&s=noscript",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/2b8a810ff6d7423b1dc7cc0fa26be6c5.gif"
+    }
+  ]
+}

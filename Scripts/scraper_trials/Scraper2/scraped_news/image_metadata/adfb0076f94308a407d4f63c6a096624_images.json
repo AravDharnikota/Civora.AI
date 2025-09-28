@@ -1,0 +1,133 @@
+{
+  "article_url": "https://www.yahoo.com/news/",
+  "article_title": "Yahoo News",
+  "scraped_at": "2025-09-28T13:03:07.569511",
+  "images": [
+    {
+      "src": "https://www.yahoo.com/info/p.gif?apptype=default&beaconType=noJSenabled&code=pageRender&bucket=prebid-ver9-53update-test%2Cprebid-bidderconfig-addappnxs-ctrl%2Cseamless&device=desktop&intl=us&rid=7e91d49kdj53r&site=news&t=1759089787210",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": null
+    },
+    {
+      "src": "https://www.yahoo.com/info/p.gif?apptype=default&beaconType=pageRenderStart&code=pageRender&bucket=prebid-ver9-53update-test%2Cprebid-bidderconfig-addappnxs-ctrl%2Cseamless&device=desktop&intl=us&rid=7e91d49kdj53r&site=news&t=1759089787210",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": null
+    },
+    {
+      "src": "https://s.yimg.com/dv/static/siteApp/img/privacy-choice-control.png",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/3dc92e3fa15b6538181717395cfe13ec.png"
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/JBe7GeLSC.cP4FwMlzsDDQ--~B/Zmk9c3RyaW07aD0yNzI7cT05NTt3PTU2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/b6ce5530-9c8e-11f0-bf8f-344764e2c07b.cf.webp",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/2dc7cfa1b75f68fbdd878a5eef4098d8.webp"
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/PiCh5M7ils9TZVHgZ68P8g--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/a13dfe70a6541c5a731bde4edb9e94f2.cf.webp",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/343df5008f306c9bfb936e7742e94411.webp"
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/N5RbarL7WCrmrqaD46KVeA--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/121b10c0-9c91-11f0-bbfb-2f179b74dbb4.cf.webp",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/924b4c2255d1076f80c15badc3bf441d.webp"
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/WYytJnFhhywMmJVyiTLjMA--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/95c1710f3049340a7a094b2647e321bd.cf.webp",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/141f278c8064ee5f355a4219e926ab26.webp"
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/3fTTNoCXE.eQDc2.RlL2Vw--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/e977b8a0-9c66-11f0-bddf-5d1ddfe3997f.cf.webp",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/109c4a116828fdd97f12480d1ce4d67a.webp"
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/uo3_IZ2fbcvjNhFRTOinug--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/us.abcnews.gma.com/097095e412fadc9dd27d7f4b644b2a2c.cf.webp",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/bfc78299b125544ff0c2fc14607a2eed.webp"
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/vmcQ76PAyfHuHTHNaj_jww--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/ee1826315fd40963e5cc7c0d0a2d92cc.cf.webp",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/1a9b84ceb0e10377cc32a5fcaefe29a0.webp"
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/JaTUdwM5bLTr8xS3hSt1JQ--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/jerusalem_post_articles_818/fd92359b8febc9fa3f8bc77bfffa499e.cf.webp",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/bce3dcc058c1f4fae40dbfc9e112edc1.webp"
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/nuaYMKp9OhE4UxE2mKXCfg--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_peoples_person_articles_356/6f7cc09a4c0ba215b44e670dc88804b2.cf.webp",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/0b250b7d4e8fbbb15342e4d879a4e58d.webp"
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/tfdx84Sn1nHJhUjQE9qtuw--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/bc7d177bbd9c396a855e63c51080c62d.cf.webp",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c44fd4700c6b559e83c2f9f62d571b26.webp"
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/jjcfWL30gR4.xCAxgTDxlA--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thewrap.com/d0000e5318696cea68c13e4ff8dcb63d.cf.webp",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b42936ba188026c1c288e07339c11344.webp"
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/C6oIwZSG84kb0SzWqxKiVg--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/moneywise_327/9cd50b2869d534b5629a08c45ca0165f.cf.webp",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/35583bc1f806a4ba4fa4846fd3c5e022.webp"
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/r6YyAmxqqrRaxBC0ulPdHQ--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/84cb6eaa3e67baeaba36d02fe5b7b875.cf.webp",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/66a70a2944458a2ce97efc8feefc56f7.webp"
+    },
+    {
+      "src": "https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197800621&c7=https%3A%2F%2Fwww.yahoo.com%2Fnews%2F&c14=-1",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/3bfbfdad08cc78c50fa865755cf80785.gif"
+    },
+    {
+      "src": "https://www.yahoo.com/info/p.gif?apptype=default&beaconType=pageRenderEnd&code=pageRender&bucket=prebid-ver9-53update-test%2Cprebid-bidderconfig-addappnxs-ctrl%2Cseamless&device=desktop&intl=us&rid=7e91d49kdj53r&site=news&t=1759089787213",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": null
+    }
+  ]
+}

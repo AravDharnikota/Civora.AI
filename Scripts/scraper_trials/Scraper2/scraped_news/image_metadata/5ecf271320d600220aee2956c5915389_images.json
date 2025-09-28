@@ -1,0 +1,49 @@
+{
+  "article_url": "https://www.cnbc.com/pro/news/",
+  "article_title": "Pro News and Analysis",
+  "scraped_at": "2025-09-28T13:01:40.369838",
+  "images": [
+    {
+      "src": "https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg",
+      "alt": "CNBC",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/22a2fc674105d8e4cba50a28e0f39c4a.svg"
+    },
+    {
+      "src": "https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg",
+      "alt": "logo",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/05998bcc00791ecd1197bf81803324d2.svg"
+    },
+    {
+      "src": "https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg",
+      "alt": "Join IC",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/8653855bf92d67c676bf94a5e69d4e78.svg"
+    },
+    {
+      "src": "https://static-redesign.cnbcfm.com/dist/69ae09b80acd376e9c97.svg",
+      "alt": "Join Pro",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e4a6068b3f210f8c867f7fb1d2ce40a8.svg"
+    },
+    {
+      "src": "https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg",
+      "alt": "California Consumer Privacy Act (CCPA) Opt-Out Icon",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/89274c2ad894e10d9d75098f01bb4fd1.svg"
+    },
+    {
+      "src": "https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg",
+      "alt": "Reuters logo",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/72fdad94708d656febc2a3135c17c083.svg"
+    }
+  ]
+}

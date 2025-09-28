@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Main algorithm module for Civora
-"""
-
 import sys
 import os
 
@@ -23,7 +18,7 @@ def main():
     """Main function to run the article clustering algorithm"""
     
     # Define file paths
-    articles_file = '/Users/arav/Documents/Civora/Scripts/article_sim_trials/iter_4/articles.txt'
+    articles_file = '/Users/arav/Documents/Civora/core_algo/synthetic_news_realistic_scored.json'
     system_prompt_file = '/Users/arav/Documents/Civora/Scripts/article_sim_trials/iter_2/system_prompt.txt'
     
     # Cluster articles with default threshold of 0.7

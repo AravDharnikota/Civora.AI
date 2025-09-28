@@ -1,0 +1,63 @@
+{
+  "article_url": "https://www.cbsnews.com/detroit/news/grand-blanc-michigan-church-shooting-fire/",
+  "article_title": "At least 2 killed, 8 injured in shooting at Michigan church; suspect dead, police say",
+  "scraped_at": "2025-09-28T13:01:35.660709",
+  "images": [
+    {
+      "src": "https://www.cbsnews.com/assets/show/detroit/logo-square-32.svg",
+      "alt": "detroit",
+      "title": "",
+      "caption": "At least 1 killed, others seriously hurt in Michigan church shooting | Special Report17:12",
+      "downloaded_path": "scraped_news/images/939c3c2706a1e927b8e7af18d81d1efb.svg"
+    },
+    {
+      "src": "https://assets1.cbsnewsstatic.com/hub/i/2025/09/28/0b58db79-332a-4d90-a184-2b03265d3846/cbsn-fusion-1-killed-others-seriously-hurt-in-michigan-church-shooting-special-report-thumbnail.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "At least 1 killed, others seriously hurt in Michigan church shooting | Special Report17:12",
+      "downloaded_path": "scraped_news/images/bd9cbbddc978d9e7c4b4a9655f2708a6.webp"
+    },
+    {
+      "src": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/28/d351c898-4964-4482-9521-c548df51d834/thumbnail/620x418/0653c5e145535d19dd16f6d511d31d05/screenshot-20250928-112728.png",
+      "alt": "screenshot-20250928-112728.png ",
+      "title": "",
+      "caption": "Smoke rises from The Church of Jesus Christ of Latter-day Saints in Grand Blanc, Michigan, on Sept. 28, 2025. Police said there were multiple victims in a shooting at the church.CBS News Detroit",
+      "downloaded_path": "scraped_news/images/e24e530d2e858b5af19cb82828d26af8.webp"
+    },
+    {
+      "src": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/28/d8ede0ac-9251-416e-8447-c45535bc1024/thumbnail/96x96/13a296245141bf16e4128871534752e9/american-fish-company-wncn.png",
+      "alt": "3 dead, at least 8 injuries in shooting at North Carolina waterfront bar ",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/99258f9495d29a14c7146bed07e25858.webp"
+    },
+    {
+      "src": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/03/d275156d-491e-4a70-b939-a948789a490c/thumbnail/96x96/84981706b0b092ed2e9440699e06d515/ap23245836225752.jpg",
+      "alt": "Lawsuit: Ohio cop who shot pregnant mom \"recklessly escalated\" response ",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b0105932e1078b2b270e4781406574d5.webp"
+    },
+    {
+      "src": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/26/1c892758-d66e-4d74-8a4a-e54f5efbdd01/thumbnail/96x96/6f92f842dc5987f6019b8c817e3438bc/gettyimages-693759058.jpg",
+      "alt": "A grand jury charged Comey with 2 counts — but rejected a third. Here's what they say. ",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/37e4d13545d69878c0c0a522886eb69f.webp"
+    },
+    {
+      "src": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/26/d383f059-87e3-4b35-b17d-4f49f9f1ce6c/thumbnail/96x96/95bc0411c17069fc96a2c23312649ea1/tropical-outlook.png",
+      "alt": "Tropical Storm Imelda forms in the Atlantic, could threaten Southeast ",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/0f267d076d0be7cb33554ca7570593e4.webp"
+    },
+    {
+      "src": "https://assets3.cbsnewsstatic.com/hub/i/r/2021/07/15/602d0f14-2a7a-4c4c-8045-0a7c469e9f7e/thumbnail/96x96/9020c61d2a65d78de9d46593bea975a9/gettyimages-1228990511.jpg",
+      "alt": "Hikers \"had to fight off\" attacking bear, Alaska officials say ",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/1cd11de5a25f64fd310378b9749e5449.webp"
+    }
+  ]
+}

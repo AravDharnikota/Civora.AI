@@ -1,0 +1,14 @@
+{
+  "article_url": "https://www.cnn.com/2025/09/28/politics/trump-ai-medbed-conspiracy-theory",
+  "article_title": "Trump shares apparent AI video promoting ‘medbed’ conspiracy theory",
+  "scraped_at": "2025-09-28T13:01:47.757128",
+  "images": [
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-26t135726z-604241-rc2pzgadqpl6-rtrmadp-3-usa-trump.jpg?c=original&q=w_860",
+      "alt": "President Donald Trump speaks to the media before departing from the White House on September 26, 2025.",
+      "title": "",
+      "caption": "Jonathan Ernst/Reuters",
+      "downloaded_path": "scraped_news/images/347fd9eff8721f7a0d2f45a96a079c57.jpg"
+    }
+  ]
+}

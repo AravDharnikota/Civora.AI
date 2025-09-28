@@ -1,0 +1,329 @@
+{
+  "article_url": "https://www.cnn.com/2025/09/26/politics/james-comey-indictment-trump-prosecution",
+  "article_title": "Inside the seven tumultuous days that led to the James Comey indictment",
+  "scraped_at": "2025-09-28T13:01:42.269439",
+  "images": [
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/still-21981785-15848-134999999998-still.jpg?c=16x9",
+      "alt": "still_21981785_15848.134999999998_still.jpg",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/e9ab5a39fdc5fc535b652adc9581ec67.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/still-21981785-15848-134999999998-still.jpg?c=16x9&q=w_860",
+      "alt": "still_21981785_15848.134999999998_still.jpg",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/8a2b909ab419d6e4138a80df85eb4983.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/still-21981785-15848-134999999998-still.jpg?c=16x9&q=w_250",
+      "alt": "still_21981785_15848.134999999998_still.jpg",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/bc0323a99ffe73a06acdf86266a3d840.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/jeffries-20250927020946361.jpg?c=16x9&q=w_250",
+      "alt": "jeffries.jpg",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/646da32541bcefc40fac9e6be698a20f.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/jeffries-20250927020946361.jpg?c=16x9&q=w_860",
+      "alt": "jeffries.jpg",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/255160cc9e3a05b354cdbb970858ca66.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2237532418.jpg?c=16x9&q=w_250",
+      "alt": "President Donald Trump speaks to members of the media as he departs the White House on September 26, 2025.",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/b49b3755771dacd9903bbd96c1908053.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2237532418.jpg?c=16x9&q=w_860",
+      "alt": "President Donald Trump speaks to members of the media as he departs the White House on September 26, 2025.",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/a087963b493a8df09f80a03930bf2d10.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/20250925-polantz-comey.jpg?c=16x9&q=w_250",
+      "alt": "20250925-polantz_comey.jpg",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/ebcdd716aaccccabc97069d26a4f134c.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/20250925-polantz-comey.jpg?c=16x9&q=w_860",
+      "alt": "20250925-polantz_comey.jpg",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/71e96f58e49c5dafecb421576f774541.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/2still-21974468-1393946-8841000001-still.jpg?c=16x9&q=w_250",
+      "alt": "Arnold Schwarzenegger talks to CNN on Wednesday, September 24.",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/c772b61fcba91d154a0a48b1f99464ac.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/2still-21974468-1393946-8841000001-still.jpg?c=16x9&q=w_860",
+      "alt": "Arnold Schwarzenegger talks to CNN on Wednesday, September 24.",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/061ee57e0d5024afc355e7e7701fa87f.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/114149-kaitlanautopenportrait-hz-thumb-clean-20250924222043383.png?c=16x9&q=w_250",
+      "alt": "114149_KaitlanAutopenPortrait HZ THUMB CLEAN.png",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/ccf6846457856aeacd1496eb37cbf142.png"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/114149-kaitlanautopenportrait-hz-thumb-clean-20250924222043383.png?c=16x9&q=w_860",
+      "alt": "114149_KaitlanAutopenPortrait HZ THUMB CLEAN.png",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/af3ad7b1b0236560492820628a5c53e6.png"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/21974143-npw-nato-thumbnail-2.jpg?c=16x9&q=w_250",
+      "alt": "21974143 - NPW_NATO thumbnail 2.jpg",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/e62526d083dabbd07408db7b1782e226.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/21974143-npw-nato-thumbnail-2.jpg?c=16x9&q=w_860",
+      "alt": "21974143 - NPW_NATO thumbnail 2.jpg",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/947e4494c3f99f94322e8eaa966575ff.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/statue-wide.jpg?c=16x9&q=w_250",
+      "alt": "statue wide.jpg",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/71d547a3df045ad05d4d8fc6561f8faa.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/statue-wide.jpg?c=16x9&q=w_860",
+      "alt": "statue wide.jpg",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/64c828e8129f2e9d3dac0586cff84402.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/trump-rfk-oz-clean-thumb.jpg?c=16x9&q=w_250",
+      "alt": "trump rfk oz clean thumb.jpg",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/54be7ad340299419289dfde449a1cbb8.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/trump-rfk-oz-clean-thumb.jpg?c=16x9&q=w_860",
+      "alt": "trump rfk oz clean thumb.jpg",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/67aadad4a2c0d8667f948725259ac873.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/2025-08-13t140302z-1811599441-rc2d6gapke0v-rtrmadp-3-usa-trump.JPG?c=16x9&q=w_250",
+      "alt": "White House border czar Tom Homan speaks to reporters at the White House in Washington, D.C., U.S., August 13, 2025.",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/78b85cf229416a55ecf39c6f40b148db.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/2025-08-13t140302z-1811599441-rc2d6gapke0v-rtrmadp-3-usa-trump.JPG?c=16x9&q=w_860",
+      "alt": "White House border czar Tom Homan speaks to reporters at the White House in Washington, D.C., U.S., August 13, 2025.",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/892f7db96297109733f356fc3419e0dd.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2151496518.jpg?c=16x9&q=w_250",
+      "alt": "Jimmy Kimmel is seen during his show on May 7, 2025.",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/672600fcb557bb3cc861b3ca7de9428e.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2151496518.jpg?c=16x9&q=w_860",
+      "alt": "Jimmy Kimmel is seen during his show on May 7, 2025.",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/0bc58d5a2e3748a4a5ead92b06872a6f.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/95525929-17250667-generated-thumbnail.jpg?c=16x9&q=w_250",
+      "alt": "<p>President Donald Trump describes the moment he was told about right-wing political activist Charlie Kirk's death.</p>",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/3ff0fe35f6b3cf3c3f270c4c5870c5ff.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/95525929-17250667-generated-thumbnail.jpg?c=16x9&q=w_860",
+      "alt": "<p>President Donald Trump describes the moment he was told about right-wing political activist Charlie Kirk's death.</p>",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/edecc894ad4eb98fd5dc3d63b75b7760.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235639645.jpg?c=16x9&q=w_250",
+      "alt": "A demonstrator holds a sign reading \"Protect Free Speech\" outside the El Capitan Theatre, home of \"Jimmy Kimmel Live!,\" on Hollywood Boulevard in Hollywood, Calif., Thursday, Sept. 18, 2025. Protesters gathered after ABC suspended the late-night show, calling it an attack on free expression. (Photo by David Pashaee / Middle East Images via AFP) (Photo by DAVID PASHAEE/Middle East Images/AFP via Getty Images)          ",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/05d51d02c5891c6b6482bb54d702dd62.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235639645.jpg?c=16x9&q=w_860",
+      "alt": "A demonstrator holds a sign reading \"Protect Free Speech\" outside the El Capitan Theatre, home of \"Jimmy Kimmel Live!,\" on Hollywood Boulevard in Hollywood, Calif., Thursday, Sept. 18, 2025. Protesters gathered after ABC suspended the late-night show, calling it an attack on free expression. (Photo by David Pashaee / Middle East Images via AFP) (Photo by DAVID PASHAEE/Middle East Images/AFP via Getty Images)          ",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/d1cae710c2a3fdd3237cd38f7ef34f2e.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-18t144405z-687246753-rc2euga6wgpj-rtrmadp-3-usa-trump-britain.JPG?c=16x9&q=w_250",
+      "alt": "U.S. President Donald Trump talks at a press conference with UK Prime Minister Keir Starmer (not pictured) at Chequers at the conclusion of a state visit on September 18, 2025 in Aylesbury, England. Leon Neal/Pool via REUTERS",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/2ee62ea027c372c88e39a6d912a60ada.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-18t144405z-687246753-rc2euga6wgpj-rtrmadp-3-usa-trump-britain.JPG?c=16x9&q=w_860",
+      "alt": "U.S. President Donald Trump talks at a press conference with UK Prime Minister Keir Starmer (not pictured) at Chequers at the conclusion of a state visit on September 18, 2025 in Aylesbury, England. Leon Neal/Pool via REUTERS",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/bc6654ca2b31a67d251f02fda8294bf3.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/20250918-trump-kimmel.jpg?c=16x9&q=w_250",
+      "alt": "20250918-trump_kimmel.jpg",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/23619c484c15d922eada8418ceeeac01.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/20250918-trump-kimmel.jpg?c=16x9&q=w_860",
+      "alt": "20250918-trump_kimmel.jpg",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/7dbd1aed21e913f6b50cfb2856053eae.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/dr-kulldroff-still-1.png?c=16x9&q=w_250",
+      "alt": "Dr. Kulldroff - Still 1.png",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/1dacd560adc634507cefaebc1079ce50.png"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/dr-kulldroff-still-1.png?c=16x9&q=w_860",
+      "alt": "Dr. Kulldroff - Still 1.png",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/118b39a0c62472fc3c12d0e0a3f33d4e.png"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/20250918-trump-putin.jpg?c=16x9&q=w_250",
+      "alt": "20250918-trump_putin.jpg",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/72967a8392c1cfeb401697428319faed.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/20250918-trump-putin.jpg?c=16x9&q=w_860",
+      "alt": "20250918-trump_putin.jpg",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/6054de565c96170a712e2c0e2a4a1c09.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/rand-thumb.png?c=16x9&q=w_250",
+      "alt": "Rand thumb.png",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/7d4b593306dc92c2faf71932b28547b1.png"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/rand-thumb.png?c=16x9&q=w_860",
+      "alt": "Rand thumb.png",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/7fb068c6c97457ceb684279c5ef810c4.png"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-17t162759z-1382543922-rc2stgan2udo-rtrmadp-3-usa-trump-justice-patel.jpg?c=16x9&q=w_250",
+      "alt": "U.S. Representative Pramila Jayapal (D-WA) speaks during a House Judiciary Committee hearing with FBI Director Kash Patel (not pictured), on Capitol Hill in Washington, D.C., U.S., September 17, 2025. REUTERS/Annabelle Gordon\r\r",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/50a0524c87b98180017bd1a683b3fd87.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-17t162759z-1382543922-rc2stgan2udo-rtrmadp-3-usa-trump-justice-patel.jpg?c=16x9&q=w_860",
+      "alt": "U.S. Representative Pramila Jayapal (D-WA) speaks during a House Judiciary Committee hearing with FBI Director Kash Patel (not pictured), on Capitol Hill in Washington, D.C., U.S., September 17, 2025. REUTERS/Annabelle Gordon\r\r",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/d3613e2f7abc9f302944a0e0733f222c.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/houry-thumb.png?c=16x9&q=w_250",
+      "alt": "Houry thumb.png",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/f031fd9826b7b19dde6632e7f39ea155.png"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/houry-thumb.png?c=16x9&q=w_860",
+      "alt": "Houry thumb.png",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/c019e40a33f56701e99c48464dc91f5b.png"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/monarez-frame-one.png?c=16x9&q=w_250",
+      "alt": "Monarez frame ONE.png",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/ee2c64665153a91350511feda032c406.png"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/monarez-frame-one.png?c=16x9&q=w_860",
+      "alt": "Monarez frame ONE.png",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/9e7a862f1f75c24dacf9a77afa165f66.png"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/ap25268834593153.jpg?c=16x9&q=h_720",
+      "alt": " FBI Director James Comey pauses as he testifies on Capitol Hill in Washington, May 3, 2017, before the Senate Judiciary Committee hearing: \"Oversight of the Federal Bureau of Investigation.\"",
+      "title": "",
+      "caption": "Carolyn Kaster/AP",
+      "downloaded_path": "scraped_news/images/7852c86255d90c3d5629affcafa47be8.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/still-21979842-4123944-667-still.jpg?c=16x9",
+      "alt": "still_21979842_4123944.667_still.jpg",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/69e4a9296c8e1735075312e312914ace.jpg"
+    },
+    {
+      "src": "https://media.cnn.com/api/v1/images/stellar/prod/still-21979842-4123944-667-still.jpg?c=16x9&q=w_860",
+      "alt": "still_21979842_4123944.667_still.jpg",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/65168f076e300b090d0c3f5e2af5dd0f.jpg"
+    }
+  ]
+}

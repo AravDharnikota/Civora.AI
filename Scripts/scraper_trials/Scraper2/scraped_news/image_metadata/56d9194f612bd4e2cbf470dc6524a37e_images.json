@@ -1,0 +1,42 @@
+{
+  "article_url": "https://www.nytimes.com/2025/09/27/us/politics/trump-comey-justice-department.html",
+  "article_title": "Inside the Trump Administration’s Push to Prosecute James Comey",
+  "scraped_at": "2025-09-28T13:01:23.657260",
+  "images": [
+    {
+      "src": "https://static01.nyt.com/images/2025/09/27/us/00dc-justice/00dc-justice-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "alt": "",
+      "title": "",
+      "caption": "Lindsey Halligan, the newly installed U.S. attorney for the Eastern District of Virginia, outside the White House last month.Credit...Jacquelyn Martin/Associated Press",
+      "downloaded_path": "scraped_news/images/ab56c236664ea9298324f9d3cad99160.webp"
+    },
+    {
+      "src": "https://static01.nyt.com/images/2022/01/06/reader-center/author-glenn-thrush/author-glenn-thrush-thumbLarge-v3.png",
+      "alt": "Glenn Thrush",
+      "title": "Glenn Thrush",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/50c67b587f89c4d9fa9dbb823fd4c47c.png"
+    },
+    {
+      "src": "https://static01.nyt.com/images/2018/07/12/multimedia/author-maggie-haberman/author-maggie-haberman-thumbLarge-v2.png",
+      "alt": "Maggie Haberman",
+      "title": "Maggie Haberman",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/eb87e136dbd839003a3e6d696edb4f50.png"
+    },
+    {
+      "src": "https://static01.nyt.com/images/2023/10/20/reader-center/author-alan-feuer/author-alan-feuer-thumbLarge.png",
+      "alt": "Alan Feuer",
+      "title": "Alan Feuer",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/508bdc8477c34399c43948e2162d4095.png"
+    },
+    {
+      "src": "https://static01.nyt.com/images/2025/02/14/reader-center/author-tyler-pager/author-tyler-pager-thumbLarge-v3.png",
+      "alt": "Tyler Pager",
+      "title": "Tyler Pager",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/821afb0bda04e045d86ee22cec40934e.png"
+    }
+  ]
+}

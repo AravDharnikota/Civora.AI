@@ -1,0 +1,21 @@
+{
+  "article_url": "https://www.thenation.com/article/society/memphis-lead-poisoning-trump-crime/",
+  "article_title": "Log In",
+  "scraped_at": "2025-09-28T13:01:20.443995",
+  "images": [
+    {
+      "src": "https://www.thenation.com/wp-content/uploads/2025/09/Memphis-Lead-Poisoning.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "An aerial view of houses that have had partial pipe replacements of their lead pipes in Memphis, Tennessee, in April 2024.(Kevin Wurm / Getty)",
+      "downloaded_path": "scraped_news/images/e28a1ddf4e957547461951429439cf38.jpg"
+    },
+    {
+      "src": "https://www.thenation.com/wp-content/uploads/2025/09/cover1025.jpg",
+      "alt": "Cover of October 2025 Issue",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/41d27bdf150b079039c31049099759ca.jpg"
+    }
+  ]
+}

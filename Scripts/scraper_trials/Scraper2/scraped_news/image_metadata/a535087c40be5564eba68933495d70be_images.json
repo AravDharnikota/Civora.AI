@@ -1,0 +1,21 @@
+{
+  "article_url": "https://www.yahoo.com/news/us/",
+  "article_title": "U.S.",
+  "scraped_at": "2025-09-28T13:03:10.275114",
+  "images": [
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/.bJXpuVJPT9SdNyq2FXc8w--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cbs_news_897/6a821aa73bcf7f122ef7421dae7797e4.cf.webp",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/06f70d0677cc4a58b0dac0913f0445b6.webp"
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/aNueDDraqRuLybJMiH5Eww--~B/Zmk9Zml0O2g9ODA7cHlvZmY9MDt3PTgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2020-11/ec491b50-2b0f-11eb-bbff-a10db874d9ea.cf.webp",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c63ad27d655e5989cdb7fa688f2197b9.webp"
+    }
+  ]
+}

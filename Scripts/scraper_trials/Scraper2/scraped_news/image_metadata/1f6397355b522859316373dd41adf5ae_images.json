@@ -1,0 +1,42 @@
+{
+  "article_url": "https://www.usatoday.com/news/nation/",
+  "article_title": "U.S. News",
+  "scraped_at": "2025-09-28T13:02:31.094873",
+  "images": [
+    {
+      "src": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/28/PDTF/86406495007-grand-blanc-1.jpg?crop=3023",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": null
+    },
+    {
+      "src": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/28/PDTF/86407576007-20250928-grand-blanc-shooting-fg-10.jpg?crop=2047",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": null
+    },
+    {
+      "src": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/28/NSTN/86400590007-img-0977.jpg?crop=5711",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": null
+    },
+    {
+      "src": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/28/USAT/86403499007-905696116.jpg?crop=1452",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": null
+    },
+    {
+      "src": "https://www.usatoday.com/gciaf/prod/p?a=pageview&p=USAT-TEALIUM-TANGENT&m=web&k=f14ebdd6-0569-4c64-af73-99937bc06379&s=noscript",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/2b8a810ff6d7423b1dc7cc0fa26be6c5.gif"
+    }
+  ]
+}

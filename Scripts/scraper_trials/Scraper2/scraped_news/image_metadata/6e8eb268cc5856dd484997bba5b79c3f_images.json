@@ -1,0 +1,21 @@
+{
+  "article_url": "https://www.theatlantic.com/politics/archive/2025/09/putin-trump-elections-autocrat/684298/",
+  "article_title": "The Race to Save America’s Democracy",
+  "scraped_at": "2025-09-28T13:00:52.511995",
+  "images": [
+    {
+      "src": "https://cdn.theatlantic.com/thumbor/Get6gDu07pBc2T4BOMniDfSqqm8=/0x0:2000x1125/960x540/media/img/mt/2025/09/2025_09_22_Kasparov_save_democracy_final-1/original.jpg",
+      "alt": "Illustration of the American flag cut out of an image of a sky",
+      "title": "",
+      "caption": "Illustration by Akshita Chandra / The Atlantic. Source: Detroit Publishing Co. / Library of Congress.",
+      "downloaded_path": "scraped_news/images/d732960df4dbf05056bef917b20e0c6c.webp"
+    },
+    {
+      "src": "https://cdn.theatlantic.com/thumbor/3zsSlCjh7ilffpLZEDrZgfVTX0Y=/438x0:1563x1125/80x80/media/img/mt/2025/09/2025_09_22_Kasparov_save_democracy_final-1/original.jpg",
+      "alt": "Illustration of the American flag cut out of an image of a sky",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4d47954526f06f7d40b7cef3f7194aa3.webp"
+    }
+  ]
+}

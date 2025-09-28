@@ -1,0 +1,860 @@
+{
+  "scraping_date": "20250928_130540",
+  "total_sites": 70,
+  "total_articles": 68,
+  "sites": {
+    "https://www.alternet.org/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.ap.org/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.theatlantic.com/politics": {
+      "articles_count": 3,
+      "images_count": 7,
+      "articles": [
+        {
+          "title": "The Race to Save America’s Democracy",
+          "url": "https://www.theatlantic.com/politics/archive/2025/09/putin-trump-elections-autocrat/684298/",
+          "author": null,
+          "word_count": 1211,
+          "images_count": 2
+        },
+        {
+          "title": "Charlie Kirk and the ‘Third Great Awakening’",
+          "url": "https://www.theatlantic.com/politics/archive/2025/09/charlie-kirk-spiritual-warfare/684389/",
+          "author": null,
+          "word_count": 1515,
+          "images_count": 3
+        },
+        {
+          "title": "How Charlie Kirk’s Death Will Change His Message",
+          "url": "https://www.theatlantic.com/politics/archive/2025/09/charlie-kirk-malcolm-x-martyr-political-violence/684355/",
+          "author": null,
+          "word_count": 1482,
+          "images_count": 2
+        }
+      ]
+    },
+    "https://www.thedailybeast.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.democracynow.org/topics/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.theguardian.com/us-news/us-politics": {
+      "articles_count": 3,
+      "images_count": 9,
+      "articles": [
+        {
+          "title": "Why Trump is backing Argentina’s Thatcherite economics",
+          "url": "https://www.theguardian.com/business/2025/sep/28/why-trump-is-backing-argentinas-thatcherite-economics",
+          "author": "Heather Stewart",
+          "word_count": 1119,
+          "images_count": 2
+        },
+        {
+          "title": "Why Trump is backing Argentina’s Thatcherite economics",
+          "url": "https://www.theguardian.com/business/2025/sep/28/why-trump-is-backing-argentinas-thatcherite-economics#comments",
+          "author": "Heather Stewart",
+          "word_count": 1119,
+          "images_count": 2
+        },
+        {
+          "title": "As my daughter got sicker and sicker, our quest for answers dragged on. How did we all miss the bacteria taking over her body?",
+          "url": "https://www.theguardian.com/world/2025/sep/28/as-my-daughter-got-sicker-and-sicker-our-quest-for-answers-dragged-on-how-did-we-all-miss-the-bacteria-taking-over-her-body",
+          "author": "Patrick Barkham",
+          "word_count": 4096,
+          "images_count": 5
+        }
+      ]
+    },
+    "https://www.huffpost.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.theintercept.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.jacobin.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.motherjones.com/politics": {
+      "articles_count": 3,
+      "images_count": 3,
+      "articles": [
+        {
+          "title": "New York City’s Eric Adams Era Is Over",
+          "url": "https://www.motherjones.com/politics/2025/09/new-york-citys-eric-adams-era-is-over/",
+          "author": "Julianne McShane",
+          "word_count": 833,
+          "images_count": 1
+        },
+        {
+          "title": "Trump Says He’ll Send Troops to Portland and Sanction “Full Force” Against Americans",
+          "url": "https://www.motherjones.com/politics/2025/09/trump-us-troops-military-portland-oregon-full-force-truth-social/",
+          "author": "Ari Berman",
+          "word_count": 472,
+          "images_count": 1
+        },
+        {
+          "title": "New Hampshire and Vermont Could be Next to Introduce “Balcony Solar”",
+          "url": "https://www.motherjones.com/politics/2025/09/new-hampshire-vermont-bill-cheap-balcony-solar-plug/",
+          "author": "Sarah Shemkus",
+          "word_count": 1113,
+          "images_count": 1
+        }
+      ]
+    },
+    "https://www.msnbc.com/politics": {
+      "articles_count": 3,
+      "images_count": 6,
+      "articles": [
+        {
+          "title": "How Trump's new U.S. attorney got Comey indicted — by herself",
+          "url": "https://www.msnbc.com/msnbc/news/trump-james-comey-indictment-us-attorney-lindsey-halligan-rcna233853",
+          "author": null,
+          "word_count": 760,
+          "images_count": 3
+        },
+        {
+          "title": "Republicans guaranteed a shutdown this fall when they sided with Trump",
+          "url": "https://www.msnbc.com/news/news-analysis/democrats-shutdown-trump-rescissions-spending-rcna233554",
+          "author": null,
+          "word_count": 865,
+          "images_count": 1
+        },
+        {
+          "title": "TikTok is the latest example of the U.S. government taking a cut of business deals",
+          "url": "https://www.msnbc.com/news/news-analysis/trump-tiktok-deal-oracle-government-business-rcna233797",
+          "author": null,
+          "word_count": 1113,
+          "images_count": 2
+        }
+      ]
+    },
+    "https://www.thenation.com/politics": {
+      "articles_count": 3,
+      "images_count": 22,
+      "articles": [
+        {
+          "title": "Log In",
+          "url": "https://www.thenation.com/article/politics/maga-mouse/",
+          "author": "Layla Saliba",
+          "word_count": 239,
+          "images_count": 18
+        },
+        {
+          "title": "Log In",
+          "url": "https://www.thenation.com/article/politics/rodney-taylor-ice-deportation/",
+          "author": "Layla Saliba",
+          "word_count": 1802,
+          "images_count": 2
+        },
+        {
+          "title": "Log In",
+          "url": "https://www.thenation.com/article/society/memphis-lead-poisoning-trump-crime/",
+          "author": "Layla Saliba",
+          "word_count": 2667,
+          "images_count": 2
+        }
+      ]
+    },
+    "https://www.nytimes.com/section/politics": {
+      "articles_count": 3,
+      "images_count": 8,
+      "articles": [
+        {
+          "title": "With Scant Information, Federal Workers Brace for Possible Shutdown",
+          "url": "https://www.nytimes.com/2025/09/28/us/politics/federal-government-shutdown-trump.html",
+          "author": null,
+          "word_count": 168,
+          "images_count": 2
+        },
+        {
+          "title": "Inside the Trump Administration’s Push to Prosecute James Comey",
+          "url": "https://www.nytimes.com/2025/09/27/us/politics/trump-comey-justice-department.html",
+          "author": null,
+          "word_count": 145,
+          "images_count": 5
+        },
+        {
+          "title": "Trump Says He Has Ordered Troops to Protect ICE Facilities in Portland",
+          "url": "https://www.nytimes.com/2025/09/27/us/politics/trump-portland-troops.html",
+          "author": null,
+          "word_count": 169,
+          "images_count": 1
+        }
+      ]
+    },
+    "https://www.newyorker.com/news/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.slate.com/news-and-politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.vox.com/policy-and-politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.abcnews.go.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.axios.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.bloomberg.com/politics": {
+      "articles_count": 3,
+      "images_count": 3,
+      "articles": [
+        {
+          "title": "Trump Orders US Troops to Portland Citing Anti-ICE Protests",
+          "url": "https://www.bloomberg.com/news/articles/2025-09-27/trump-orders-us-troops-to-portland-authorizes-full-force?srnd=phx-politics",
+          "author": "María Paula Mijares Torres",
+          "word_count": 145,
+          "images_count": 1
+        },
+        {
+          "title": "Here’s What Happens When the US Government Shuts Down",
+          "url": "https://www.bloomberg.com/news/articles/2025-09-27/us-government-shutdown-potential-impacts-on-air-travel-social-security?srnd=phx-politics",
+          "author": "Gregory Korte",
+          "word_count": 91,
+          "images_count": 1
+        },
+        {
+          "title": "Trump Shrugs Off Impending Shutdown as Parties Deadlocked",
+          "url": "https://www.bloomberg.com/news/articles/2025-09-26/thune-searches-for-shutdown-off-ramp-to-bypass-schumer-blockade",
+          "author": "Steven T. Dennis",
+          "word_count": 127,
+          "images_count": 1
+        }
+      ]
+    },
+    "https://www.cbsnews.com/politics": {
+      "articles_count": 2,
+      "images_count": 14,
+      "articles": [
+        {
+          "title": "At least 2 killed, 8 injured in shooting at Michigan church; suspect dead, police say",
+          "url": "https://www.cbsnews.com/detroit/news/grand-blanc-michigan-church-shooting-fire/",
+          "author": "ByNick  Lentz,Joseph  BuczekJoseph  BuczekManager of Digital Content and Promotion, CBS DetroitJoe Buczek is manager of digital content and promotion at CBS Detroit. He previously worked at WWTV, the Grand Traverse Insider, the Leader and the Kalkaskian, the Oakland Press and the Morning Sun.Read Full BioJoseph  Buczek",
+          "word_count": 1072,
+          "images_count": 8
+        },
+        {
+          "title": "Judge who reviewed James Comey's indictment was confused by prosecutor's handling of case, transcript shows",
+          "url": "https://www.cbsnews.com/news/judge-james-comey-indictment-confusion-trump/",
+          "author": "ByJacob  Rosen,Jacob  RosenJustice Department ReporterJake Rosen is a reporter covering the Department of Justice. He was previously a campaign digital reporter covering President Trump's 2024 campaign and also served as an associate producer for \"Face the Nation with Margaret Brennan,\" where he worked with Brennan for two years on the broadcast. Rosen has been a producer for several CBS News podcasts, including \"The Takeout,\" \"The Debrief\" and \"Agent of Betrayal: The Double Life of Robert Hanssen.\"Read Full BioJacob  Rosen,Joe  WalshJoe  WalshSenior Editor, PoliticsJoe Walsh is a senior editor for digital politics at CBS News. Joe previously covered breaking news for Forbes and local news in Boston.Read Full BioJoe  Walsh",
+          "word_count": 926,
+          "images_count": 6
+        }
+      ]
+    },
+    "https://www.cnbc.com/politics": {
+      "articles_count": 1,
+      "images_count": 6,
+      "articles": [
+        {
+          "title": "Pro News and Analysis",
+          "url": "https://www.cnbc.com/pro/news/",
+          "author": null,
+          "word_count": 0,
+          "images_count": 6
+        }
+      ]
+    },
+    "https://www.cnn.com/politics": {
+      "articles_count": 3,
+      "images_count": 48,
+      "articles": [
+        {
+          "title": "Inside the seven tumultuous days that led to the James Comey indictment",
+          "url": "https://www.cnn.com/2025/09/26/politics/james-comey-indictment-trump-prosecution",
+          "author": "Jeremy Herb",
+          "word_count": 2381,
+          "images_count": 46
+        },
+        {
+          "title": "Trump shares apparent AI video promoting ‘medbed’ conspiracy theory",
+          "url": "https://www.cnn.com/2025/09/28/politics/trump-ai-medbed-conspiracy-theory",
+          "author": "Kevin Liptak",
+          "word_count": 346,
+          "images_count": 1
+        },
+        {
+          "title": "American man detained in Afghanistan has been released",
+          "url": "https://www.cnn.com/2025/09/28/politics/american-man-detained-afghanistan-released",
+          "author": "Alireza Hajihosseini",
+          "word_count": 483,
+          "images_count": 1
+        }
+      ]
+    },
+    "https://www.insider.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.nbcnews.com/politics": {
+      "articles_count": 2,
+      "images_count": 32,
+      "articles": [
+        {
+          "title": "Weather",
+          "url": "https://www.nbcnews.com/news/weather",
+          "author": null,
+          "word_count": 0,
+          "images_count": 31
+        },
+        {
+          "title": "NBC News NOW Live Audio",
+          "url": "https://www.nbcnews.com/news/nbc-news-now-live-audio-listen-live-news-audio-day-rcna70163",
+          "author": null,
+          "word_count": 69,
+          "images_count": 1
+        }
+      ]
+    },
+    "https://www.npr.org/sections/politics": {
+      "articles_count": 1,
+      "images_count": 1,
+      "articles": [
+        {
+          "title": "News",
+          "url": "https://www.npr.org/sections/news/",
+          "author": null,
+          "word_count": 86,
+          "images_count": 1
+        }
+      ]
+    },
+    "https://www.politico.com": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.propublica.org/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.semafor.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.time.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.usatoday.com/politics": {
+      "articles_count": 3,
+      "images_count": 9,
+      "articles": [
+        {
+          "title": "U.S. News",
+          "url": "https://www.usatoday.com/news/nation/",
+          "author": null,
+          "word_count": 0,
+          "images_count": 5
+        },
+        {
+          "title": "Politics",
+          "url": "https://www.usatoday.com/news/politics/",
+          "author": null,
+          "word_count": 0,
+          "images_count": 2
+        },
+        {
+          "title": "From the Archives",
+          "url": "https://www.usatoday.com/news/from-the-archives/",
+          "author": null,
+          "word_count": 0,
+          "images_count": 2
+        }
+      ]
+    },
+    "https://www.washingtonpost.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.yahoo.com/news/politics": {
+      "articles_count": 3,
+      "images_count": 22,
+      "articles": [
+        {
+          "title": "Yahoo News",
+          "url": "https://www.yahoo.com/news/",
+          "author": null,
+          "word_count": 0,
+          "images_count": 18
+        },
+        {
+          "title": "U.S.",
+          "url": "https://www.yahoo.com/news/us/",
+          "author": null,
+          "word_count": 14,
+          "images_count": 2
+        },
+        {
+          "title": "Politics",
+          "url": "https://www.yahoo.com/news/politics/",
+          "author": null,
+          "word_count": 13,
+          "images_count": 2
+        }
+      ]
+    },
+    "https://www.bbc.com/news/politics": {
+      "articles_count": 3,
+      "images_count": 76,
+      "articles": [
+        {
+          "title": "NewsNews",
+          "url": "https://www.bbc.com/news/topics/c2vdnvdg6xxt",
+          "author": null,
+          "word_count": 829,
+          "images_count": 24
+        },
+        {
+          "title": "NewsNews",
+          "url": "https://www.bbc.com/news/war-in-ukraine",
+          "author": null,
+          "word_count": 843,
+          "images_count": 25
+        },
+        {
+          "title": "NewsNews",
+          "url": "https://www.bbc.com/news/us-canada",
+          "author": null,
+          "word_count": 1031,
+          "images_count": 27
+        }
+      ]
+    },
+    "https://www.csmonitor.com/politics": {
+      "articles_count": 3,
+      "images_count": 36,
+      "articles": [
+        {
+          "title": "With Comey indictment, Trump shatters norms of US justice system",
+          "url": "https://www.csmonitor.com/USA/Politics/2025/0926/comey-indictment-trump-weaponization",
+          "author": "ByLinda FeldmannWashington Bureau Chief@linda_feldmann",
+          "word_count": 1632,
+          "images_count": 9
+        },
+        {
+          "title": "Seeking growth, Buddhist Bhutan experiments with ‘mindful capitalism’",
+          "url": "https://www.csmonitor.com/World/Asia-South-Central/2025/0926/bhutan-happiness-rich-experiment",
+          "author": "BySushmita PathakContributor@sushmitza",
+          "word_count": 1495,
+          "images_count": 9
+        },
+        {
+          "title": "Two boys died after they ran from police. 20 years later, this Paris suburb is still healing.",
+          "url": "https://www.csmonitor.com/World/Europe/2025/0928/france-clichy-bouna-zyed-police-race-immigrant",
+          "author": "ByColette DavidsonSpecial correspondent@kolet_ink",
+          "word_count": 4022,
+          "images_count": 18
+        }
+      ]
+    },
+    "https://www.forbes.com/politics": {
+      "articles_count": 3,
+      "images_count": 3,
+      "articles": [
+        {
+          "title": "Tips And Confidential Sources",
+          "url": "https://www.forbes.com/sites/forbesstaff/article/tips-and-confidential-sources/",
+          "author": null,
+          "word_count": 587,
+          "images_count": 0
+        },
+        {
+          "title": "Innovation Rules",
+          "url": "https://www.forbes.com/sites/forbesvideo/article/innovation-rules/",
+          "author": null,
+          "word_count": 60,
+          "images_count": 0
+        },
+        {
+          "title": "The Best Nordstrom Promo Codes And Deals: Up To 80% Off Hoka, Barbour And More",
+          "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/nordstrom-promo-codes/",
+          "author": null,
+          "word_count": 802,
+          "images_count": 3
+        }
+      ]
+    },
+    "https://www.thehill.com": {
+      "articles_count": 1,
+      "images_count": 0,
+      "articles": [
+        {
+          "title": "Just In",
+          "url": "https://www.thehill.com/news/",
+          "author": null,
+          "word_count": 0,
+          "images_count": 0
+        }
+      ]
+    },
+    "https://www.marketwatch.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.newsnationnow.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.newsweek.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.reason.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.reuters.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.straightarrownews.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.wsj.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.thedispatch.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.theepochtimes.com/politics": {
+      "articles_count": 3,
+      "images_count": 31,
+      "articles": [
+        {
+          "title": "Exclusive: Eric Trump Recounts Relentless Attacks on Father, Family",
+          "url": "https://www.theepochtimes.com/article/exclusive-eric-trump-recounts-relentless-attacks-on-father-family-5920983",
+          "author": null,
+          "word_count": 0,
+          "images_count": 15
+        },
+        {
+          "title": "Exclusive: Eric Trump Recounts Relentless Attacks on Father, Family",
+          "url": "https://www.theepochtimes.com/article/exclusive-eric-trump-recounts-relentless-attacks-on-father-family-5920983?cmt=1",
+          "author": null,
+          "word_count": 0,
+          "images_count": 15
+        },
+        {
+          "title": "How Social Media Is Warping People’s Relationship With Violence",
+          "url": "https://www.theepochtimes.com/article/how-social-media-is-warping-peoples-relationship-with-violence-5920280",
+          "author": null,
+          "word_count": 115,
+          "images_count": 1
+        }
+      ]
+    },
+    "https://www.foxbusiness.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.thefp.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.justthenews.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.nationalreview.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.nypost.com/politics": {
+      "articles_count": 1,
+      "images_count": 6,
+      "articles": [
+        {
+          "title": "‘Chess’ moves back to Broadway as fans line up for tickets to ‘80s revival, signed Lea Michele posters",
+          "url": "https://pagesix.com/2025/09/28/entertainment/chess-moves-back-to-broadway-40-years-after-debut/",
+          "author": "ByIan Mohr",
+          "word_count": 327,
+          "images_count": 6
+        }
+      ]
+    },
+    "https://www.realclearpolitics.com": {
+      "articles_count": 2,
+      "images_count": 1,
+      "articles": [
+        {
+          "title": "Republicans guaranteed a shutdown this fall when they sided with Trump",
+          "url": "https://www.msnbc.com/news/news-analysis/democrats-shutdown-trump-rescissions-spending-rcna233554",
+          "author": null,
+          "word_count": 865,
+          "images_count": 1
+        },
+        {
+          "title": "No title found",
+          "url": "https://www.msn.com/en-us/news/politics/comey-case-raises-question-of-who-are-trump-s-next-political-targets/ar-AA1Nsfgs",
+          "author": null,
+          "word_count": 0,
+          "images_count": 0
+        }
+      ]
+    },
+    "https://www.upward.news/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.washingtonexaminer.com/politics": {
+      "articles_count": 2,
+      "images_count": 6,
+      "articles": [
+        {
+          "title": "News",
+          "url": "https://www.washingtonexaminer.com/section/news/",
+          "author": null,
+          "word_count": 0,
+          "images_count": 3
+        },
+        {
+          "title": "White House",
+          "url": "https://www.washingtonexaminer.com/section/news/white-house/",
+          "author": null,
+          "word_count": 0,
+          "images_count": 3
+        }
+      ]
+    },
+    "https://www.washingtontimes.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.zerohedge.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.theamericanconservative.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.spectator.org/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.blazemedia.com/politics": {
+      "articles_count": 3,
+      "images_count": 3,
+      "articles": [
+        {
+          "title": "News",
+          "url": "https://www.theblaze.com/news/",
+          "author": null,
+          "word_count": 13,
+          "images_count": 1
+        },
+        {
+          "title": "News",
+          "url": "https://www.blazemedia.com/news/",
+          "author": null,
+          "word_count": 13,
+          "images_count": 1
+        },
+        {
+          "title": "VIDEO: 3 dead, multiple victims injured in North Carolina mass shooting; suspect reportedly flees by boat",
+          "url": "https://www.theblaze.com/news/video-3-dead-multiple-victims-injured-in-north-carolina-mass-shooting-suspect-reportedly-flees-by-boat",
+          "author": "Blaze News",
+          "word_count": 6,
+          "images_count": 1
+        }
+      ]
+    },
+    "https://www.breitbart.com/politics": {
+      "articles_count": 3,
+      "images_count": 1,
+      "articles": [
+        {
+          "title": "THE WIRES",
+          "url": "https://www.breitbart.com/news/",
+          "author": null,
+          "word_count": 24,
+          "images_count": 1
+        },
+        {
+          "title": "The Taliban release a US citizen from Afghan prison",
+          "url": "https://www.breitbart.com/news/the-taliban-release-a-us-citizen-from-afghan-prison/",
+          "author": null,
+          "word_count": 441,
+          "images_count": 0
+        },
+        {
+          "title": "NYC Mayor Eric Adams Ends Reelection Campaign",
+          "url": "https://www.breitbart.com/politics/2025/09/28/nyc-mayor-eric-adams-ends-reelection-campaign/",
+          "author": null,
+          "word_count": 263,
+          "images_count": 0
+        }
+      ]
+    },
+    "https://www.cbn.com/politics": {
+      "articles_count": 3,
+      "images_count": 3,
+      "articles": [
+        {
+          "title": "Christian World News",
+          "url": "https://www2.cbn.com/news/christian-world-news",
+          "author": null,
+          "word_count": 2,
+          "images_count": 1
+        },
+        {
+          "title": "Newswatch",
+          "url": "https://www2.cbn.com/news/cbn-newswatch",
+          "author": null,
+          "word_count": 2,
+          "images_count": 1
+        },
+        {
+          "title": "Jerusalem Dateline",
+          "url": "https://www2.cbn.com/news/jerusalem-dateline",
+          "author": null,
+          "word_count": 2,
+          "images_count": 1
+        }
+      ]
+    },
+    "https://www.dailycaller.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.dailymail.co.uk/news/politics": {
+      "articles_count": 3,
+      "images_count": 735,
+      "articles": [
+        {
+          "title": "US News",
+          "url": "https://www.dailymail.co.uk/news/us/index.html",
+          "author": null,
+          "word_count": 0,
+          "images_count": 332
+        },
+        {
+          "title": "Royal Family",
+          "url": "https://www.dailymail.co.uk/news/royals/index.html",
+          "author": null,
+          "word_count": 0,
+          "images_count": 155
+        },
+        {
+          "title": "Donald Trump",
+          "url": "https://www.dailymail.co.uk/news/donald_trump/index.html",
+          "author": null,
+          "word_count": 0,
+          "images_count": 248
+        }
+      ]
+    },
+    "https://www.dailywire.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.foxnews.com/politics": {
+      "articles_count": 2,
+      "images_count": 0,
+      "articles": [
+        {
+          "title": "FOXNews.com RSS Feeds",
+          "url": "https://www.foxnews.com/story/foxnews-com-rss-feeds",
+          "author": null,
+          "word_count": 483,
+          "images_count": 0
+        },
+        {
+          "title": "Where in the World is FOX?",
+          "url": "https://www.foxnews.com/story/where-in-the-world-is-fox",
+          "author": null,
+          "word_count": 923,
+          "images_count": 0
+        }
+      ]
+    },
+    "https://www.thefederalist.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.ijr.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.newsmax.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.oann.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.thepostmillennial.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    },
+    "https://www.freebeacon.com/politics": {
+      "articles_count": 0,
+      "images_count": 0,
+      "articles": []
+    }
+  }
+}

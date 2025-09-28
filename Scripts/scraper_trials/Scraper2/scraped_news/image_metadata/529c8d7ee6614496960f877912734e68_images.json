@@ -1,0 +1,28 @@
+{
+  "article_url": "https://www.washingtonexaminer.com/section/news/white-house/",
+  "article_title": "White House",
+  "scraped_at": "2025-09-28T13:04:04.804769",
+  "images": [
+    {
+      "src": "https://www.washingtonexaminer.com/wp-content/uploads/2023/11/2023-examinar-logo.webp",
+      "alt": "Logo",
+      "title": "Washington Examiner",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/7d5b2b530272c47c5193583ee2be2164.webp"
+    },
+    {
+      "src": "https://www.washingtonexaminer.com/wp-content/uploads/2023/11/2023-examinar-logo-500.webp",
+      "alt": "Logo",
+      "title": "Washington Examiner",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9a0a257c9ba04a6daaad06b827531237.webp"
+    },
+    {
+      "src": "https://www.washingtonexaminer.com/wp-content/uploads/2024/05/2023-Examiner-logo-white-color-eagle-1.webp",
+      "alt": "Logo",
+      "title": "Washington Examiner",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6317cd6aff8c33413b1f1b4c703537bf.webp"
+    }
+  ]
+}

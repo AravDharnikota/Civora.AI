@@ -1,0 +1,2331 @@
+{
+  "article_url": "https://www.dailymail.co.uk/news/us/index.html",
+  "article_title": "US News",
+  "scraped_at": "2025-09-28T13:04:30.294637",
+  "images": [
+    {
+      "src": "https://i.dailymail.co.uk/i/sitelogos/DailyMail_Main.png",
+      "alt": "Daily Mail - news, sport, celebrity, science and health stories",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e28e58da4c40cb383607ba8a68c37b65.png"
+    },
+    {
+      "src": "data:image/gif;base64",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": null
+    },
+    {
+      "src": "https://i.dailymail.co.uk/i/pix/channelheaders/US.png",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c8ac72cbd1de6cd930ecc8918e6ad496.png"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/i/furniture/facebook/DailyMail/DailyMail.png",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9b71fd1d6e588356aac9348ac370c4f8.png"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/20/102523455-0-image-a-2_1759086785589.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/0774e7fef68259385cf5c876dc9ac313.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/16/102520279-0-image-a-19_1759073218864.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/723eaf0cc481463cf11cf7f930083d85.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/19/102522413-0-image-a-2_1759083163939.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/2b47c40bd7ecbe891c30f6494a016c42.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/15/102519485-0-image-a-1_1759070417495.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/18d82d52aa19bce2d263b720cc98e24c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/16/102483003-0-image-a-9_1758901903070.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6275f4b8cb1e92c77abe3c414d4f4b59.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/15/102517905-0-image-a-18_1759068815063.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/968ade3736a92d1e780b27799777343e.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/14/102518795-0-image-a-1_1759067874065.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9696fc97bcb037408d70dfd868689093.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/16/102520537-0-image-a-4_1759074746719.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/10d757971742ba9e1d8c9da904ca1c77.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/13/102517139-0-image-a-1_1759062296989.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d423e36db56ba5c88ce20446188a6fe0.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/20/102523973-0-image-a-21_1759089275042.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/94ebf87b73c723ed6b542b2b0bb53814.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/15/102519791-0-image-a-3_1759071276724.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/03ed084a47acb42402f7631636bdbae9.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/18/102522223-0-image-a-23_1759082076329.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/ac7177e5934031c9de6c6e8098218cb1.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/20/102488745-0-image-a-40_1758915241850.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/967dedbf1a7e81d6a0d3c5cf334a223d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/20/102488739-0-image-a-12_1758915571664.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/85c85d59a70824f7cf28daa1398bce68.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/16/102477569-0-image-a-1_1758898800665.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c8aba614e16594b12ab88e20d0eeceb6.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/24/21/102427665-0-image-a-25_1758747387833.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/0923ff91152c802daa6dcfeb6c48156d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/01/102511233-0-image-a-24_1759018482696.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/09d345eda7f2df25c7c94a96ff0efb86.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/06/102513757-0-image-a-86_1759035790905.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c6ef193666d4635def57ca6b2dfe7700.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/06/102513759-0-image-a-67_1759035868079.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/54671f5b8f3772311201f11734b5b8c5.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/03/102512985-0-image-a-43_1759026917292.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/55230091ec4afea3b5e2215fd176d566.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/06/102513939-0-image-a-52_1759038123650.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/255e8652930c83eb6d14eb95d4d6a96e.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/02/102512621-0-image-a-49_1759023324430.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9f23ee8139bc5dac9af33b36fe8e3362.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/06/102513791-0-image-m-14_1759037333269.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6f5dda59e52dd06a9deec16529b55614.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/00/102511363-0-image-a-18_1759017319938.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/2d67b8855e84b45196d096808a2f0125.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/05/102513581-0-image-a-5_1759033794492.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/77928a256c59ae73c7796fddf82f4ae4.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/03/102513053-0-image-a-3_1759027300091.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/251ebd52749413ba8db104960919d368.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/02/102512597-0-image-a-51_1759022949193.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d9af0e56d706c7931715169cd1b8a1f6.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/00/102510785-0-image-a-7_1759016984175.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/28e7fc2007fa414d4deb24202dd2a951.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/23/102510335-0-image-a-10_1759013703610.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/733aad11cd56206bf23f97377f099b6f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/22/102508875-0-image-a-30_1759007141116.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/3238f49d91a9242c299d1c3cf67ee5b3.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/21/102507205-0-image-a-1_1759006232758.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/7680dcdd5a1b20cdfb99302cef35fd2d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/21/102508025-0-image-a-56_1759004386122.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/ff8529eb5c692cdd737d951de6273d33.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/19/102505971-0-image-a-174_1758997783600.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/12fc7ab4ffc42f43548f5dc6e850c242.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/18/102505531-0-image-a-2_1758995902301.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/13f7574c6171683b1573e5e5b24800ae.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/18/102505463-0-image-a-90_1758995495035.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/68f585159f95f1c704c4ecc087096abe.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/18/102505429-0-image-a-5_1758995194720.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4a65a9aa4f31db68a3e76139c9c3e725.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/18/102504065-0-image-a-10_1758992667930.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5955b2585bb351a4acc1b3b37152e153.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/17/102503079-0-image-a-150_1758990046754.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/635b0722571d94639b2cc097feda8288.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/16/102502805-0-image-a-27_1758988433900.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/1eb4604a3788021c9a1718cf29a84131.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/21/102503509-0-image-a-1_1759004462033.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/962a3a22b7378c833ab1073658a2769f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/16/102502279-0-image-m-147_1758985718639.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9ddc95b379341f89935f343b74d49823.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/15/102502143-0-image-a-19_1758985075054.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/46caa8e2f7e041f19535db077efb0599.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/16/102501835-0-image-a-22_1758985304477.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/dbb80cf5518a04663a68b6d95d45d262.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/15/102501993-0-image-a-3_1758984389081.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4b7e8e65bc5469c7edb225a6faf342e3.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/14/102500475-0-image-a-110_1758979041623.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/dbd6778410f38451a3c7c50324f4f039.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/01/102509759-0-image-a-12_1759018918539.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/ddf0a57b34cbd5f350d62de0f302b6da.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/23/22/102390669-0-image-a-24_1758662045835.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/23c0c5022c0ca3ef158de324399dc09f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/09/16/101679283-0-image-a-1_1757430741769.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/ee02be3fb9a53512b52b152f3c83c483.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/18/102485621-0-image-a-24_1758906940836.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/adb9ec0ccaa716140a3e1381185c03e5.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/17/102453463-0-image-a-23_1758816315925.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/fc0a1a6599d525cb02bfc3450b244cbc.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/22/23/102360999-0-image-a-3_1758581671612.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6b28074e6f8918f9abea927554433349.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/24/20/102424593-0-image-a-1_1758740718541.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/57d81b546afd70bf7c609bf34246b450.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/07/102497463-0-image-a-68_1758952811835.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/7b30509a97c18f4b29827a1612914601.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/06/102497127-0-image-a-56_1758949865991.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/74e5d0ba90945fa890365379e34be9a7.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/07/102497691-0-image-a-28_1758955825611.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6313d9829089e8fcae622d7e756a2660.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/05/102497011-0-image-a-11_1758948380499.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/bd7f8bc91255972d2c43d30344b8a9fa.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/05/102495353-0-image-a-32_1758946853924.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/24fa162f22f2b79fa9898d3819bc9a4d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/06/102497165-0-image-a-63_1758950196122.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c976d2340decdadbf910c6f3dc109075.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/01/102494459-0-image-a-41_1758934744295.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4efadbbb461f741fa1dfa9405fc9184d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/02/102494567-0-image-a-25_1758935513913.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/463fe3fbc1b3baff267dc64018bb1054.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/04/102495569-0-image-a-14_1758942286588.jpg",
+      "alt": "article image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/8ebdba39c9fb13c6b7c3fae9667cf701.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/18/102522115-0-image-a-22_1759081655829.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/40c419b29a0d9f4893b2c872b0c84f74.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/18/102519813-0-image-m-13_1759080016236.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9b0b24f0f15b0201cee678837f9075e7.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/18/102521639-0-image-m-28_1759079491536.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/38903bfef5c82cb6407e9a22756b6c03.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/22/102458045-0-image-a-27_1758834737076.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/7558d321bafaae1b824abcbbf9b87014.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/17/102483827-0-image-a-22_1758903107762.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/2b0b68afebf71aaf266dd5d9679bbc0e.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/12/102444513-0-image-m-36_1758800366155.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e1b8d65d7ebb9221d98ec432322dd90c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/00/102510909-0-image-a-92_1759016061133.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c21c3e8e9dfce113ac8f575617745163.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/06/102513999-0-image-m-22_1759038890237.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f9e4687022d2076be4e8523248567f80.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/20/102507173-0-image-a-190_1759001637900.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/095ef71d84cdcee34a8c54ec1aedaa49.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/00/102511107-0-image-a-22_1759016382121.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/3c76ae66263a872f413d1ef33e591491.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/16/102520729-0-image-a-17_1759075155351.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/ff1c271a24509c5f61dc5a6b93d1750b.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/21/15/102324133-0-image-a-43_1758466333776.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/fb56c7fa6b596d14f12561e564716ea2.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/19/102523091-0-image-a-23_1759084723444.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/1d99f40c377182ac10fa3543a7db0d0c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/19/102522513-0-image-a-32_1759083363262.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/36cc2b208139295dca1c464e7c7fe83f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/20/102523789-0-image-a-24_1759088019825.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/0ac3b8879c182fd518c887aa1a9d2eaf.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/19/102523185-0-image-a-63_1759085664715.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/0295cb4e371e544fbaa5487fda2020f2.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/20/102523755-0-image-a-74_1759087642044.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d5a49cd1d69b9e6770d4e5155c3cc9e6.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/21/05/102318043-0-image-m-67_1758429626237.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/2b117b90592e4c7b4616b7945f29c11b.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/19/102522599-0-image-a-52_1759083741678.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/ef30ae64dbfccc6ce860e4a42c8659b6.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/19/102522715-0-image-a-58_1759083983785.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9b055a7f2c9dcbc335fba40eeb0c60c9.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/09/102514849-0-image-a-81_1759047114574.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/58d3e0449c55d1c4b00f4770056fa413.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/18/102522187-0-image-m-36_1759082257146.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/825896b1e2cabfbb09dfe62b4710c430.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/11/102516603-0-image-a-95_1759056281620.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/40a67daeddce0791b0681a607fd98585.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/17/102521071-0-image-a-14_1759078441183.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/23d0134348146d1abaedd36c12000cdd.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/01/102465519-0-image-a-47_1758846911833.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b43fc285f6d6bb25c59ede809b90c795.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/16/102520625-0-image-a-23_1759074648529.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b53486306fbd8f9668b67be1f9429cbd.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/15/102519483-0-image-a-6_1759070433491.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/cee98177d51a4c84c13308dca24ec191.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/17/102521337-0-image-a-7_1759078080619.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/06ad4b81e6a4dc37434eeb37e76a649d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/11/102516143-0-image-m-53_1759057127512.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/a6421c62f0641a860839a387b7ab203f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/24/12/102349475-0-image-m-20_1758714592516.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/14effc8de581c2fa27823920930beebb.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/17/102521413-0-image-a-13_1759078161858.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6ef4a5fda27575c69255d0bf533f7dd6.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/19/102522365-0-image-a-8_1759082433909.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e6fb8ceb84bcf89a06fcdd3cbe254242.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/17/102521215-0-image-m-11_1759077603224.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6b623b030b96b317e03f1ca82be8ee40.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/16/102452131-0-image-a-37_1758814155447.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/ddffdf721d87106678db035620c49dbe.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/24/05/102400507-0-image-a-48_1758688443624.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/da8240b8505e71f04ec4887fb60763ae.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/08/102514591-0-image-a-9_1759045740201.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5d25e7f9c8ea7eb985125e3af62986b1.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/04/102513343-0-image-a-80_1759031017698.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4e890e9ad6cdaf00fa5f8c60fc6faee0.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/00/101770975-0-image-m-25_1759015611463.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f66802f56cdc1c0ee9876289723dab3d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/14/102518271-0-image-a-42_1759064455461.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/71e4a53e3e46629823b4a7fa3720265b.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/13/102517449-0-image-a-20_1759061090943.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6123c2e5921fa756a109c7b1586d1fc9.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/14/102518771-0-image-a-62_1759066734814.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/818e07454a42f8e064d6a2785a844c50.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/13/102518121-0-image-m-34_1759063900687.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/14324f1a89c8616bba8a69690edae9da.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/16/102520425-0-image-a-7_1759074337548.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/ce2b7824657f6911426fd7eed618615c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/17/12/102212681-0-image-m-34_1758107234535.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/457ea2c21edd4d035155d3e62640dba5.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/15/102519581-0-image-a-12_1759070544241.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/91524951fe214fde65cf876a20dd574a.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/17/102520877-0-image-a-29_1759075890176.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d193fb35802a009ed1ca6741a2382f65.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/24/14/102415801-0-image-m-54_1758721965226.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/1b1b03f246308bfde7370b80fbe382b2.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/12/102516561-0-image-m-17_1759057755082.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/72ee807a3f61a2475917de9a7a66535c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/08/102514519-0-image-a-14_1759045375337.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/7760c4331774a6a742bf080ebea09b3f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/18/08/102223339-0-image-m-11_1758182084403.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6e547b22c41a90833a54e9eb0f3f0b29.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/02/102512439-0-image-a-14_1759022113455.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f909c9fefca6cb7adb90fd0af668ec87.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/16/102519797-0-image-m-44_1759072754207.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/100f4af116e88c7a6132f5b5e360bff9.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/10/102516207-0-image-a-25_1759053561850.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f64b58133c946624472406844cfabfb3.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/16/102481859-0-image-a-18_1758899919043.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/eb1fee0577cdd3a6549e5b1b3e7948fc.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/18/102521649-0-image-a-1_1759079792928.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/7505e96c507b1c20a18913f93820424e.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/12/102517355-0-image-m-2_1759060766185.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d3861169c0e92380e2030241933a4eb0.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/14/102518761-0-image-a-31_1759066623770.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/a8a26881cc24cea9080d3297a028d41a.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/21/102486947-0-image-m-9_1759006243208.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/78b1326216251d9b1a426b24e6084f0b.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/15/102519407-0-image-a-53_1759070129810.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/89cd329eb2aaae8a0fa6a68a73e6c6f6.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/00/102511165-0-image-a-30_1759016852501.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/97165f3b21ad9a78b6041ecb19f0decb.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/04/102468153-0-image-a-26_1758857714557.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/34151b195ed9f53507fc0382eddaca51.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/10/102516145-0-image-a-7_1759052926024.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e1ad9f90d155cc93fa7769510441131b.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/14/102518951-0-image-a-9_1759067864845.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/083144db9c7514bdebe69607bcc477fc.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/15/102518953-0-image-a-40_1759068028013.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/228b8753782df1aaffae362b4f46a0c1.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/16/102482965-0-image-a-46_1758901887733.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/3309ea62b99af81bd6c9e61f2c41701d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/09/102515497-0-image-a-11_1759049532656.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c2e2b56a97837a85fbff484feb1faac3.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/12/102517233-0-image-a-55_1759060183596.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/276823d294f5991b435d677c3b3226dd.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/06/102513935-0-image-a-107_1759038091346.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/59d5c8247f42e7f33ff4e567a4f3ddaa.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/09/102515479-0-image-a-43_1759049373319.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5fc35ecd4911fea40b93c0269ca4e585.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/14/102447613-0-image-a-76_1758806868162.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/8a06bc2bfff41176cee2dc191485c4b7.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/08/102514393-0-image-a-41_1759043582409.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4760add1242f4ba7ed63615a68e66a2b.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/10/102514469-0-image-m-30_1759053011091.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/fc2c74d06e2627a3a1cd380b20072c24.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/24/08/102403717-0-image-a-25_1758699622773.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/da36601e4b1a46b518d339a624ce9a60.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/17/102503059-0-image-a-115_1758989017344.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/ecca846fee128c988394a1ddc84f07d0.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/06/102513911-0-image-a-35_1759038057100.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/fcf70176ac2f195a197c9c05458992d3.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/08/102514581-0-image-a-1_1759045336011.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e6bd74e980be11bb2c3db03e6daab956.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/09/102515527-0-image-a-20_1759049888101.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/2d75bd3aed53f919c0915823cfa77c8d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/10/102515589-0-image-a-15_1759050251760.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/37cbb0fe2d7a6f763c6875bcb8c4352e.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/11/102516447-0-image-a-8_1759056455066.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f4bf27daeab90648ba6d11c77f1fcd40.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/22/102509465-0-image-a-46_1759008681824.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/426930e0c493de864c97824e6d0ee818.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/02/102512649-0-image-a-9_1759024132927.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/0bef082f5bcd7f15c8e0b4778c81fe8c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/00/102511371-0-image-a-34_1759017394357.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/91a2b18171bdd7e71a10582b7be26dd7.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/01/102465089-0-image-a-12_1758845015407.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/2c8fc7d32459f3ab794abaaa85e3dc02.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/20/102507553-0-image-a-19_1759002606580.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4829c94f66450a5b6f9a38a484952c8d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/07/102497705-0-image-m-188_1758956205541.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e83f0530823a336881152bdd38303e7a.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/16/102451529-0-image-m-39_1758813028848.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/737fc60ddb4ba4e08ed71d43bb2a1c46.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/17/102483607-0-image-m-22_1758903235705.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c4ca0f9d9f3cbfe31a50aad7663d2e08.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/14/102500999-0-image-a-88_1758979267604.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/570f84d869d225207d63f914dbc18635.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/00/102510767-0-image-a-39_1759015390837.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/afbcadd62f6942f2f21c126c71ad7332.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/20/1758999661766_6270070719750914.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/52cb5e315f97cc0d8ea96c327849b00d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/02/102494641-0-image-a-8_1758935709867.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9b5ae913b912ff5b6ff0876a0c5fe732.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/18/102505409-0-image-m-14_1758995088079.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/aa58888079baa58329efb46a4abbccfe.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/11/15/102049533-0-Spooky_and_stunning_The_Weaver_12_99_design_shows_a_spider_crawl-a-48_1757602792421.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/685c779247567ca9a1821b7d535920cd.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/23/17/102384107-0-image-m-2_1758646262192.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/3fc7c35f1f7ed97a8684c2769382d7ac.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/23/18/102385583-0-image-a-6_1758648557483.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/fb1311b4728836d7541f40c34aafd005.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/06/102497137-0-image-a-136_1758949709857.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/1a82472585d65c6dd98bf7a4fc3baf95.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/17/102460879-0-image-m-18_1758992135251.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f1673fc1fd7316abf02356f2c2ab83ec.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/04/102495667-0-image-a-120_1758942810419.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/ce8f8b283021c7d576091ca90ee80a8a.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/02/102494775-0-image-a-26_1758936843144.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d653aaaf8db5f8ee25dbecbf3fa96deb.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/09/102495567-0-image-m-67_1758961772638.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4b23f922f52cfdeff8eb42a1a88eca86.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/06/102497401-0-image-a-151_1758952271401.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/0f3698e4396385c2f3d750721066d536.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/11/102499537-0-image-a-38_1758968984845.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/24aadcbe64042b936f52689ef760b0db.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/23/16/102383083-0-image-a-261_1758641954775.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/ca89cac745f4fe0b38d53639886600bc.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/00/102493681-0-image-a-55_1758931132900.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c27e25df3f4fdff8cf33d4ecbd779228.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/06/102497175-0-image-a-133_1758950240947.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4f0ce544e58a9ca509eb386c73f16ec9.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/04/102490273-0-image-m-4_1758945197076.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/da6874fb4cabdef89d504b5d6d324d0a.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/16/102479133-0-image-m-70_1758901852361.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/53db218a8d66d659094ab9ad4a3d0ce5.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/22/102491399-0-image-m-61_1758923459700.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f69a01aaf3959509b2253596708749b1.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/03/102495359-0-image-a-7_1758941233154.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/0f26605beac17f16f12e454eebf8b619.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/23/102491589-0-image-a-134_1758924024895.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/229e8ee222ebcbb79143baf652f5ffd5.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/07/102497505-0-image-a-27_1758953306826.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9513b5566f57105fd6f6d56b878de8a8.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/19/102487311-0-image-a-59_1758911112800.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b565575df8433a4f845673b5f7535dd6.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/04/102495757-0-image-a-75_1758943195211.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c93aea73bfcebe6ae1ea420183523f75.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/02/102494637-0-image-a-82_1758935671605.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/8b2f924420700b4dd134a93ea39074a5.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/07/102402803-0-image-m-8_1758954669162.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/0c23cd96beb16ab26ac9a13d43b292aa.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/21/102428281-0-image-m-119_1758919959131.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9853cccd762f85a780880241f19cfe7d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/22/102491375-0-image-m-7_1758923330133.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b361996f072f39f3e54637b1a35c32d7.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/16/102481929-0-image-m-26_1758900316092.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/640046b83478b9e449270bc48a9dcb9b.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/22/102491377-0-image-a-18_1758923344854.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/a93fd02d30f87431aa1ea8411bb6e2c1.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/01/102494265-0-image-a-41_1758933640392.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b737a6871baa97548a0d67a1e9f77188.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/02/102494957-0-image-a-68_1758938303549.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5d3f5b3716f26fe25a691599d71cdd3e.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/20/102489279-0-image-a-9_1758916638648.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/3490aadc04ef387bba37039d363f2a5d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/16/102481957-0-image-a-31_1758900193444.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9d42ac55cd7864ba6de3850e2062c3f7.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/19/102487731-0-image-a-116_1758912134751.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/1a6075cfbd062976b2c1af9dce367a42.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/17/102483341-0-image-a-7_1758902913667.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/0e161a6e9642955ea5d810df5da0b008.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/22/102490931-0-image-m-8_1758922281414.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/33ead397d04b6c89be6c41cfce93695e.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/22/102491459-0-image-a-25_1758923681620.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/ea297bccd50f81a47c0411015d8d09aa.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/21/102489839-0-image-a-5_1758918395979.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5d1dd591cbdca81f1828835f1d0ba6bb.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/01/102494207-0-image-a-143_1758934012753.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/52a5ac37b167690f77729c0904454024.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/20/102488509-0-image-a-64_1758914533514.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/55fdd17a4fba021d3a0c846c69cafd11.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/20/102488075-0-image-m-8_1758913281439.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e422abed882af4d90ac4d7a61afe4f2d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/00/102493677-0-image-a-96_1758931129342.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/17ac147522466d025b8755caf3d437f9.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/18/102455935-0-image-a-18_1758820899761.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/febc98c0692cc4924bfef5399ba331f7.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/19/102487139-0-image-m-15_1758912126219.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f6472684e877d740aab9a299e0c6413f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/15/102479657-0-image-a-35_1758895599721.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/fe2cd652919d2971258deae19df2e199.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/20/102488933-0-image-a-30_1758915692906.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e38d1c9bdaaa1dc95319fdf42cd3fa41.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/20/102489275-0-image-a-120_1758916645734.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/bbdd8530f42701d2eb11a8cce7f3e5ee.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/04/102468347-0-image-a-49_1758858638860.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/7cf407197b67448f60367ded5d7e389a.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/24/23/102429073-0-image-m-64_1758751241912.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/298061c425113dd93493ad672eeb2d09.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/18/102485935-0-image-m-46_1758908237732.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c74aad9cd9923ad9d97d90ca811f0cdb.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/15/102479365-0-image-a-11_1758895211302.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5f1de744672f73fd0182077abc3baf51.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/14/102478537-0-Gayle_King_on_CBS_Mornings_Thursday_where_co_host_Tony_Dokoupil_-a-16_1758894863283.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/03521ef9aa49005831e2e6b2fa03f4a9.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/19/102487761-0-image-a-6_1758911990826.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6cf21b72230114401dbcda654bcd2766.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/14/102447559-0-image-a-339_1758806748933.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/160df59b4bb46eb1a3a6935815aa145f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/18/102485685-0-image-a-58_1758907132150.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/acbe9ad9ea2028b90d397b648f008bdd.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/16/102481703-0-image-a-60_1758899705260.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/23df07ab9c1564e70f0215718c981ea8.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/17/102485219-0-image-m-10_1758905924461.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/61a2c91247b3c8e89b9dea44aa80dd7a.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/08/102470875-0-image-m-44_1758871474367.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/720fe3170ac16df9aee15450fa2631c0.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/16/102481403-0-image-a-55_1758899175702.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/7f7c6f6f711046e27ac8b62d3c1766d0.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/07/102469713-0-image-m-3_1758866801524.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/8bc9d403dd7dc83490be449b250ec80c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/21/102460051-0-image-a-37_1758830857469.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/02a7bd1e27b88e1cb4dae9a25c981f9f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/19/102487035-0-image-a-41_1758910372420.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5d1f42a940b779b9e9272bbf2361988f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/17/102483899-0-image-a-5_1758903315539.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/7b4c2fb8ffcca5efaa83dc86a2f73b27.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/15/102479361-0-image-m-33_1758895198805.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d56ac9deec50b0ef57cbbc736da524d7.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/19/102486735-0-image-a-71_1758909634738.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/2e14fd57be05da9fefad9f79c231f049.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/16/102482949-0-image-a-3_1758901620606.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4d2b120bd75aa7cfd6384f2b584110d3.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/09/102472267-0-image-m-18_1758877176572.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/8a0c3a7d12183b50ad17d302509154e1.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/15/102479941-0-image-a-2_1758896077038.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/2b1cabbb3cd99f1033e6a746fa870a13.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/23/102462695-0-image-a-22_1758837863747.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c04a85cbc038b43edeed585914451d0a.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/14/102478751-0-image-a-25_1758893906640.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/32d87a470d04f75fd52218664ebd3f18.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/20/102459293-0-image-a-33_1758829132826.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/be40a490a78bcfa72dfb7a43e550d29f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/15/102480073-0-image-a-17_1758896570326.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e2e0814a408613f33b3ae79c33031763.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/22/14/102348045-0-image-a-254_1758546650323.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5430f18ce2cee30ac374a9d722689dd5.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/15/102480907-0-image-a-13_1758897873672.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/42b64ad92130ea6a3b3006a93b8db152.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/16/102451933-0-image-a-17_1758813756241.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/86db7756aa847a05c93e0797be31896b.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/05/102468811-0-image-a-56_1758861117503.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/18f145a78c3a41c5763253f455cccc7d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/07/102470469-0-image-a-161_1758869972503.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f7ae6d7350eb5d32c21f7ff9d730d7c7.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/05/102468523-0-image-a-22_1758859415639.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/64a8dfbbc0690c5b9b8c2aa55a6fc625.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/06/1758863490333_3846740662523612.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c20057218e1b53dc88c357399fbd4dd9.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/00/102464423-0-image-m-25_1758842872098.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/52ae0200d25ff42879322e72fca44600.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/13/102475987-0-image-a-42_1758891185751.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/dfa710d9b0ce9d51ac0a525762fba936.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/04/102468255-0-image-a-91_1758857914510.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/dce423ff156aaf7b54a3f28803cba6d0.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/12/69418351-0-Sarah_Ferguson_released_her_autobiography_in_1996_soon_after_her-a-4_1758887976056.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5e8792331bba9a777cd94171b310b35a.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/13/102476197-0-image-m-80_1758888238167.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d540d257a83bbeb404c6b6f9b3aac2c0.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/11/102474873-0-image-a-56_1758883832486.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/8465847a30b84169c68f083667f9984c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/10/102471949-0-image-a-22_1758878920710.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6c74c5f00981c0114530faa6ed36b18c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/15/102475787-0-image-m-10_1758896749536.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b2f42a2c399e1767263c1af855e3631e.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/00/102464495-0-image-a-15_1758842988001.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/81aedb5c10b4eb3a846ee5542bc2eb4d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/11/102473833-0-image-a-15_1758881508265.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/3b09c89b66c8445da8d10a964adcb81c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/06/102469613-0-image-a-72_1758865766818.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c9de68ff3fd3ff87f126b51881adf864.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/22/102461797-0-image-a-17_1758835392488.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/0d3c6d1b6424be71fcfa69ab30ac70f1.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/10/102471191-0-image-m-23_1758879427553.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/2911fac1f0dce1d819806ea978ab066e.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/09/102471573-0-image-a-27_1758875044521.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/128d7ebc1b4f8725a87a683b62b29e41.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/15/102480033-0-image-a-114_1758896338668.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/8e4f171b3bfefd213116566e4e84dc27.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/12/102475995-0-image-a-11_1758887426338.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/31cbb28e11d4b561724bba77708f56db.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/13/102476465-0-image-a-16_1758888722347.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/da4fd0e2e0b0dc6c1bab88821bfb79d2.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/09/102472009-0-image-a-21_1758876561751.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/799454d1c3aae98cef101980a047c043.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/01/102465697-0-image-a-36_1758847688311.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/210ae278c03f40d226eb279c923f993d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/08/102464593-0-image-m-18_1758958979843.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5bbc1a7315980dc529723f47df4c5fbd.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/10/102472419-0-image-a-35_1758878445508.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/489f6f880d92fb3fd2177ea5ed3cd8d5.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/03/102467025-0-image-a-81_1758852244986.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c0b14f5775cf5dd9e3ed4e58fdb630b8.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/08/102470841-0-image-a-8_1758871298681.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/7f46ad168a84a2cc20677c03387e4371.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/10/102472289-0-image-a-19_1758877297089.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/bf609b2a508bf5e75bf4e7570f97d545.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/20/102458493-0-image-a-25_1758829482010.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/a2bff0d9cdade817187f0168d548a92d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/01/102465721-0-image-a-33_1758847656519.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/fc47109fb0854f002133ad33bd4ead82.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/05/102468839-0-image-a-131_1758861230003.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/804513a2f4ea7743b237a3bf403378bd.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/02/102466283-0-image-a-54_1758850254752.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/ebc0313392ea2b1809c82af6f8bb8a74.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/10/102441123-0-image-m-8_1758793691625.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/17f25baf7d86f711b562e9d35e141dd1.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/19/102458235-0-image-a-16_1758826211854.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/41735711699dc90c3b07f4cdb4484acd.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/24/20/102425069-0-image-m-33_1758741149648.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/749aeb75565843bb91b11b25d990d460.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/08/102323955-0-image-m-12_1758872271688.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/582551b5ad1a8cb1900b2b275fa9c6af.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/15/16/102155377-0-image-a-29_1757949055002.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/ed53988bf489c498a2e77c988b0ac9ee.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/18/102456015-0-image-a-1_1758821892107.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/8ca3c93b9a8f023370aa0a255eaa0cde.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/02/102466915-0-image-a-16_1758851616907.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/2891c21a33b29aeebb2acb97e010792b.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/21/102460919-0-image-a-55_1758832952717.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/8daf06ec5f9147129786b6a4dfbf2e9d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/06/102469391-0-image-a-124_1758864317114.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/265352dde62193b76c0cd171db9d8599.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/03/102466999-0-image-a-57_1758852197743.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f985e596e62c5e7b886c9795aa62fe70.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/06/102468853-0-image-a-75_1758863804839.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/aaa8e240bba0eb2d0909656d2893e27f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/20/102458401-0-image-a-97_1758826813500.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/43341ac69bebe802a3d671beb0301f60.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/22/20/102358329-0-image-a-72_1758570945483.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/88b72e59834be50276fe07596b9492f7.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/15/102448765-0-image-m-11_1758809251620.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4b51615d1962bba8d5576e82821683f7.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/01/102465345-0-image-a-31_1758846776632.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/440faabde03025befbb2abe4d876752f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/03/102467195-0-image-a-14_1758853501855.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/61cf32f3a62011eb8b316570db2dca9c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/21/102460811-0-image-a-39_1758832677243.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/884fe6bd837edde76c214da695b6f144.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/21/102460645-0-image-a-13_1758832221822.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d21c365162543e1fc29b929c18d7c172.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/21/102460981-0-image-a-4_1758833237895.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/42d815ca6559d8ad4e5b757187c56940.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/22/102462325-0-image-a-23_1758836396108.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5d94d1c08541f790fa315d0f706beca0.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/01/102465319-0-image-a-12_1758845816759.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/89532f63f236b8ab21b59c66409b628c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/02/102466619-0-image-a-12_1758850275527.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e2c1fa7ce818857a23703b5599acfe24.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/22/102461941-0-image-a-69_1758836033460.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/35f0cd6e6588a588c3adef26802ae066.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/23/102462591-0-image-a-4_1758837709520.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/ed4a94b0014c8136da11783b9b24bd68.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/19/102456917-0-image-a-83_1758823222265.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/a9b1ac4b4004975b9466116b28d87f32.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/18/102456881-0-image-a-44_1758823105177.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4749abb213530f02e05b45ee295644d0.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/16/102452795-0-image-a-102_1758815091570.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/aa7579a28a94dfd133ba99e789a7f41e.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/00/102463299-0-Abbott_Elementary_star_Quinta_Brunson_has_reportedly_reached_a_s-m-6_1758842641009.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/7337c6bc23f42f614d3020b589f96f77.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/21/102461329-0-image-a-127_1758833960445.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/a26e328b6dba987d4426207d7adf8557.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/00/102464301-0-image-a-19_1758842536157.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f7bb6ad4c2a526f0faa78350a32d78e3.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/23/102462731-0-image-a-63_1758838005269.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/72c3dba0b108bb93575b4de020a5c58f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/21/102461171-0-image-m-3_1758833635089.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/1dd43a3ea074c556a211fcb6f03c4c21.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/17/102450847-0-image-m-37_1758818682237.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e285334854ba85521ce5ca3804b9756e.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/18/102456269-0-image-a-22_1758822069480.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/8149fe88d92c8740bd59be6643955a46.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/22/1758836319919_4994578163793438.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b103e9203f07b73b3464a95bde70e044.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/20/102458411-0-image-a-20_1758826891369.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/54d5ff43569375996079c466575e724d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/20/102459365-0-image-a-92_1758829307183.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/116a4a4c859e2e7aa3a7137003658ba9.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/21/102460435-0-image-a-19_1758831687620.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/320fe32c3457b999c35f5929e81c31ef.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/15/102450871-0-image-a-15_1758812065066.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4c539cc92b5a79c8927f50af2f5688c1.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/04/102434463-0-image-a-1_1758771071945.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d33eb7f34e86cfbdad01fc16618a1125.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/15/102448639-0-image-m-44_1758810571481.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/47d15de727ee16b09c8d6d3bf8d20ec0.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/14/102447011-0-image-a-16_1758806029049.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/50e03a728fd04bd1b0c2bdae398feec2.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/20/102459709-0-image-a-110_1758829880403.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e362ab70b24b910d7a20cf7987b22582.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/20/102459789-0-image-a-25_1758830008707.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d2dde4aad9dc90f805b27cf549982815.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/17/102454409-0-image-a-10_1758818271889.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/08796605e6d16af9b1dc1ba0e0af03a8.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/17/102454039-0-image-a-15_1758817282028.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/a2478b6a0c8016bd4fa314bbe32361ef.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/15/102449505-0-image-a-25_1758810242219.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/3304fb700955f717944057382252dc9d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/19/102457399-0-image-m-17_1758824206500.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/8e4a6189d274a25a5012dd2b6d8aa2c1.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/19/102457201-0-image-a-11_1758823857297.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/8cc016cec1059d768812153e2db433cb.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/20/102459355-0-image-a-423_1758829290387.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/1e1c38e1ed5e75f5ea78bd73c7c86b60.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/17/102453621-0-image-m-18_1758816651782.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/724a1ae5f9af2f55ed04a986bc38e695.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/15/102450453-0-image-a-53_1758811646276.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/45c34f4c9018fcb9e3189a6ad67f643a.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/17/102454995-0-image-a-22_1758818863867.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/514c551267380897696573631a079827.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/15/102447741-0-Violet_Affleck_the_daughter_of_Jennifer_Garner_and_Ben_Affleck_a-a-17_1758808891808.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/7c5f612733ad28e63e12f12d544c0df1.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/18/102455547-0-image-a-21_1758819789588.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/91910d0de6b44fb0399c0079975c68f5.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/07/102437555-0-image-a-245_1758782888318.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d6a4442411362dfc0a85a7753d880704.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/20/102458783-0-image-a-37_1758827732376.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9ca0a1beadbf48e0d53771539c9e4168.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/12/102444779-0-image-a-47_1758801012796.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6aea39c64d2a02d50d5f83784b8b5277.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/12/102444517-0-image-a-1_1758800367671.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5db104d7c89ef418580c4cb74ebc62ec.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/16/102452311-0-image-a-15_1758814537206.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/71379130bd19085dcefcf4faeac7ae51.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/15/102449989-0-image-a-23_1758810754209.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/3e21bb37348b0f1211f20a3a61a3bf1c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/03/102433883-0-image-a-109_1758766210417.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d43ea7bda60d1b10c67d1b24931b1007.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/14/102446809-0-image-a-9_1758805765089.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/1ef6ce03245af12a8c911e1ab29eb79f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/15/102448911-0-image-a-25_1758809369669.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/84ba6695affad207e9095c21ae3ca850.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/16/102451781-0-image-a-70_1758813616480.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e680f9bf571dafa2ab1c2f597dc88f18.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/15/102449773-0-image-a-17_1758810553440.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/8628a1658801b43f32a3552b2d4917c6.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/16/102452321-0-image-a-20_1758814556122.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c3f3f20e206ac19cdb550414ba058ba1.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/16/102451655-0-image-a-68_1758813472675.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/848d1e17e7ee66923b63925110c32d6a.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/15/102448539-0-image-a-44_1758812076904.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5d15de427425d7b3c9f97a600a1653c6.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/i/furniture/misc/logo_cookie_reg.png",
+      "alt": "Cookie regulation logo",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5d0e149096efc140f034f751f0ec2cb4.png"
+    }
+  ]
+}

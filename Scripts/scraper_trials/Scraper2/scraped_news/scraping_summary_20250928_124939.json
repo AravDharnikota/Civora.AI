@@ -1,0 +1,46 @@
+{
+  "scraping_date": "20250928_124939",
+  "total_sites": 3,
+  "total_articles": 3,
+  "sites": {
+    "https://www.cnn.com/politics": {
+      "articles_count": 1,
+      "images_count": 46,
+      "articles": [
+        {
+          "title": "Inside the seven tumultuous days that led to the James Comey indictment",
+          "url": "https://www.cnn.com/2025/09/26/politics/james-comey-indictment-trump-prosecution",
+          "author": "Jeremy Herb",
+          "word_count": 2381,
+          "images_count": 46
+        }
+      ]
+    },
+    "https://www.foxnews.com/politics": {
+      "articles_count": 1,
+      "images_count": 0,
+      "articles": [
+        {
+          "title": "FOXNews.com RSS Feeds",
+          "url": "https://www.foxnews.com/story/foxnews-com-rss-feeds",
+          "author": null,
+          "word_count": 483,
+          "images_count": 0
+        }
+      ]
+    },
+    "https://www.nytimes.com/section/politics": {
+      "articles_count": 1,
+      "images_count": 2,
+      "articles": [
+        {
+          "title": "With Scant Information, Federal Workers Brace for Possible Shutdown",
+          "url": "https://www.nytimes.com/2025/09/28/us/politics/federal-government-shutdown-trump.html",
+          "author": null,
+          "word_count": 168,
+          "images_count": 2
+        }
+      ]
+    }
+  }
+}

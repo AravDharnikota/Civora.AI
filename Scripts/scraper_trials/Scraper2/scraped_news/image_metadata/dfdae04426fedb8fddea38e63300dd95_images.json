@@ -1,0 +1,42 @@
+{
+  "article_url": "https://www.theguardian.com/world/2025/sep/28/as-my-daughter-got-sicker-and-sicker-our-quest-for-answers-dragged-on-how-did-we-all-miss-the-bacteria-taking-over-her-body",
+  "article_title": "As my daughter got sicker and sicker, our quest for answers dragged on. How did we all miss the bacteria taking over her body?",
+  "scraped_at": "2025-09-28T13:01:01.242468",
+  "images": [
+    {
+      "src": "https://i.guim.co.uk/img/media/693a99e95e5f275a7eb47453d064916c8dee2248/0_1732_5504_6061/master/5504.jpg?width=465&dpr=1&s=none&crop=none",
+      "alt": "Girl in pink jumper and jeans, holding a dachshund, leafy trees behind her",
+      "title": "",
+      "caption": "‘It’s difficult to think of the future right now’: Milly with family dog Betty.Photograph: Ali Smith/The Guardian",
+      "downloaded_path": "scraped_news/images/9821700fac1314a815f58c4e8bf22301.webp"
+    },
+    {
+      "src": "https://i.guim.co.uk/img/uploads/2017/10/09/Patrick-Barkham",
+      "alt": "Patrick Barkham",
+      "title": "",
+      "caption": "Milly with parents Patrick and Lisa, sister Esme and brother Ted.Photograph: Ali Smith/The Guardian",
+      "downloaded_path": null
+    },
+    {
+      "src": "https://i.guim.co.uk/img/media/153649323504619ef6fe047274c3225ca0c00d82/0_0_8256_5504/master/8256.jpg?width=445&dpr=1&s=none&crop=none",
+      "alt": "Writer Patrick Barkham with his wife Lisa, twin daughters Milly and Esme, and son Ted, tress behind them",
+      "title": "",
+      "caption": "Milly with parents Patrick and Lisa, sister Esme and brother Ted.Photograph: Ali Smith/The Guardian",
+      "downloaded_path": "scraped_news/images/e6b39214b5dcafc602b99fc6edb94b93.webp"
+    },
+    {
+      "src": "https://i.guim.co.uk/img/media/8c5f542381d085c32d5ceab9228a34fded945dd9/0_986_2006_1936/master/2006.jpg?width=445&dpr=1&s=none&crop=none",
+      "alt": "Young girl standing on a rock in the Lake District, UK",
+      "title": "",
+      "caption": "Milly in 2021, on the day in the Lake District when she probably contracted Lyme.Photograph: Patrick Barkham",
+      "downloaded_path": "scraped_news/images/f150fdb2d11d4335ef91c56adaa6d6df.webp"
+    },
+    {
+      "src": "https://i.guim.co.uk/img/media/14ea7522ad375dc3258371ede1d1dcc916d9a63b/0_767_2006_1655/master/2006.jpg?width=445&dpr=1&s=none&crop=none",
+      "alt": "Two young girls in football kit holding trophies",
+      "title": "",
+      "caption": "Milly in July 2021, before she fell ill, with Esme and their football trophies.Photograph: Patrick Barkham",
+      "downloaded_path": "scraped_news/images/56e794722c4d640a6ca2b589b2e63218.webp"
+    }
+  ]
+}

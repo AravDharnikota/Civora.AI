@@ -1,0 +1,182 @@
+{
+  "article_url": "https://www.bbc.com/news/war-in-ukraine",
+  "article_title": "NewsNews",
+  "scraped_at": "2025-09-28T13:03:17.462239",
+  "images": [
+    {
+      "src": "https://static.files.bbci.co.uk/bbcdotcom/web/20250919-090805-05e5ba0164-web-2.30.1-2/grey-placeholder.png",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9f70d90894b031e9f6b998273a4a821b.png"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/7e0c/live/0796d830-9c48-11f0-b741-177e3e2c2fc7.jpg.webp",
+      "alt": "Firefighters stand amid smouldering rubble with several destroyed buildings in the background.",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9fcec15231b5df1424fec3ce495b752c.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/3794/live/982fd820-98aa-11f0-928c-71dbb8619e94.jpg.webp",
+      "alt": "President Donald Trump meets with Ukrainian President Volodymyr Zelenskiy during the 80th United Nations General Assembly, in New York City. Zelensky wears a dark jackets and shirt, and Trump a navy suit white shirt and red tie. ",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f62d6a0a71af94be1444f5ae9cc46e95.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/da02/live/49ac2c10-924e-11f0-9cf6-cbf3e73ce2b9.jpg.webp",
+      "alt": "A Ukrainian man held in Russia for three and a half years grins and hugs a woman on his release in August 2025",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/8a2b6786831e83009462f620337c245f.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/c13f/live/c28ed850-95c6-11f0-9cf6-cbf3e73ce2b9.jpg.webp",
+      "alt": "A photo by the Swedish military that it says shows one of three Russian Mig-31 fighter jets after it left Estonian airspace on Friday",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6e87d3e114861e6da5f3da7013f81fe8.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/9202/live/bcab3690-94a4-11f0-84c8-99de564f0440.jpg.webp",
+      "alt": "A head shot of Evans Kibet wearing a pink shirt and looking at the camera.",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/325ad154bcb0b5a62be1e2c72ff9bcaf.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/0897/live/02c974a0-1ac2-11f0-a455-cf1d5f751d2f.png.webp",
+      "alt": "Stylised image showing a map of Ukraine overlaid with images of tanks and a soldier holding a shoulder launcher",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/7e69c54e0b1dcb1816d3fdc42c75891b.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/11c5/live/9e0e72f0-8e6a-11f0-9cf6-cbf3e73ce2b9.jpg.webp",
+      "alt": "Polish soldiers stand in front of a house destroyed with blown out roof",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/a294ea11ff0d0165adbb8048c9b0eaec.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/6f97/live/81516e60-8d6b-11f0-b7b4-bf272521a69c.jpg.webp",
+      "alt": "Roman Melnik sits in a black t shirt on a sofa with a grin on his face, staring into the camera",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/faab31e1186ed84952149ebe51a6b648.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/a6a5/live/1fba7b30-8db4-11f0-9cf6-cbf3e73ce2b9.jpg.webp",
+      "alt": "Ukriane's main government building in Kyiv is burning following a Russian air attack. Photo: 7 September 2025",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4954f44732e293f9396be233e824b79e.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/240a/live/f3044bd0-8ac9-11f0-b391-6936825093bd.jpg.webp",
+      "alt": "Residents stand at the site of an apartment building hit during a Russian drone and missile strike, amid Russia's attack on Ukraine",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/60db074737c954c86d354bd3df6c79e3.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1584/live/5467c480-9077-11f0-b391-6936825093bd.png.webp",
+      "alt": "An older gentleman stands dressed in a brown checkered blazer and a dark shirt—his attire suggests a blend of tradition and practicality. His hands grip on the handlebars of what appears to be a bicycle. Behind him is a white utility vehicle with a metal cage structure at the front. It looks like it’s designed for transporting goods—or possibly animals. The background is lush with greenery—dense foliage and trees that suggest a countryside or semi-rural environment. The paved surface underfoot implies a transitional space: not quite wild, not fully urban.",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/aa5bd28190d619f9c7a1e0ae86d3d658.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/f63a/live/1ead8000-8fcd-11f0-b391-6936825093bd.jpg.webp",
+      "alt": "Prince Harry poses for a photo with a Ukrainian soldier and a small girl.",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e78a8896f18c3ad29c340f9ae6ad96b2.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/6571/live/541653f0-8d68-11f0-9cf6-cbf3e73ce2b9.jpg.webp",
+      "alt": "Sarah Rainsford wearing a hard hat in destroyed building",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/244a7bcd8274e405a36e27476c35921c.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/0584/live/c34175b0-8800-11f0-b391-6936825093bd.jpg.webp",
+      "alt": "An inflatable tank in Ukraine",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4aaa17d2851fe3acf9b1554f8d53191f.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/cb3b/live/80235eb0-8bf7-11f0-b408-eb76b3029b4b.jpg.webp",
+      "alt": "Georgiy Sudakov during a match for Ukraine",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/489887401c80f07088e159feac5959e2.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/images/ic/480x270/p0kwvwyl.jpg.webp",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/a8e51f5f3aaf863796da2719705fe014.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/c784/live/50acb6f0-9c6d-11f0-928c-71dbb8619e94.jpg.webp",
+      "alt": "Rescuers work among the rubble following a Russian strike on a residential area in Kyiv",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e047cd42e0e6ef5e59516b8f1b51bc01.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/3fa8/live/e7815fc0-9bca-11f0-b741-177e3e2c2fc7.jpg.webp",
+      "alt": "Russia's Foreign Minister Sergei Lavrov addresses the 80th United Nations General Assembly (UNGA)",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/dbd37c5c7a4683ff5701475699a14e5b.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/9197/live/74748a90-9add-11f0-8ee5-3b441e09ef17.jpg.webp",
+      "alt": "Men sitting on coaches and others on carpet with their eyes blurred ",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/124200a873778c08bd714286d68477f0.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/627d/live/c6265280-9b4e-11f0-b741-177e3e2c2fc7.jpg.webp",
+      "alt": "Prime Minister of Moldova Dorin Recean (C) attend a march to support the voting process at parliamentary elections in front of Parliament of Moldova in Chisinau",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/03c1793b99eddb2e903045e3b4dab26c.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/7478/live/c1898730-9ab1-11f0-928c-71dbb8619e94.jpg.webp",
+      "alt": "Woman soldier wearing army combat camouflage uniform, including wide glasses and helmet in Ukraine.",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f7e585c0663d2bda9a9f837a16c75ad0.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/9401/live/cda7cb50-9a37-11f0-928c-71dbb8619e94.jpg.webp",
+      "alt": "US President Donald Trump shakes hands with Turkish President Recep Tayyip Erdogan in the Oval Office on 25 September 2025.",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b1afcef54e3c17b5beb19aba840790e3.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/c21b/live/26839050-995d-11f0-928c-71dbb8619e94.jpg.webp",
+      "alt": "Wearing a dark jacket and shirt, Ukraine's President Volodymyr Zelensky addresses the UN assembly. ",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e8b15dc8839d035c2286a6f80d0097ac.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/bdda/live/6abe6e60-994a-11f0-b42e-f379dfea869d.jpg.webp",
+      "alt": "President Donald Trump wearing a blue jacket and red tie gestures with his hands as he stands at a lectern during the 80th session of the UN’s General Assembly (UNGA) at the United Nations headquarters on September 23, 2025 ",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f6aabff7d2138aff0fcd3f6460b817b4.webp"
+    }
+  ]
+}

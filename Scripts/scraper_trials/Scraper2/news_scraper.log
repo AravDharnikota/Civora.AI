@@ -1,0 +1,1917 @@
+2025-09-24 21:50:47,927 - INFO - Added news site: https://www.cnn.com/politics
+2025-09-24 21:50:47,927 - INFO - Scraping site: https://www.cnn.com/politics
+2025-09-24 21:50:47,927 - INFO - Fetching: https://www.cnn.com/politics
+2025-09-24 21:50:56,842 - INFO - Found 47 potential articles
+2025-09-24 21:50:56,842 - INFO - Scraping article 1/3
+2025-09-24 21:50:56,842 - INFO - Fetching: https://www.cnn.com/2025/09/24/politics/trump-demands-investigation-into-alleged-sabotage-united-nations
+2025-09-24 21:51:09,777 - INFO - Added news site: https://www.cnn.com/politics
+2025-09-24 21:51:09,777 - INFO - Scraping site: https://www.cnn.com/politics
+2025-09-24 21:51:09,777 - INFO - Fetching: https://www.cnn.com/politics
+2025-09-24 21:51:18,962 - INFO - Found 47 potential articles
+2025-09-24 21:51:18,962 - INFO - Scraping article 1/3
+2025-09-24 21:51:18,962 - INFO - Fetching: https://www.cnn.com/2025/09/24/politics/trump-demands-investigation-into-alleged-sabotage-united-nations
+2025-09-24 21:55:09,009 - INFO - Added news site: https://www.cnn.com/politics
+2025-09-24 21:55:09,009 - INFO - Scraping site: https://www.cnn.com/politics
+2025-09-24 21:55:09,009 - INFO - Fetching: https://www.cnn.com/politics
+2025-09-24 21:55:17,493 - INFO - Found 47 potential articles
+2025-09-24 21:55:17,493 - INFO - Scraping article 1/5
+2025-09-24 21:55:17,493 - INFO - Fetching: https://www.cnn.com/2025/09/24/politics/trump-demands-investigation-into-alleged-sabotage-united-nations
+2025-09-24 21:55:25,556 - INFO - Saved article: 8d05d251cf5b6aea006b6247e465ea6d.json
+2025-09-24 21:55:26,558 - INFO - Scraping article 2/5
+2025-09-24 21:55:26,558 - INFO - Fetching: https://www.cnn.com/2025/09/25/politics/nato-divided-repeated-russian-incursions-response
+2025-09-24 21:55:34,815 - INFO - Saved article: 1944212fadc3d2dc7e3ed6d383913deb.json
+2025-09-24 21:55:35,819 - INFO - Scraping article 3/5
+2025-09-24 21:55:35,819 - INFO - Fetching: https://www.cnn.com/2025/09/24/politics/white-house-mass-firings-government-shut-down
+2025-09-24 21:55:44,769 - INFO - Saved article: e9aa60369c9cc1e1ae6a0b8885000f9b.json
+2025-09-24 21:55:45,774 - INFO - Scraping article 4/5
+2025-09-24 21:55:45,775 - INFO - Fetching: https://www.cnn.com/2025/09/24/politics/trump-epstein-statue-national-park-service-removal
+2025-09-24 21:55:55,199 - INFO - Saved article: 77b80212d869a2c92bbb084f78d7a115.json
+2025-09-24 21:55:56,204 - INFO - Scraping article 5/5
+2025-09-24 21:55:56,205 - INFO - Fetching: https://www.cnn.com/2025/09/24/politics/ukraine-trump-putin-pressure
+2025-09-24 21:56:04,716 - INFO - Saved article: 823a4d0d9a6247f89118265445f7edb1.json
+2025-09-24 21:56:05,721 - INFO - Scraped 5 articles from https://www.cnn.com/politics
+2025-09-24 21:56:05,840 - INFO - Exported results to: scraping_results_20250924_215605.json
+2025-09-24 21:56:56,601 - INFO - Added news site: https://www.cnn.com/politics
+2025-09-24 21:56:56,602 - INFO - Scraping site: https://www.cnn.com/politics
+2025-09-24 21:56:56,602 - INFO - Fetching: https://www.cnn.com/politics
+2025-09-24 21:57:05,097 - INFO - Found 47 potential articles
+2025-09-24 21:57:05,097 - INFO - Scraping article 1/3
+2025-09-24 21:57:05,097 - INFO - Fetching: https://www.cnn.com/2025/09/24/politics/trump-demands-investigation-into-alleged-sabotage-united-nations
+2025-09-24 21:57:13,354 - INFO - Downloaded image: f305f5ffdb0aff0e65cbe57d1f444833.jpg
+2025-09-24 21:57:13,387 - INFO - Downloaded image: b285a4ce4dd6127e70d758bc2433c3f7.jpg
+2025-09-24 21:57:13,433 - INFO - Downloaded image: e1427f9253923e2111090904b120136a.jpg
+2025-09-24 21:57:13,480 - INFO - Saved article: 8d05d251cf5b6aea006b6247e465ea6d.json
+2025-09-24 21:57:14,484 - INFO - Scraping article 2/3
+2025-09-24 21:57:14,484 - INFO - Fetching: https://www.cnn.com/2025/09/25/politics/nato-divided-repeated-russian-incursions-response
+2025-09-24 21:57:23,199 - INFO - Downloaded image: c6bfb033113c64a7a29f8ad25a3ab3af.jpg
+2025-09-24 21:57:23,239 - INFO - Downloaded image: 74b1fc696e3d9dee171609b116bc5e20.jpg
+2025-09-24 21:57:23,271 - INFO - Downloaded image: aec27c056759b03efd298c29273d9c18.jpg
+2025-09-24 21:57:23,308 - INFO - Downloaded image: 7f4445657edb40d9b5a125b63648c9f0.jpg
+2025-09-24 21:57:23,342 - INFO - Downloaded image: f0197ab31012103857a4ffd610e52f4f.jpg
+2025-09-24 21:57:23,381 - INFO - Downloaded image: 5d84d5f098b6b584365ca2dff115821e.jpg
+2025-09-24 21:57:23,423 - INFO - Saved article: 1944212fadc3d2dc7e3ed6d383913deb.json
+2025-09-24 21:57:24,429 - INFO - Scraping article 3/3
+2025-09-24 21:57:24,429 - INFO - Fetching: https://www.cnn.com/2025/09/24/politics/white-house-mass-firings-government-shut-down
+2025-09-24 21:57:33,084 - INFO - Downloaded image: f8082ddc6a2179263458ef94253b3f8d.jpg
+2025-09-24 21:57:33,110 - INFO - Downloaded image: 3b3da52d2eea1dd03441f8d1379d5852.jpg
+2025-09-24 21:57:33,152 - INFO - Saved article: e9aa60369c9cc1e1ae6a0b8885000f9b.json
+2025-09-24 21:57:34,154 - INFO - Scraped 3 articles from https://www.cnn.com/politics
+2025-09-28 12:29:55,707 - INFO - Added news site: https://www.cnn.com
+2025-09-28 12:29:55,707 - INFO - Added news site: https://www.bbc.com
+2025-09-28 12:29:55,707 - INFO - Added news site: https://www.reuters.com
+2025-09-28 12:29:55,707 - INFO - Scraping site: https://www.cnn.com
+2025-09-28 12:29:55,707 - INFO - Fetching: https://www.cnn.com
+2025-09-28 12:29:56,288 - INFO - Found 23 potential articles
+2025-09-28 12:29:56,288 - INFO - Scraping article 1/1
+2025-09-28 12:29:56,288 - INFO - Fetching: https://www.cnn.com/2025/09/26/politics/government-shutdown-september-2025-explained
+2025-09-28 12:29:56,524 - INFO - Saved article: fc77f32d40cda058524969df9b52cab2.json
+2025-09-28 12:29:57,528 - INFO - Scraped 1 articles from https://www.cnn.com
+2025-09-28 12:29:57,528 - INFO - Scraping site: https://www.bbc.com
+2025-09-28 12:29:57,528 - INFO - Fetching: https://www.bbc.com
+2025-09-28 12:29:58,018 - INFO - Found 81 potential articles
+2025-09-28 12:29:58,018 - INFO - Scraping article 1/1
+2025-09-28 12:29:58,019 - INFO - Fetching: https://www.bbc.com/travel/article/20250925-the-cool-camino-why-hikers-are-heading-north
+2025-09-28 12:29:58,225 - INFO - Saved article: e1eb47d786c0bfc2ee342dd38413f9bb.json
+2025-09-28 12:29:59,229 - INFO - Scraped 1 articles from https://www.bbc.com
+2025-09-28 12:29:59,229 - INFO - Scraping site: https://www.reuters.com
+2025-09-28 12:29:59,229 - INFO - Fetching: https://www.reuters.com
+2025-09-28 12:29:59,470 - ERROR - Error fetching https://www.reuters.com: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
+2025-09-28 12:29:59,470 - INFO - Scraped 0 articles from https://www.reuters.com
+2025-09-28 12:30:08,663 - INFO - Added news site: https://www.nytimes.com
+2025-09-28 12:30:08,664 - INFO - Added news site: https://www.washingtonpost.com
+2025-09-28 12:30:08,664 - INFO - Added news site: https://www.foxnews.com
+2025-09-28 12:30:08,664 - INFO - Added news site: https://www.breitbart.com
+2025-09-28 12:30:08,664 - INFO - Added news site: https://www.theguardian.com
+2025-09-28 12:30:08,664 - INFO - Scraping site: https://www.nytimes.com
+2025-09-28 12:30:08,664 - INFO - Fetching: https://www.nytimes.com
+2025-09-28 12:30:09,203 - INFO - Found 16 potential articles
+2025-09-28 12:30:09,203 - INFO - Scraping article 1/1
+2025-09-28 12:30:09,203 - INFO - Fetching: https://www.nytimes.com/article/serial-the-retrievals.html
+2025-09-28 12:30:09,798 - INFO - Saved article: e24e9ee5b35ad2486fe0c311115dde81.json
+2025-09-28 12:30:10,803 - INFO - Scraped 1 articles from https://www.nytimes.com
+2025-09-28 12:30:10,804 - INFO - Scraping site: https://www.washingtonpost.com
+2025-09-28 12:30:10,804 - INFO - Fetching: https://www.washingtonpost.com
+2025-09-28 12:30:41,012 - ERROR - Error fetching https://www.washingtonpost.com: HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=30)
+2025-09-28 12:30:41,013 - INFO - Scraped 0 articles from https://www.washingtonpost.com
+2025-09-28 12:30:41,013 - INFO - Scraping site: https://www.foxnews.com
+2025-09-28 12:30:41,013 - INFO - Fetching: https://www.foxnews.com
+2025-09-28 12:30:41,421 - INFO - Found 2 potential articles
+2025-09-28 12:30:41,421 - INFO - Scraping article 1/1
+2025-09-28 12:30:41,421 - INFO - Fetching: https://www.foxnews.com/story/where-in-the-world-is-fox
+2025-09-28 12:30:41,733 - INFO - Saved article: 211946ed7775bf276f9b2208bacfbc2f.json
+2025-09-28 12:30:42,739 - INFO - Scraped 1 articles from https://www.foxnews.com
+2025-09-28 12:30:42,739 - INFO - Scraping site: https://www.breitbart.com
+2025-09-28 12:30:42,739 - INFO - Fetching: https://www.breitbart.com
+2025-09-28 12:30:43,064 - INFO - Found 33 potential articles
+2025-09-28 12:30:43,064 - INFO - Scraping article 1/1
+2025-09-28 12:30:43,064 - INFO - Fetching: https://www.breitbart.com/news/
+2025-09-28 12:30:43,270 - INFO - Saved article: 377b96874e9d0389a29c7a94091e9aa8.json
+2025-09-28 12:30:44,275 - INFO - Scraped 1 articles from https://www.breitbart.com
+2025-09-28 12:30:44,276 - INFO - Scraping site: https://www.theguardian.com
+2025-09-28 12:30:44,276 - INFO - Fetching: https://www.theguardian.com
+2025-09-28 12:30:44,814 - INFO - Found 24 potential articles
+2025-09-28 12:30:44,814 - INFO - Scraping article 1/1
+2025-09-28 12:30:44,814 - INFO - Fetching: https://www.theguardian.com/news/ng-interactive/2025/sep/28/you-have-to-live-ukrainians-on-frontline-practice-normality-despite-russian-bombings
+2025-09-28 12:30:45,161 - INFO - Saved article: 29011561c1818a4b1f26a59401ca93c2.json
+2025-09-28 12:30:46,165 - INFO - Scraped 1 articles from https://www.theguardian.com
+2025-09-28 12:35:05,396 - INFO - Downloaded image: 52b5aadd12bafe73208d02275a037f22.webp
+2025-09-28 12:35:16,918 - INFO - Added news site: https://www.theguardian.com
+2025-09-28 12:35:16,918 - INFO - Scraping site: https://www.theguardian.com
+2025-09-28 12:35:16,918 - INFO - Fetching: https://www.theguardian.com
+2025-09-28 12:35:17,284 - INFO - Found 24 potential articles
+2025-09-28 12:35:17,284 - INFO - Scraping article 1/1
+2025-09-28 12:35:17,284 - INFO - Fetching: https://www.theguardian.com/news/ng-interactive/2025/sep/28/you-have-to-live-ukrainians-on-frontline-practice-normality-despite-russian-bombings
+2025-09-28 12:35:17,535 - INFO - Downloaded image: 52b5aadd12bafe73208d02275a037f22.webp
+2025-09-28 12:35:17,561 - INFO - Downloaded image: e09cc97d41f8d95b8e1ea9234ca17833.webp
+2025-09-28 12:35:17,599 - INFO - Downloaded image: 0ea8d94b64710ffab7f33c665c1fc2dc.webp
+2025-09-28 12:35:17,624 - INFO - Downloaded image: defa1bf3359ac0083dd4c44ebed97a47.webp
+2025-09-28 12:35:17,651 - INFO - Downloaded image: 16980458b9b72fb5e04322e263b2aa2c.webp
+2025-09-28 12:35:17,676 - INFO - Downloaded image: 2f4f840ca8513423a19f80607798e90a.webp
+2025-09-28 12:35:17,688 - INFO - Saved article: 29011561c1818a4b1f26a59401ca93c2.json
+2025-09-28 12:35:18,693 - INFO - Scraped 1 articles from https://www.theguardian.com
+2025-09-28 12:36:00,166 - INFO - Added news site: https://www.cnn.com
+2025-09-28 12:36:00,166 - INFO - Scraping site: https://www.cnn.com
+2025-09-28 12:36:00,166 - INFO - Fetching: https://www.cnn.com
+2025-09-28 12:36:00,717 - INFO - Found 23 potential articles
+2025-09-28 12:36:00,717 - INFO - Scraping article 1/1
+2025-09-28 12:36:00,717 - INFO - Fetching: https://www.cnn.com/2025/09/26/politics/government-shutdown-september-2025-explained
+2025-09-28 12:36:01,309 - INFO - Downloaded image: e9410a1e914a1cba36591957907adc00.jpg (70041 bytes)
+2025-09-28 12:36:01,397 - INFO - Downloaded image: 8d40a13454b6e9508e50ccaf7bae8190.jpg (128956 bytes)
+2025-09-28 12:36:01,502 - INFO - Downloaded image: 0051c2bc454ec7f034e2f7852ac7343d.jpg (116752 bytes)
+2025-09-28 12:36:01,551 - INFO - Saved article: fc77f32d40cda058524969df9b52cab2.json
+2025-09-28 12:36:02,557 - INFO - Scraped 1 articles from https://www.cnn.com
+2025-09-28 12:40:53,277 - INFO - Added news site: https://www.cnn.com/politics
+2025-09-28 12:40:53,278 - INFO - Added news site: https://www.foxnews.com/politics
+2025-09-28 12:40:53,279 - INFO - Added news site: https://www.nytimes.com/section/politics
+2025-09-28 12:40:53,279 - INFO - Added news site: https://www.thehill.com
+2025-09-28 12:40:53,280 - INFO - Added news site: https://www.politico.com
+2025-09-28 12:40:53,280 - INFO - Scraping site: https://www.cnn.com/politics
+2025-09-28 12:40:53,280 - INFO - Fetching: https://www.cnn.com/politics
+2025-09-28 12:40:53,780 - INFO - Found 47 potential articles
+2025-09-28 12:40:53,780 - INFO - Scraping article 1/1
+2025-09-28 12:40:53,780 - INFO - Fetching: https://www.cnn.com/2025/09/28/politics/trump-ai-medbed-conspiracy-theory
+2025-09-28 12:40:54,234 - INFO - Downloaded image: 347fd9eff8721f7a0d2f45a96a079c57.jpg (94045 bytes)
+2025-09-28 12:40:54,274 - INFO - Saved article: 98302d37adeaf5fa302910e34ad70d46.json
+2025-09-28 12:40:55,280 - INFO - Scraped 1 articles from https://www.cnn.com/politics
+2025-09-28 12:40:55,280 - INFO - Scraping site: https://www.foxnews.com/politics
+2025-09-28 12:40:55,280 - INFO - Fetching: https://www.foxnews.com/politics
+2025-09-28 12:40:55,561 - INFO - Found 2 potential articles
+2025-09-28 12:40:55,561 - INFO - Scraping article 1/1
+2025-09-28 12:40:55,561 - INFO - Fetching: https://www.foxnews.com/story/foxnews-com-rss-feeds
+2025-09-28 12:40:55,836 - INFO - Saved article: b1a156c07daed0050ebe6b4827c7aad5.json
+2025-09-28 12:40:56,836 - INFO - Scraped 1 articles from https://www.foxnews.com/politics
+2025-09-28 12:40:56,837 - INFO - Scraping site: https://www.nytimes.com/section/politics
+2025-09-28 12:40:56,837 - INFO - Fetching: https://www.nytimes.com/section/politics
+2025-09-28 12:40:57,119 - INFO - Found 10 potential articles
+2025-09-28 12:40:57,119 - INFO - Scraping article 1/1
+2025-09-28 12:40:57,119 - INFO - Fetching: https://www.nytimes.com/2025/09/28/us/politics/federal-government-shutdown-trump.html
+2025-09-28 12:40:57,458 - INFO - Downloaded image: 83292925b72b12111c8a189bb21a1626.webp (72910 bytes)
+2025-09-28 12:40:57,483 - INFO - Downloaded image: 578328be726fee8390f32afb49d92f95.png (25167 bytes)
+2025-09-28 12:40:57,488 - INFO - Saved article: 15d31ed156db5d4cf36f2b1b5c635a95.json
+2025-09-28 12:40:58,493 - INFO - Scraped 1 articles from https://www.nytimes.com/section/politics
+2025-09-28 12:40:58,493 - INFO - Scraping site: https://www.thehill.com
+2025-09-28 12:40:58,494 - INFO - Fetching: https://www.thehill.com
+2025-09-28 12:40:58,833 - INFO - Found 1 potential articles
+2025-09-28 12:40:58,834 - INFO - Scraping article 1/1
+2025-09-28 12:40:58,834 - INFO - Fetching: https://www.thehill.com/news/
+2025-09-28 12:40:59,184 - INFO - Saved article: 6f4e05dd416b32d049d38261c9e6bb42.json
+2025-09-28 12:41:00,189 - INFO - Scraped 1 articles from https://www.thehill.com
+2025-09-28 12:41:00,189 - INFO - Scraping site: https://www.politico.com
+2025-09-28 12:41:00,189 - INFO - Fetching: https://www.politico.com
+2025-09-28 12:41:00,314 - ERROR - Error fetching https://www.politico.com: 403 Client Error: Forbidden for url: https://www.politico.com/
+2025-09-28 12:41:00,314 - INFO - Scraped 0 articles from https://www.politico.com
+2025-09-28 12:49:28,607 - INFO - Added news site: https://www.cnn.com/politics
+2025-09-28 12:49:28,608 - INFO - Added news site: https://www.foxnews.com/politics
+2025-09-28 12:49:28,608 - INFO - Added news site: https://www.nytimes.com/section/politics
+2025-09-28 12:49:28,608 - INFO - Scraping site: https://www.cnn.com/politics
+2025-09-28 12:49:28,608 - INFO - Fetching: https://www.cnn.com/politics
+2025-09-28 12:49:29,010 - INFO - Found 47 potential articles
+2025-09-28 12:49:29,011 - INFO - Scraping article 1/1
+2025-09-28 12:49:29,011 - INFO - Fetching: https://www.cnn.com/2025/09/26/politics/james-comey-indictment-trump-prosecution
+2025-09-28 12:49:29,610 - INFO - Downloaded image: e9ab5a39fdc5fc535b652adc9581ec67.jpg (56776 bytes)
+2025-09-28 12:49:29,641 - INFO - Downloaded image: 8a2b909ab419d6e4138a80df85eb4983.jpg (25215 bytes)
+2025-09-28 12:49:29,742 - INFO - Downloaded image: bc0323a99ffe73a06acdf86266a3d840.jpg (4475 bytes)
+2025-09-28 12:49:29,853 - INFO - Downloaded image: 646da32541bcefc40fac9e6be698a20f.jpg (7656 bytes)
+2025-09-28 12:49:29,885 - INFO - Downloaded image: 255160cc9e3a05b354cdbb970858ca66.jpg (44860 bytes)
+2025-09-28 12:49:30,009 - INFO - Downloaded image: b49b3755771dacd9903bbd96c1908053.jpg (6850 bytes)
+2025-09-28 12:49:30,050 - INFO - Downloaded image: a087963b493a8df09f80a03930bf2d10.jpg (41343 bytes)
+2025-09-28 12:49:30,162 - INFO - Downloaded image: ebcdd716aaccccabc97069d26a4f134c.jpg (8451 bytes)
+2025-09-28 12:49:30,272 - INFO - Downloaded image: 71e96f58e49c5dafecb421576f774541.jpg (55320 bytes)
+2025-09-28 12:49:30,379 - INFO - Downloaded image: c772b61fcba91d154a0a48b1f99464ac.jpg (4719 bytes)
+2025-09-28 12:49:30,471 - INFO - Downloaded image: 061ee57e0d5024afc355e7e7701fa87f.jpg (32378 bytes)
+2025-09-28 12:49:30,576 - INFO - Downloaded image: ccf6846457856aeacd1496eb37cbf142.png (65113 bytes)
+2025-09-28 12:49:30,712 - INFO - Downloaded image: af3ad7b1b0236560492820628a5c53e6.png (573281 bytes)
+2025-09-28 12:49:31,014 - INFO - Downloaded image: e62526d083dabbd07408db7b1782e226.jpg (8911 bytes)
+2025-09-28 12:49:31,238 - INFO - Downloaded image: 947e4494c3f99f94322e8eaa966575ff.jpg (41949 bytes)
+2025-09-28 12:49:31,699 - INFO - Downloaded image: 71d547a3df045ad05d4d8fc6561f8faa.jpg (11868 bytes)
+2025-09-28 12:49:31,735 - INFO - Downloaded image: 64c828e8129f2e9d3dac0586cff84402.jpg (67670 bytes)
+2025-09-28 12:49:31,906 - INFO - Downloaded image: 54be7ad340299419289dfde449a1cbb8.jpg (8370 bytes)
+2025-09-28 12:49:31,937 - INFO - Downloaded image: 67aadad4a2c0d8667f948725259ac873.jpg (57233 bytes)
+2025-09-28 12:49:32,144 - INFO - Downloaded image: 78b85cf229416a55ecf39c6f40b148db.jpg (8150 bytes)
+2025-09-28 12:49:32,180 - INFO - Downloaded image: 892f7db96297109733f356fc3419e0dd.jpg (51540 bytes)
+2025-09-28 12:49:32,620 - INFO - Downloaded image: 672600fcb557bb3cc861b3ca7de9428e.jpg (10281 bytes)
+2025-09-28 12:49:32,651 - INFO - Downloaded image: 0bc58d5a2e3748a4a5ead92b06872a6f.jpg (44960 bytes)
+2025-09-28 12:49:32,747 - INFO - Downloaded image: 3ff0fe35f6b3cf3c3f270c4c5870c5ff.jpg (6741 bytes)
+2025-09-28 12:49:32,787 - INFO - Downloaded image: edecc894ad4eb98fd5dc3d63b75b7760.jpg (38613 bytes)
+2025-09-28 12:49:32,893 - INFO - Downloaded image: 05d51d02c5891c6b6482bb54d702dd62.jpg (13673 bytes)
+2025-09-28 12:49:32,926 - INFO - Downloaded image: d1cae710c2a3fdd3237cd38f7ef34f2e.jpg (99537 bytes)
+2025-09-28 12:49:33,051 - INFO - Downloaded image: 2ee62ea027c372c88e39a6d912a60ada.jpg (10991 bytes)
+2025-09-28 12:49:33,081 - INFO - Downloaded image: bc6654ca2b31a67d251f02fda8294bf3.jpg (55383 bytes)
+2025-09-28 12:49:33,173 - INFO - Downloaded image: 23619c484c15d922eada8418ceeeac01.jpg (8961 bytes)
+2025-09-28 12:49:33,292 - INFO - Downloaded image: 7dbd1aed21e913f6b50cfb2856053eae.jpg (55297 bytes)
+2025-09-28 12:49:33,391 - INFO - Downloaded image: 1dacd560adc634507cefaebc1079ce50.png (56663 bytes)
+2025-09-28 12:49:33,497 - INFO - Downloaded image: 118b39a0c62472fc3c12d0e0a3f33d4e.png (462798 bytes)
+2025-09-28 12:49:33,602 - INFO - Downloaded image: 72967a8392c1cfeb401697428319faed.jpg (8298 bytes)
+2025-09-28 12:49:33,696 - INFO - Downloaded image: 6054de565c96170a712e2c0e2a4a1c09.jpg (49640 bytes)
+2025-09-28 12:49:33,791 - INFO - Downloaded image: 7d4b593306dc92c2faf71932b28547b1.png (62583 bytes)
+2025-09-28 12:49:33,846 - INFO - Downloaded image: 7fb068c6c97457ceb684279c5ef810c4.png (562960 bytes)
+2025-09-28 12:49:34,003 - INFO - Downloaded image: 50a0524c87b98180017bd1a683b3fd87.jpg (6864 bytes)
+2025-09-28 12:49:34,036 - INFO - Downloaded image: d3613e2f7abc9f302944a0e0733f222c.jpg (40416 bytes)
+2025-09-28 12:49:34,141 - INFO - Downloaded image: f031fd9826b7b19dde6632e7f39ea155.png (60629 bytes)
+2025-09-28 12:49:34,396 - INFO - Downloaded image: c019e40a33f56701e99c48464dc91f5b.png (506691 bytes)
+2025-09-28 12:49:34,508 - INFO - Downloaded image: ee2c64665153a91350511feda032c406.png (62692 bytes)
+2025-09-28 12:49:34,557 - INFO - Downloaded image: 9e7a862f1f75c24dacf9a77afa165f66.png (542563 bytes)
+2025-09-28 12:49:34,651 - INFO - Downloaded image: 7852c86255d90c3d5629affcafa47be8.jpg (39474 bytes)
+2025-09-28 12:49:34,686 - INFO - Downloaded image: 69e4a9296c8e1735075312e312914ace.jpg (142038 bytes)
+2025-09-28 12:49:34,713 - INFO - Downloaded image: 65168f076e300b090d0c3f5e2af5dd0f.jpg (37693 bytes)
+2025-09-28 12:49:34,770 - INFO - Saved article: d572c284a3db8d67018318b0efd890c1.json and 46 images: d572c284a3db8d67018318b0efd890c1_images.json
+2025-09-28 12:49:35,773 - INFO - Scraped 1 articles from https://www.cnn.com/politics
+2025-09-28 12:49:35,774 - INFO - Scraping site: https://www.foxnews.com/politics
+2025-09-28 12:49:35,774 - INFO - Fetching: https://www.foxnews.com/politics
+2025-09-28 12:49:36,067 - INFO - Found 2 potential articles
+2025-09-28 12:49:36,067 - INFO - Scraping article 1/1
+2025-09-28 12:49:36,067 - INFO - Fetching: https://www.foxnews.com/story/foxnews-com-rss-feeds
+2025-09-28 12:49:36,273 - INFO - Saved article: b1a156c07daed0050ebe6b4827c7aad5.json
+2025-09-28 12:49:37,278 - INFO - Scraped 1 articles from https://www.foxnews.com/politics
+2025-09-28 12:49:37,279 - INFO - Scraping site: https://www.nytimes.com/section/politics
+2025-09-28 12:49:37,279 - INFO - Fetching: https://www.nytimes.com/section/politics
+2025-09-28 12:49:37,557 - INFO - Found 10 potential articles
+2025-09-28 12:49:37,558 - INFO - Scraping article 1/1
+2025-09-28 12:49:37,558 - INFO - Fetching: https://www.nytimes.com/2025/09/28/us/politics/federal-government-shutdown-trump.html
+2025-09-28 12:49:38,001 - INFO - Downloaded image: 83292925b72b12111c8a189bb21a1626.webp (72910 bytes)
+2025-09-28 12:49:38,020 - INFO - Downloaded image: 578328be726fee8390f32afb49d92f95.png (25167 bytes)
+2025-09-28 12:49:38,028 - INFO - Saved article: 15d31ed156db5d4cf36f2b1b5c635a95.json and 2 images: 15d31ed156db5d4cf36f2b1b5c635a95_images.json
+2025-09-28 12:49:39,034 - INFO - Scraped 1 articles from https://www.nytimes.com/section/politics
+2025-09-28 12:49:39,035 - INFO - Created summary: scraping_summary_20250928_124939.json
+2025-09-28 12:59:01,656 - INFO - Added news site: https://www.nytimes.com/section/politics
+2025-09-28 12:59:01,657 - INFO - Scraping site: https://www.nytimes.com/section/politics
+2025-09-28 12:59:01,657 - INFO - Fetching: https://www.nytimes.com/section/politics
+2025-09-28 12:59:02,278 - INFO - Found 10 potential articles
+2025-09-28 12:59:02,278 - INFO - Scraping article 1/1
+2025-09-28 12:59:02,278 - INFO - Fetching: https://www.nytimes.com/2025/09/28/us/politics/federal-government-shutdown-trump.html
+2025-09-28 12:59:02,637 - INFO - Image already exists: 83292925b72b12111c8a189bb21a1626.webp
+2025-09-28 12:59:02,735 - INFO - Image already exists: 578328be726fee8390f32afb49d92f95.png
+2025-09-28 12:59:02,747 - INFO - Saved article: 15d31ed156db5d4cf36f2b1b5c635a95.json and 2 images metadata: 15d31ed156db5d4cf36f2b1b5c635a95_images.json
+2025-09-28 12:59:03,748 - INFO - Scraped 1 articles from https://www.nytimes.com/section/politics
+2025-09-28 13:00:16,401 - INFO - Added news site: https://www.cnn.com/politics
+2025-09-28 13:00:16,401 - INFO - Added news site: https://www.foxnews.com/politics
+2025-09-28 13:00:16,401 - INFO - Added news site: https://www.nytimes.com/section/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.alternet.org/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.ap.org/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.theatlantic.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.thedailybeast.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.democracynow.org/topics/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.theguardian.com/us-news/us-politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.huffpost.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.theintercept.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.jacobin.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.motherjones.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.msnbc.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.thenation.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.nytimes.com/section/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.newyorker.com/news/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.slate.com/news-and-politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.vox.com/policy-and-politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.abcnews.go.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.axios.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.bloomberg.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.cbsnews.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.cnbc.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.cnn.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.insider.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.nbcnews.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.npr.org/sections/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.politico.com
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.propublica.org/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.semafor.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.time.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.usatoday.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.washingtonpost.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.yahoo.com/news/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.bbc.com/news/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.csmonitor.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.forbes.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.thehill.com
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.marketwatch.com/politics
+2025-09-28 13:00:50,988 - INFO - Added news site: https://www.newsnationnow.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.newsweek.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.reason.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.reuters.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.straightarrownews.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.wsj.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.thedispatch.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.theepochtimes.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.foxbusiness.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.thefp.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.justthenews.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.nationalreview.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.nypost.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.realclearpolitics.com
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.upward.news/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.washingtonexaminer.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.washingtontimes.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.zerohedge.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.theamericanconservative.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.spectator.org/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.blazemedia.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.breitbart.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.cbn.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.dailycaller.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.dailymail.co.uk/news/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.dailywire.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.foxnews.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.thefederalist.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.ijr.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.newsmax.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.oann.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.thepostmillennial.com/politics
+2025-09-28 13:00:50,989 - INFO - Added news site: https://www.freebeacon.com/politics
+2025-09-28 13:00:50,989 - INFO - Scraping site: https://www.alternet.org/politics
+2025-09-28 13:00:50,989 - INFO - Fetching: https://www.alternet.org/politics
+2025-09-28 13:00:51,272 - ERROR - Error fetching https://www.alternet.org/politics: 404 Client Error: Not Found for url: https://www.alternet.org/politics
+2025-09-28 13:00:51,272 - INFO - Scraped 0 articles from https://www.alternet.org/politics
+2025-09-28 13:00:51,272 - INFO - Scraping site: https://www.ap.org/politics
+2025-09-28 13:00:51,272 - INFO - Fetching: https://www.ap.org/politics
+2025-09-28 13:00:52,023 - ERROR - Error fetching https://www.ap.org/politics: 404 Client Error: Not Found for url: https://www.ap.org/politics
+2025-09-28 13:00:52,023 - INFO - Scraped 0 articles from https://www.ap.org/politics
+2025-09-28 13:00:52,023 - INFO - Scraping site: https://www.theatlantic.com/politics
+2025-09-28 13:00:52,023 - INFO - Fetching: https://www.theatlantic.com/politics
+2025-09-28 13:00:52,371 - INFO - Found 10 potential articles
+2025-09-28 13:00:52,371 - INFO - Scraping article 1/3
+2025-09-28 13:00:52,371 - INFO - Fetching: https://www.theatlantic.com/politics/archive/2025/09/putin-trump-elections-autocrat/684298/
+2025-09-28 13:00:52,673 - INFO - Downloaded image: d732960df4dbf05056bef917b20e0c6c.webp (107172 bytes)
+2025-09-28 13:00:52,703 - INFO - Downloaded image: 4d47954526f06f7d40b7cef3f7194aa3.webp (6150 bytes)
+2025-09-28 13:00:52,714 - INFO - Saved article: 6e8eb268cc5856dd484997bba5b79c3f.json and 2 images metadata: 6e8eb268cc5856dd484997bba5b79c3f_images.json
+2025-09-28 13:00:53,719 - INFO - Scraping article 2/3
+2025-09-28 13:00:53,720 - INFO - Fetching: https://www.theatlantic.com/politics/archive/2025/09/charlie-kirk-spiritual-warfare/684389/
+2025-09-28 13:00:53,977 - INFO - Downloaded image: fd71d30bd8d007cc5153f7ab66a1050d.webp (426226 bytes)
+2025-09-28 13:00:54,011 - INFO - Downloaded image: e2bed7667ffcfda782a74d5464f18f61.webp (6890 bytes)
+2025-09-28 13:00:54,040 - INFO - Downloaded image: 49271ced74a1c15497e49263aa3ee2d0.webp (7380 bytes)
+2025-09-28 13:00:54,048 - INFO - Saved article: 7d133cf066cd92c6762a0e89b7dd30eb.json and 3 images metadata: 7d133cf066cd92c6762a0e89b7dd30eb_images.json
+2025-09-28 13:00:55,050 - INFO - Scraping article 3/3
+2025-09-28 13:00:55,050 - INFO - Fetching: https://www.theatlantic.com/politics/archive/2025/09/charlie-kirk-malcolm-x-martyr-political-violence/684355/
+2025-09-28 13:00:55,220 - INFO - Downloaded image: b122ad7ac3700dca9694a62ed352eac1.webp (179070 bytes)
+2025-09-28 13:00:55,258 - INFO - Downloaded image: 7d9c4d45500ac9f50d61b18f0a8d6635.webp (6016 bytes)
+2025-09-28 13:00:55,263 - INFO - Saved article: 25dde763b86612940bfda6ca7227fe93.json and 2 images metadata: 25dde763b86612940bfda6ca7227fe93_images.json
+2025-09-28 13:00:56,268 - INFO - Scraped 3 articles from https://www.theatlantic.com/politics
+2025-09-28 13:00:56,269 - INFO - Scraping site: https://www.thedailybeast.com/politics
+2025-09-28 13:00:56,269 - INFO - Fetching: https://www.thedailybeast.com/politics
+2025-09-28 13:00:57,598 - ERROR - Error fetching https://www.thedailybeast.com/politics: 404 Client Error: Not Found for url: https://www.thedailybeast.com/politics/
+2025-09-28 13:00:57,598 - INFO - Scraped 0 articles from https://www.thedailybeast.com/politics
+2025-09-28 13:00:57,598 - INFO - Scraping site: https://www.democracynow.org/topics/politics
+2025-09-28 13:00:57,598 - INFO - Fetching: https://www.democracynow.org/topics/politics
+2025-09-28 13:00:57,970 - ERROR - Error fetching https://www.democracynow.org/topics/politics: 404 Client Error: Not Found for url: https://www.democracynow.org/topics/politics
+2025-09-28 13:00:57,970 - INFO - Scraped 0 articles from https://www.democracynow.org/topics/politics
+2025-09-28 13:00:57,970 - INFO - Scraping site: https://www.theguardian.com/us-news/us-politics
+2025-09-28 13:00:57,970 - INFO - Fetching: https://www.theguardian.com/us-news/us-politics
+2025-09-28 13:00:58,297 - INFO - Found 3 potential articles
+2025-09-28 13:00:58,297 - INFO - Scraping article 1/3
+2025-09-28 13:00:58,297 - INFO - Fetching: https://www.theguardian.com/business/2025/sep/28/why-trump-is-backing-argentinas-thatcherite-economics
+2025-09-28 13:00:58,691 - INFO - Downloaded image: 365819dc26c105d14222a1cd154b8975.webp (18868 bytes)
+2025-09-28 13:00:58,723 - ERROR - Error downloading image https://i.guim.co.uk/img/uploads/2024/11/15/Heather_Stewart: 401 Client Error: Unauthorized - missing signature for url: https://i.guim.co.uk/img/uploads/2024/11/15/Heather_Stewart
+2025-09-28 13:00:58,736 - INFO - Saved article: 925127624064630ebd2c6ccc12d7ef69.json and 2 images metadata: 925127624064630ebd2c6ccc12d7ef69_images.json
+2025-09-28 13:00:59,741 - INFO - Scraping article 2/3
+2025-09-28 13:00:59,742 - INFO - Fetching: https://www.theguardian.com/business/2025/sep/28/why-trump-is-backing-argentinas-thatcherite-economics#comments
+2025-09-28 13:00:59,992 - INFO - Image already exists: 365819dc26c105d14222a1cd154b8975.webp
+2025-09-28 13:01:00,061 - ERROR - Error downloading image https://i.guim.co.uk/img/uploads/2024/11/15/Heather_Stewart: 401 Client Error: Unauthorized - missing signature for url: https://i.guim.co.uk/img/uploads/2024/11/15/Heather_Stewart
+2025-09-28 13:01:00,076 - INFO - Saved article: 013ef0de798b2f6a9d1cb48167e131e4.json and 2 images metadata: 013ef0de798b2f6a9d1cb48167e131e4_images.json
+2025-09-28 13:01:01,081 - INFO - Scraping article 3/3
+2025-09-28 13:01:01,081 - INFO - Fetching: https://www.theguardian.com/world/2025/sep/28/as-my-daughter-got-sicker-and-sicker-our-quest-for-answers-dragged-on-how-did-we-all-miss-the-bacteria-taking-over-her-body
+2025-09-28 13:01:01,343 - INFO - Downloaded image: 9821700fac1314a815f58c4e8bf22301.webp (50968 bytes)
+2025-09-28 13:01:01,359 - ERROR - Error downloading image https://i.guim.co.uk/img/uploads/2017/10/09/Patrick-Barkham: 401 Client Error: Unauthorized - missing signature for url: https://i.guim.co.uk/img/uploads/2017/10/09/Patrick-Barkham
+2025-09-28 13:01:01,520 - INFO - Downloaded image: e6b39214b5dcafc602b99fc6edb94b93.webp (43024 bytes)
+2025-09-28 13:01:01,552 - INFO - Downloaded image: f150fdb2d11d4335ef91c56adaa6d6df.webp (25218 bytes)
+2025-09-28 13:01:01,583 - INFO - Downloaded image: 56e794722c4d640a6ca2b589b2e63218.webp (36930 bytes)
+2025-09-28 13:01:01,597 - INFO - Saved article: dfdae04426fedb8fddea38e63300dd95.json and 5 images metadata: dfdae04426fedb8fddea38e63300dd95_images.json
+2025-09-28 13:01:02,603 - INFO - Scraped 3 articles from https://www.theguardian.com/us-news/us-politics
+2025-09-28 13:01:02,603 - INFO - Scraping site: https://www.huffpost.com/politics
+2025-09-28 13:01:02,603 - INFO - Fetching: https://www.huffpost.com/politics
+2025-09-28 13:01:02,854 - ERROR - Error fetching https://www.huffpost.com/politics: 404 Client Error: Not Found for url: https://www.huffpost.com/politics
+2025-09-28 13:01:02,854 - INFO - Scraped 0 articles from https://www.huffpost.com/politics
+2025-09-28 13:01:02,854 - INFO - Scraping site: https://www.theintercept.com/politics
+2025-09-28 13:01:02,854 - INFO - Fetching: https://www.theintercept.com/politics
+2025-09-28 13:01:03,132 - INFO - Found 0 potential articles
+2025-09-28 13:01:03,132 - INFO - Scraped 0 articles from https://www.theintercept.com/politics
+2025-09-28 13:01:03,132 - INFO - Scraping site: https://www.jacobin.com/politics
+2025-09-28 13:01:03,132 - INFO - Fetching: https://www.jacobin.com/politics
+2025-09-28 13:01:03,517 - ERROR - Error fetching https://www.jacobin.com/politics: 404 Client Error: Not Found for url: https://jacobin.com/politics
+2025-09-28 13:01:03,517 - INFO - Scraped 0 articles from https://www.jacobin.com/politics
+2025-09-28 13:01:03,517 - INFO - Scraping site: https://www.motherjones.com/politics
+2025-09-28 13:01:03,518 - INFO - Fetching: https://www.motherjones.com/politics
+2025-09-28 13:01:03,700 - INFO - Found 20 potential articles
+2025-09-28 13:01:03,700 - INFO - Scraping article 1/3
+2025-09-28 13:01:03,700 - INFO - Fetching: https://www.motherjones.com/politics/2025/09/new-york-citys-eric-adams-era-is-over/
+2025-09-28 13:01:03,857 - INFO - Downloaded image: 42d9822dbe6d595c4beb41602a292584.webp (65588 bytes)
+2025-09-28 13:01:03,865 - INFO - Saved article: d4f343947843fa7c8fb9e0f76946aeb4.json and 1 images metadata: d4f343947843fa7c8fb9e0f76946aeb4_images.json
+2025-09-28 13:01:04,870 - INFO - Scraping article 2/3
+2025-09-28 13:01:04,871 - INFO - Fetching: https://www.motherjones.com/politics/2025/09/trump-us-troops-military-portland-oregon-full-force-truth-social/
+2025-09-28 13:01:05,033 - INFO - Downloaded image: ca6fa8448a4ee7c3d44d3c42a69eefac.webp (51042 bytes)
+2025-09-28 13:01:05,040 - INFO - Saved article: 721bdd7736f997ec161af74666432066.json and 1 images metadata: 721bdd7736f997ec161af74666432066_images.json
+2025-09-28 13:01:06,043 - INFO - Scraping article 3/3
+2025-09-28 13:01:06,043 - INFO - Fetching: https://www.motherjones.com/politics/2025/09/new-hampshire-vermont-bill-cheap-balcony-solar-plug/
+2025-09-28 13:01:06,185 - INFO - Downloaded image: a4e31719311f3352cba056800de69c31.webp (104818 bytes)
+2025-09-28 13:01:06,192 - INFO - Saved article: 9da3f24325554caeaa7beaff3e657c36.json and 1 images metadata: 9da3f24325554caeaa7beaff3e657c36_images.json
+2025-09-28 13:01:07,197 - INFO - Scraped 3 articles from https://www.motherjones.com/politics
+2025-09-28 13:01:07,198 - INFO - Scraping site: https://www.msnbc.com/politics
+2025-09-28 13:01:07,198 - INFO - Fetching: https://www.msnbc.com/politics
+2025-09-28 13:01:09,550 - INFO - Found 4 potential articles
+2025-09-28 13:01:09,550 - INFO - Scraping article 1/3
+2025-09-28 13:01:09,550 - INFO - Fetching: https://www.msnbc.com/msnbc/news/trump-james-comey-indictment-us-attorney-lindsey-halligan-rcna233853
+2025-09-28 13:01:10,985 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428
+2025-09-28 13:01:11,246 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-60x60: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-60x60
+2025-09-28 13:01:11,659 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-60x60: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-60x60
+2025-09-28 13:01:11,676 - INFO - Saved article: 4b0e38561149b85a849b7f8c542b0cae.json and 3 images metadata: 4b0e38561149b85a849b7f8c542b0cae_images.json
+2025-09-28 13:01:12,679 - INFO - Scraping article 2/3
+2025-09-28 13:01:12,679 - INFO - Fetching: https://www.msnbc.com/news/news-analysis/democrats-shutdown-trump-rescissions-spending-rcna233554
+2025-09-28 13:01:13,401 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428
+2025-09-28 13:01:13,418 - INFO - Saved article: 2ef30b6d2bd05ac6e0e11772a8d4517f.json and 1 images metadata: 2ef30b6d2bd05ac6e0e11772a8d4517f_images.json
+2025-09-28 13:01:14,421 - INFO - Scraping article 3/3
+2025-09-28 13:01:14,421 - INFO - Fetching: https://www.msnbc.com/news/news-analysis/trump-tiktok-deal-oracle-government-business-rcna233797
+2025-09-28 13:01:14,975 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428
+2025-09-28 13:01:15,284 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428
+2025-09-28 13:01:15,303 - INFO - Saved article: a64f08eac05109608d11c7b1e1844ba7.json and 2 images metadata: a64f08eac05109608d11c7b1e1844ba7_images.json
+2025-09-28 13:01:16,309 - INFO - Scraped 3 articles from https://www.msnbc.com/politics
+2025-09-28 13:01:16,309 - INFO - Scraping site: https://www.thenation.com/politics
+2025-09-28 13:01:16,309 - INFO - Fetching: https://www.thenation.com/politics
+2025-09-28 13:01:16,630 - INFO - Found 16 potential articles
+2025-09-28 13:01:16,630 - INFO - Scraping article 1/3
+2025-09-28 13:01:16,630 - INFO - Fetching: https://www.thenation.com/article/politics/maga-mouse/
+2025-09-28 13:01:16,815 - INFO - Downloaded image: e80a0950de2649f98ae0482959a2156b.jpg (174133 bytes)
+2025-09-28 13:01:16,855 - INFO - Downloaded image: 8198d28322d8f804e5bc8ba73ea0005c.webp (1350 bytes)
+2025-09-28 13:01:16,920 - INFO - Downloaded image: a3a7dc04e5b44fc722eca9ee0d058bd8.jpg (494530 bytes)
+2025-09-28 13:01:16,956 - INFO - Downloaded image: 32827f4162bc417e5fc0242ee253a078.webp (2040 bytes)
+2025-09-28 13:01:17,003 - INFO - Downloaded image: fe4361791816559e7ad436801e511b22.jpg (220862 bytes)
+2025-09-28 13:01:17,063 - INFO - Downloaded image: 5f68f6bb9b210d1dffced2019a7b1466.webp (386628 bytes)
+2025-09-28 13:01:17,133 - INFO - Downloaded image: cacc89fbdd8f66c1e8f3b2453f5d6095.jpg (251617 bytes)
+2025-09-28 13:01:17,217 - INFO - Downloaded image: b6c21a453e83179dcdb613229f650d18.webp (1320666 bytes)
+2025-09-28 13:01:17,406 - INFO - Downloaded image: fdac81c0953a3618d760c17036e238a9.webp (1714612 bytes)
+2025-09-28 13:01:17,466 - INFO - Downloaded image: e4d419bc97c7e12c051cac2bbc6c865a.webp (1526 bytes)
+2025-09-28 13:01:17,548 - INFO - Downloaded image: 45b06927c24bdce25dc8f08da6a880fe.webp (1631982 bytes)
+2025-09-28 13:01:17,592 - INFO - Downloaded image: c7adbb9a4cb97ca7c6400d2d4988c090.webp (82752 bytes)
+2025-09-28 13:01:17,664 - INFO - Downloaded image: 3f334feef71fa35c7324d8c60faec1c6.webp (423762 bytes)
+2025-09-28 13:01:17,741 - INFO - Downloaded image: 3862d1b7e2375294c68e3cb3e6e6fd43.webp (537054 bytes)
+2025-09-28 13:01:17,799 - INFO - Downloaded image: 647e925e3234680a445f03bc35a9381c.webp (992 bytes)
+2025-09-28 13:01:17,857 - INFO - Downloaded image: b9f8cc5bb0d4954756d572340bdd3e68.jpg (404194 bytes)
+2025-09-28 13:01:17,912 - INFO - Downloaded image: d915efdfeffb02a6bca6f5183a376dd5.jpg (401421 bytes)
+2025-09-28 13:01:17,969 - INFO - Downloaded image: d0bbbf838f7e734fd30c6e82c82e976d.jpg (357387 bytes)
+2025-09-28 13:01:17,980 - INFO - Saved article: 64b11e0c9d281865417ef4fac8aa4fd9.json and 18 images metadata: 64b11e0c9d281865417ef4fac8aa4fd9_images.json
+2025-09-28 13:01:18,985 - INFO - Scraping article 2/3
+2025-09-28 13:01:18,985 - INFO - Fetching: https://www.thenation.com/article/politics/rodney-taylor-ice-deportation/
+2025-09-28 13:01:19,220 - INFO - Downloaded image: 787b8c9f5ef03764348040300733b212.jpg (148286 bytes)
+2025-09-28 13:01:19,283 - INFO - Downloaded image: 41d27bdf150b079039c31049099759ca.jpg (330256 bytes)
+2025-09-28 13:01:19,290 - INFO - Saved article: df43d89c29447136a91d591e1fe5492b.json and 2 images metadata: df43d89c29447136a91d591e1fe5492b_images.json
+2025-09-28 13:01:20,295 - INFO - Scraping article 3/3
+2025-09-28 13:01:20,296 - INFO - Fetching: https://www.thenation.com/article/society/memphis-lead-poisoning-trump-crime/
+2025-09-28 13:01:20,516 - INFO - Downloaded image: e28a1ddf4e957547461951429439cf38.jpg (143851 bytes)
+2025-09-28 13:01:20,565 - INFO - Image already exists: 41d27bdf150b079039c31049099759ca.jpg
+2025-09-28 13:01:20,573 - INFO - Saved article: 1fb68fe87fe1a8eae31ec5bb3bb53103.json and 2 images metadata: 1fb68fe87fe1a8eae31ec5bb3bb53103_images.json
+2025-09-28 13:01:21,578 - INFO - Scraped 3 articles from https://www.thenation.com/politics
+2025-09-28 13:01:21,579 - INFO - Scraping site: https://www.nytimes.com/section/politics
+2025-09-28 13:01:21,579 - INFO - Fetching: https://www.nytimes.com/section/politics
+2025-09-28 13:01:21,841 - INFO - Found 10 potential articles
+2025-09-28 13:01:21,842 - INFO - Scraping article 1/3
+2025-09-28 13:01:21,842 - INFO - Fetching: https://www.nytimes.com/2025/09/28/us/politics/federal-government-shutdown-trump.html
+2025-09-28 13:01:22,273 - INFO - Image already exists: 83292925b72b12111c8a189bb21a1626.webp
+2025-09-28 13:01:22,425 - INFO - Image already exists: 578328be726fee8390f32afb49d92f95.png
+2025-09-28 13:01:22,435 - INFO - Saved article: 15d31ed156db5d4cf36f2b1b5c635a95.json and 2 images metadata: 15d31ed156db5d4cf36f2b1b5c635a95_images.json
+2025-09-28 13:01:23,438 - INFO - Scraping article 2/3
+2025-09-28 13:01:23,438 - INFO - Fetching: https://www.nytimes.com/2025/09/27/us/politics/trump-comey-justice-department.html
+2025-09-28 13:01:23,751 - INFO - Downloaded image: ab56c236664ea9298324f9d3cad99160.webp (25016 bytes)
+2025-09-28 13:01:23,782 - INFO - Downloaded image: 50c67b587f89c4d9fa9dbb823fd4c47c.png (30564 bytes)
+2025-09-28 13:01:23,815 - INFO - Downloaded image: eb87e136dbd839003a3e6d696edb4f50.png (27761 bytes)
+2025-09-28 13:01:23,846 - INFO - Downloaded image: 508bdc8477c34399c43948e2162d4095.png (23066 bytes)
+2025-09-28 13:01:23,877 - INFO - Downloaded image: 821afb0bda04e045d86ee22cec40934e.png (26290 bytes)
+2025-09-28 13:01:23,883 - INFO - Saved article: 56d9194f612bd4e2cbf470dc6524a37e.json and 5 images metadata: 56d9194f612bd4e2cbf470dc6524a37e_images.json
+2025-09-28 13:01:24,888 - INFO - Scraping article 3/3
+2025-09-28 13:01:24,889 - INFO - Fetching: https://www.nytimes.com/2025/09/27/us/politics/trump-portland-troops.html
+2025-09-28 13:01:25,257 - INFO - Downloaded image: 507fba7fd56791046847fcf91733090b.webp (36630 bytes)
+2025-09-28 13:01:25,261 - INFO - Saved article: f045397723c6117c12e8e7611707d8c4.json and 1 images metadata: f045397723c6117c12e8e7611707d8c4_images.json
+2025-09-28 13:01:26,266 - INFO - Scraped 3 articles from https://www.nytimes.com/section/politics
+2025-09-28 13:01:26,266 - INFO - Scraping site: https://www.newyorker.com/news/politics
+2025-09-28 13:01:26,266 - INFO - Fetching: https://www.newyorker.com/news/politics
+2025-09-28 13:01:26,631 - ERROR - Error fetching https://www.newyorker.com/news/politics: 404 Client Error: Not Found for url: https://www.newyorker.com/news/politics
+2025-09-28 13:01:26,632 - INFO - Scraped 0 articles from https://www.newyorker.com/news/politics
+2025-09-28 13:01:26,633 - INFO - Scraping site: https://www.slate.com/news-and-politics
+2025-09-28 13:01:26,633 - INFO - Fetching: https://www.slate.com/news-and-politics
+2025-09-28 13:01:26,924 - INFO - Found 0 potential articles
+2025-09-28 13:01:26,925 - INFO - Scraped 0 articles from https://www.slate.com/news-and-politics
+2025-09-28 13:01:26,925 - INFO - Scraping site: https://www.vox.com/policy-and-politics
+2025-09-28 13:01:26,925 - INFO - Fetching: https://www.vox.com/policy-and-politics
+2025-09-28 13:01:27,189 - INFO - Found 0 potential articles
+2025-09-28 13:01:27,189 - INFO - Scraped 0 articles from https://www.vox.com/policy-and-politics
+2025-09-28 13:01:27,189 - INFO - Scraping site: https://www.abcnews.go.com/politics
+2025-09-28 13:01:27,189 - INFO - Fetching: https://www.abcnews.go.com/politics
+2025-09-28 13:01:27,729 - INFO - Found 0 potential articles
+2025-09-28 13:01:27,729 - INFO - Scraped 0 articles from https://www.abcnews.go.com/politics
+2025-09-28 13:01:27,729 - INFO - Scraping site: https://www.axios.com/politics
+2025-09-28 13:01:27,729 - INFO - Fetching: https://www.axios.com/politics
+2025-09-28 13:01:27,949 - ERROR - Error fetching https://www.axios.com/politics: 403 Client Error: Forbidden for url: https://www.axios.com/politics-policy/
+2025-09-28 13:01:27,949 - INFO - Scraped 0 articles from https://www.axios.com/politics
+2025-09-28 13:01:27,950 - INFO - Scraping site: https://www.bloomberg.com/politics
+2025-09-28 13:01:27,950 - INFO - Fetching: https://www.bloomberg.com/politics
+2025-09-28 13:01:29,201 - INFO - Found 32 potential articles
+2025-09-28 13:01:29,201 - INFO - Scraping article 1/3
+2025-09-28 13:01:29,201 - INFO - Fetching: https://www.bloomberg.com/news/articles/2025-09-27/trump-orders-us-troops-to-portland-authorizes-full-force?srnd=phx-politics
+2025-09-28 13:01:29,981 - INFO - Downloaded image: 8ec589bacbad4a4bd234365c0397c8fc.webp (87952 bytes)
+2025-09-28 13:01:29,987 - INFO - Saved article: 275b193290a5b08edab5e3766ac7f0e6.json and 1 images metadata: 275b193290a5b08edab5e3766ac7f0e6_images.json
+2025-09-28 13:01:30,992 - INFO - Scraping article 2/3
+2025-09-28 13:01:30,992 - INFO - Fetching: https://www.bloomberg.com/news/articles/2025-09-27/us-government-shutdown-potential-impacts-on-air-travel-social-security?srnd=phx-politics
+2025-09-28 13:01:31,691 - INFO - Downloaded image: aec8bf851b18dc374d22eff30803c6df.webp (235536 bytes)
+2025-09-28 13:01:31,697 - INFO - Saved article: 18b93162513d59401405ca082e1a1239.json and 1 images metadata: 18b93162513d59401405ca082e1a1239_images.json
+2025-09-28 13:01:32,702 - INFO - Scraping article 3/3
+2025-09-28 13:01:32,702 - INFO - Fetching: https://www.bloomberg.com/news/articles/2025-09-26/thune-searches-for-shutdown-off-ramp-to-bypass-schumer-blockade
+2025-09-28 13:01:34,119 - INFO - Downloaded image: 48f1efda1199b3d6b909f218cc7d54c5.webp (298280 bytes)
+2025-09-28 13:01:34,126 - INFO - Saved article: a340ee9cc5be1de191b35abe3d0e5485.json and 1 images metadata: a340ee9cc5be1de191b35abe3d0e5485_images.json
+2025-09-28 13:01:35,128 - INFO - Scraped 3 articles from https://www.bloomberg.com/politics
+2025-09-28 13:01:35,128 - INFO - Scraping site: https://www.cbsnews.com/politics
+2025-09-28 13:01:35,128 - INFO - Fetching: https://www.cbsnews.com/politics
+2025-09-28 13:01:35,555 - INFO - Found 48 potential articles
+2025-09-28 13:01:35,555 - INFO - Scraping article 1/3
+2025-09-28 13:01:35,555 - INFO - Fetching: https://www.cbsnews.com/detroit/news/grand-blanc-michigan-church-shooting-fire/
+2025-09-28 13:01:35,696 - INFO - Downloaded image: 939c3c2706a1e927b8e7af18d81d1efb.svg (2930 bytes)
+2025-09-28 13:01:35,809 - INFO - Downloaded image: bd9cbbddc978d9e7c4b4a9655f2708a6.webp (115462 bytes)
+2025-09-28 13:01:35,921 - INFO - Downloaded image: e24e530d2e858b5af19cb82828d26af8.webp (150326 bytes)
+2025-09-28 13:01:35,941 - INFO - Downloaded image: 99258f9495d29a14c7146bed07e25858.webp (11738 bytes)
+2025-09-28 13:01:36,026 - INFO - Downloaded image: b0105932e1078b2b270e4781406574d5.webp (2226 bytes)
+2025-09-28 13:01:36,058 - INFO - Downloaded image: 37e4d13545d69878c0c0a522886eb69f.webp (1940 bytes)
+2025-09-28 13:01:36,086 - INFO - Downloaded image: 0f267d076d0be7cb33554ca7570593e4.webp (13538 bytes)
+2025-09-28 13:01:36,122 - INFO - Downloaded image: 1cd11de5a25f64fd310378b9749e5449.webp (4154 bytes)
+2025-09-28 13:01:36,132 - INFO - Saved article: 1e21dd2887c0d277a5062af30010f8c7.json and 8 images metadata: 1e21dd2887c0d277a5062af30010f8c7_images.json
+2025-09-28 13:01:37,137 - INFO - Scraping article 2/3
+2025-09-28 13:01:37,137 - INFO - Fetching: https://www.cbsnews.com/news/judge-james-comey-indictment-confusion-trump/
+2025-09-28 13:01:37,285 - INFO - Downloaded image: 57906af3a8250d2aaf20f9563744dbb4.webp (84384 bytes)
+2025-09-28 13:01:37,306 - INFO - Downloaded image: bfa441031716110d25f066422412acc4.webp (2450 bytes)
+2025-09-28 13:01:37,336 - INFO - Downloaded image: 8f50d3f9948a50f0717ccfd6b23a6866.webp (2470 bytes)
+2025-09-28 13:01:37,365 - INFO - Image already exists: 37e4d13545d69878c0c0a522886eb69f.webp
+2025-09-28 13:01:37,391 - INFO - Downloaded image: 0e3976362d4273dfd14f0bd21a348747.webp (1918 bytes)
+2025-09-28 13:01:37,417 - INFO - Downloaded image: cb0bc6257c28743adcbf617b481b6fbb.webp (2208 bytes)
+2025-09-28 13:01:37,430 - INFO - Saved article: 719207bacbaf13532d1a2f073555f708.json and 6 images metadata: 719207bacbaf13532d1a2f073555f708_images.json
+2025-09-28 13:01:38,435 - INFO - Scraping article 3/3
+2025-09-28 13:01:38,435 - INFO - Fetching: https://www.paramountplus.com/news/?ftag=PPM-06-10ahi1b
+2025-09-28 13:01:38,629 - ERROR - Error fetching https://www.paramountplus.com/news/?ftag=PPM-06-10ahi1b: 406 Client Error: Not Acceptable for url: https://www.paramountplus.com/news/?ftag=PPM-06-10ahi1b
+2025-09-28 13:01:39,633 - INFO - Scraped 2 articles from https://www.cbsnews.com/politics
+2025-09-28 13:01:39,634 - INFO - Scraping site: https://www.cnbc.com/politics
+2025-09-28 13:01:39,634 - INFO - Fetching: https://www.cnbc.com/politics
+2025-09-28 13:01:40,120 - INFO - Found 1 potential articles
+2025-09-28 13:01:40,120 - INFO - Scraping article 1/1
+2025-09-28 13:01:40,120 - INFO - Fetching: https://www.cnbc.com/pro/news/
+2025-09-28 13:01:40,488 - INFO - Downloaded image: 22a2fc674105d8e4cba50a28e0f39c4a.svg (2717 bytes)
+2025-09-28 13:01:40,525 - INFO - Downloaded image: 05998bcc00791ecd1197bf81803324d2.svg (2851 bytes)
+2025-09-28 13:01:40,559 - INFO - Downloaded image: 8653855bf92d67c676bf94a5e69d4e78.svg (1186 bytes)
+2025-09-28 13:01:40,586 - INFO - Downloaded image: e4a6068b3f210f8c867f7fb1d2ce40a8.svg (1320 bytes)
+2025-09-28 13:01:40,617 - INFO - Downloaded image: 89274c2ad894e10d9d75098f01bb4fd1.svg (1793 bytes)
+2025-09-28 13:01:40,647 - INFO - Downloaded image: 72fdad94708d656febc2a3135c17c083.svg (1137 bytes)
+2025-09-28 13:01:40,660 - INFO - Saved article: 5ecf271320d600220aee2956c5915389.json and 6 images metadata: 5ecf271320d600220aee2956c5915389_images.json
+2025-09-28 13:01:41,665 - INFO - Scraped 1 articles from https://www.cnbc.com/politics
+2025-09-28 13:01:41,665 - INFO - Scraping site: https://www.cnn.com/politics
+2025-09-28 13:01:41,665 - INFO - Fetching: https://www.cnn.com/politics
+2025-09-28 13:01:42,002 - INFO - Found 47 potential articles
+2025-09-28 13:01:42,002 - INFO - Scraping article 1/3
+2025-09-28 13:01:42,002 - INFO - Fetching: https://www.cnn.com/2025/09/26/politics/james-comey-indictment-trump-prosecution
+2025-09-28 13:01:42,408 - INFO - Image already exists: e9ab5a39fdc5fc535b652adc9581ec67.jpg
+2025-09-28 13:01:42,477 - INFO - Image already exists: 8a2b909ab419d6e4138a80df85eb4983.jpg
+2025-09-28 13:01:42,565 - INFO - Image already exists: bc0323a99ffe73a06acdf86266a3d840.jpg
+2025-09-28 13:01:42,667 - INFO - Image already exists: 646da32541bcefc40fac9e6be698a20f.jpg
+2025-09-28 13:01:42,733 - INFO - Image already exists: 255160cc9e3a05b354cdbb970858ca66.jpg
+2025-09-28 13:01:42,812 - INFO - Image already exists: b49b3755771dacd9903bbd96c1908053.jpg
+2025-09-28 13:01:42,912 - INFO - Image already exists: a087963b493a8df09f80a03930bf2d10.jpg
+2025-09-28 13:01:42,997 - INFO - Image already exists: ebcdd716aaccccabc97069d26a4f134c.jpg
+2025-09-28 13:01:43,076 - INFO - Image already exists: 71e96f58e49c5dafecb421576f774541.jpg
+2025-09-28 13:01:43,170 - INFO - Image already exists: c772b61fcba91d154a0a48b1f99464ac.jpg
+2025-09-28 13:01:43,250 - INFO - Image already exists: 061ee57e0d5024afc355e7e7701fa87f.jpg
+2025-09-28 13:01:43,332 - INFO - Image already exists: ccf6846457856aeacd1496eb37cbf142.png
+2025-09-28 13:01:43,409 - INFO - Image already exists: af3ad7b1b0236560492820628a5c53e6.png
+2025-09-28 13:01:43,485 - INFO - Image already exists: e62526d083dabbd07408db7b1782e226.jpg
+2025-09-28 13:01:43,568 - INFO - Image already exists: 947e4494c3f99f94322e8eaa966575ff.jpg
+2025-09-28 13:01:43,666 - INFO - Image already exists: 71d547a3df045ad05d4d8fc6561f8faa.jpg
+2025-09-28 13:01:43,741 - INFO - Image already exists: 64c828e8129f2e9d3dac0586cff84402.jpg
+2025-09-28 13:01:43,831 - INFO - Image already exists: 54be7ad340299419289dfde449a1cbb8.jpg
+2025-09-28 13:01:43,907 - INFO - Image already exists: 67aadad4a2c0d8667f948725259ac873.jpg
+2025-09-28 13:01:43,994 - INFO - Image already exists: 78b85cf229416a55ecf39c6f40b148db.jpg
+2025-09-28 13:01:44,074 - INFO - Image already exists: 892f7db96297109733f356fc3419e0dd.jpg
+2025-09-28 13:01:44,136 - INFO - Image already exists: 672600fcb557bb3cc861b3ca7de9428e.jpg
+2025-09-28 13:01:44,231 - INFO - Image already exists: 0bc58d5a2e3748a4a5ead92b06872a6f.jpg
+2025-09-28 13:01:44,312 - INFO - Image already exists: 3ff0fe35f6b3cf3c3f270c4c5870c5ff.jpg
+2025-09-28 13:01:44,384 - INFO - Image already exists: edecc894ad4eb98fd5dc3d63b75b7760.jpg
+2025-09-28 13:01:44,463 - INFO - Image already exists: 05d51d02c5891c6b6482bb54d702dd62.jpg
+2025-09-28 13:01:44,553 - INFO - Image already exists: d1cae710c2a3fdd3237cd38f7ef34f2e.jpg
+2025-09-28 13:01:44,634 - INFO - Image already exists: 2ee62ea027c372c88e39a6d912a60ada.jpg
+2025-09-28 13:01:44,792 - INFO - Image already exists: bc6654ca2b31a67d251f02fda8294bf3.jpg
+2025-09-28 13:01:44,880 - INFO - Image already exists: 23619c484c15d922eada8418ceeeac01.jpg
+2025-09-28 13:01:44,975 - INFO - Image already exists: 7dbd1aed21e913f6b50cfb2856053eae.jpg
+2025-09-28 13:01:45,074 - INFO - Image already exists: 1dacd560adc634507cefaebc1079ce50.png
+2025-09-28 13:01:45,195 - INFO - Image already exists: 118b39a0c62472fc3c12d0e0a3f33d4e.png
+2025-09-28 13:01:45,317 - INFO - Image already exists: 72967a8392c1cfeb401697428319faed.jpg
+2025-09-28 13:01:45,391 - INFO - Image already exists: 6054de565c96170a712e2c0e2a4a1c09.jpg
+2025-09-28 13:01:45,536 - INFO - Image already exists: 7d4b593306dc92c2faf71932b28547b1.png
+2025-09-28 13:01:45,619 - INFO - Image already exists: 7fb068c6c97457ceb684279c5ef810c4.png
+2025-09-28 13:01:45,705 - INFO - Image already exists: 50a0524c87b98180017bd1a683b3fd87.jpg
+2025-09-28 13:01:45,806 - INFO - Image already exists: d3613e2f7abc9f302944a0e0733f222c.jpg
+2025-09-28 13:01:45,884 - INFO - Image already exists: f031fd9826b7b19dde6632e7f39ea155.png
+2025-09-28 13:01:45,999 - INFO - Image already exists: c019e40a33f56701e99c48464dc91f5b.png
+2025-09-28 13:01:46,091 - INFO - Image already exists: ee2c64665153a91350511feda032c406.png
+2025-09-28 13:01:46,161 - INFO - Image already exists: 9e7a862f1f75c24dacf9a77afa165f66.png
+2025-09-28 13:01:46,302 - INFO - Image already exists: 7852c86255d90c3d5629affcafa47be8.jpg
+2025-09-28 13:01:46,377 - INFO - Image already exists: 69e4a9296c8e1735075312e312914ace.jpg
+2025-09-28 13:01:46,489 - INFO - Image already exists: 65168f076e300b090d0c3f5e2af5dd0f.jpg
+2025-09-28 13:01:46,540 - INFO - Saved article: d572c284a3db8d67018318b0efd890c1.json and 46 images metadata: d572c284a3db8d67018318b0efd890c1_images.json
+2025-09-28 13:01:47,541 - INFO - Scraping article 2/3
+2025-09-28 13:01:47,544 - INFO - Fetching: https://www.cnn.com/2025/09/28/politics/trump-ai-medbed-conspiracy-theory
+2025-09-28 13:01:47,965 - INFO - Downloaded image: 347fd9eff8721f7a0d2f45a96a079c57.jpg (94045 bytes)
+2025-09-28 13:01:48,001 - INFO - Saved article: 98302d37adeaf5fa302910e34ad70d46.json and 1 images metadata: 98302d37adeaf5fa302910e34ad70d46_images.json
+2025-09-28 13:01:49,006 - INFO - Scraping article 3/3
+2025-09-28 13:01:49,006 - INFO - Fetching: https://www.cnn.com/2025/09/28/politics/american-man-detained-afghanistan-released
+2025-09-28 13:01:49,297 - INFO - Downloaded image: 32162da2dc5e6e3bf8761e01f29e35b8.jpg (87003 bytes)
+2025-09-28 13:01:49,324 - INFO - Saved article: 931a47131a99aa0ec7eb50fb8b83bb27.json and 1 images metadata: 931a47131a99aa0ec7eb50fb8b83bb27_images.json
+2025-09-28 13:01:50,329 - INFO - Scraped 3 articles from https://www.cnn.com/politics
+2025-09-28 13:01:50,329 - INFO - Scraping site: https://www.insider.com/politics
+2025-09-28 13:01:50,329 - INFO - Fetching: https://www.insider.com/politics
+2025-09-28 13:01:51,655 - INFO - Found 0 potential articles
+2025-09-28 13:01:51,655 - INFO - Scraped 0 articles from https://www.insider.com/politics
+2025-09-28 13:01:51,655 - INFO - Scraping site: https://www.nbcnews.com/politics
+2025-09-28 13:01:51,655 - INFO - Fetching: https://www.nbcnews.com/politics
+2025-09-28 13:01:57,501 - INFO - Found 2 potential articles
+2025-09-28 13:01:57,501 - INFO - Scraping article 1/2
+2025-09-28 13:01:57,501 - INFO - Fetching: https://www.nbcnews.com/news/weather
+2025-09-28 13:02:03,030 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-762x508: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-762x508
+2025-09-28 13:02:03,371 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-762x508: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-762x508
+2025-09-28 13:02:03,695 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-80x80: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-80x80
+2025-09-28 13:02:03,967 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-80x80: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-80x80
+2025-09-28 13:02:04,309 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-80x80: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-80x80
+2025-09-28 13:02:04,579 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-80x80: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-80x80
+2025-09-28 13:02:05,214 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-80x80: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-80x80
+2025-09-28 13:02:05,507 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-80x80: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-80x80
+2025-09-28 13:02:05,880 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-80x80: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-80x80
+2025-09-28 13:02:06,330 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:06,624 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:06,896 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:07,232 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:07,491 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:08,089 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:08,337 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:08,628 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:10,933 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:11,312 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:11,732 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:12,008 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:12,292 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:12,553 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:12,860 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:13,186 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:13,600 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:14,343 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:14,601 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:14,924 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:15,223 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:15,551 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-200x100
+2025-09-28 13:02:15,582 - INFO - Saved article: 7f6393dd233808b6c56ae77732972742.json and 31 images metadata: 7f6393dd233808b6c56ae77732972742_images.json
+2025-09-28 13:02:16,587 - INFO - Scraping article 2/2
+2025-09-28 13:02:16,587 - INFO - Fetching: https://www.nbcnews.com/news/nbc-news-now-live-audio-listen-live-news-audio-day-rcna70163
+2025-09-28 13:02:19,130 - INFO - Saved article: 2c0ba12a2d5cf3ef217949d4c563928e.json and 1 images metadata: 2c0ba12a2d5cf3ef217949d4c563928e_images.json
+2025-09-28 13:02:20,133 - INFO - Scraped 2 articles from https://www.nbcnews.com/politics
+2025-09-28 13:02:20,133 - INFO - Scraping site: https://www.npr.org/sections/politics
+2025-09-28 13:02:20,133 - INFO - Fetching: https://www.npr.org/sections/politics
+2025-09-28 13:02:23,728 - INFO - Found 1 potential articles
+2025-09-28 13:02:23,729 - INFO - Scraping article 1/1
+2025-09-28 13:02:23,729 - INFO - Fetching: https://www.npr.org/sections/news/
+2025-09-28 13:02:27,671 - INFO - Downloaded image: bb82ddc704db54a0944ece0c0f8f596c.jpg (43722 bytes)
+2025-09-28 13:02:27,684 - INFO - Saved article: fc5e99f271a3c2b25831fe52dfd2bd9e.json and 1 images metadata: fc5e99f271a3c2b25831fe52dfd2bd9e_images.json
+2025-09-28 13:02:28,689 - INFO - Scraped 1 articles from https://www.npr.org/sections/politics
+2025-09-28 13:02:28,690 - INFO - Scraping site: https://www.politico.com
+2025-09-28 13:02:28,690 - INFO - Fetching: https://www.politico.com
+2025-09-28 13:02:28,838 - ERROR - Error fetching https://www.politico.com: 403 Client Error: Forbidden for url: https://www.politico.com/
+2025-09-28 13:02:28,838 - INFO - Scraped 0 articles from https://www.politico.com
+2025-09-28 13:02:28,839 - INFO - Scraping site: https://www.propublica.org/politics
+2025-09-28 13:02:28,839 - INFO - Fetching: https://www.propublica.org/politics
+2025-09-28 13:02:29,303 - ERROR - Error fetching https://www.propublica.org/politics: 404 Client Error: Not Found for url: https://www.propublica.org/politics
+2025-09-28 13:02:29,304 - INFO - Scraped 0 articles from https://www.propublica.org/politics
+2025-09-28 13:02:29,304 - INFO - Scraping site: https://www.semafor.com/politics
+2025-09-28 13:02:29,304 - INFO - Fetching: https://www.semafor.com/politics
+2025-09-28 13:02:29,534 - ERROR - Error fetching https://www.semafor.com/politics: 404 Client Error:  for url: https://www.semafor.com/politics
+2025-09-28 13:02:29,534 - INFO - Scraped 0 articles from https://www.semafor.com/politics
+2025-09-28 13:02:29,534 - INFO - Scraping site: https://www.time.com/politics
+2025-09-28 13:02:29,534 - INFO - Fetching: https://www.time.com/politics
+2025-09-28 13:02:30,029 - INFO - Found 0 potential articles
+2025-09-28 13:02:30,029 - INFO - Scraped 0 articles from https://www.time.com/politics
+2025-09-28 13:02:30,029 - INFO - Scraping site: https://www.usatoday.com/politics
+2025-09-28 13:02:30,029 - INFO - Fetching: https://www.usatoday.com/politics
+2025-09-28 13:02:30,577 - INFO - Found 45 potential articles
+2025-09-28 13:02:30,578 - INFO - Scraping article 1/3
+2025-09-28 13:02:30,578 - INFO - Fetching: https://www.usatoday.com/news/nation/
+2025-09-28 13:02:31,158 - ERROR - Error downloading image https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/28/PDTF/86406495007-grand-blanc-1.jpg?crop=3023: 406 Client Error: Not Acceptable for url: https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/28/PDTF/86406495007-grand-blanc-1.jpg?crop=3023
+2025-09-28 13:02:31,266 - ERROR - Error downloading image https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/28/PDTF/86407576007-20250928-grand-blanc-shooting-fg-10.jpg?crop=2047: 406 Client Error: Not Acceptable for url: https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/28/PDTF/86407576007-20250928-grand-blanc-shooting-fg-10.jpg?crop=2047
+2025-09-28 13:02:31,410 - ERROR - Error downloading image https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/28/NSTN/86400590007-img-0977.jpg?crop=5711: 406 Client Error: Not Acceptable for url: https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/28/NSTN/86400590007-img-0977.jpg?crop=5711
+2025-09-28 13:02:31,524 - ERROR - Error downloading image https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/28/USAT/86403499007-905696116.jpg?crop=1452: 406 Client Error: Not Acceptable for url: https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/28/USAT/86403499007-905696116.jpg?crop=1452
+2025-09-28 13:02:31,678 - INFO - Downloaded image: 2b8a810ff6d7423b1dc7cc0fa26be6c5.gif (43 bytes)
+2025-09-28 13:02:31,693 - INFO - Saved article: 1f6397355b522859316373dd41adf5ae.json and 5 images metadata: 1f6397355b522859316373dd41adf5ae_images.json
+2025-09-28 13:02:32,694 - INFO - Scraping article 2/3
+2025-09-28 13:02:32,694 - INFO - Fetching: https://www.usatoday.com/news/politics/
+2025-09-28 13:02:32,875 - ERROR - Error downloading image https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/28/USAT/86408786007-washington-monument-trash-shutdown.jpg?crop=6657: 406 Client Error: Not Acceptable for url: https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/28/USAT/86408786007-washington-monument-trash-shutdown.jpg?crop=6657
+2025-09-28 13:02:33,057 - INFO - Image already exists: 2b8a810ff6d7423b1dc7cc0fa26be6c5.gif
+2025-09-28 13:02:33,070 - INFO - Saved article: 56a96948d6ea9591953a874ec2e3e1ab.json and 2 images metadata: 56a96948d6ea9591953a874ec2e3e1ab_images.json
+2025-09-28 13:02:34,075 - INFO - Scraping article 3/3
+2025-09-28 13:02:34,075 - INFO - Fetching: https://www.usatoday.com/news/from-the-archives/
+2025-09-28 13:02:34,681 - ERROR - Error downloading image https://www.usatoday.com/gcdn/presto/2022/08/29/USAT/5e0e5045-2f41-4934-8a4d-2c19a150adee-A01_copy.jpg?crop=1208: 406 Client Error: Not Acceptable for url: https://www.usatoday.com/gcdn/presto/2022/08/29/USAT/5e0e5045-2f41-4934-8a4d-2c19a150adee-A01_copy.jpg?crop=1208
+2025-09-28 13:02:34,836 - INFO - Image already exists: 2b8a810ff6d7423b1dc7cc0fa26be6c5.gif
+2025-09-28 13:02:34,843 - INFO - Saved article: c6ae62b41d4cee613a6ef44befb14f93.json and 2 images metadata: c6ae62b41d4cee613a6ef44befb14f93_images.json
+2025-09-28 13:02:35,846 - INFO - Scraped 3 articles from https://www.usatoday.com/politics
+2025-09-28 13:02:35,846 - INFO - Scraping site: https://www.washingtonpost.com/politics
+2025-09-28 13:02:35,847 - INFO - Fetching: https://www.washingtonpost.com/politics
+2025-09-28 13:03:05,939 - ERROR - Error fetching https://www.washingtonpost.com/politics: HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=30)
+2025-09-28 13:03:05,940 - INFO - Scraped 0 articles from https://www.washingtonpost.com/politics
+2025-09-28 13:03:05,940 - INFO - Scraping site: https://www.yahoo.com/news/politics
+2025-09-28 13:03:05,940 - INFO - Fetching: https://www.yahoo.com/news/politics
+2025-09-28 13:03:06,762 - INFO - Found 60 potential articles
+2025-09-28 13:03:06,762 - INFO - Scraping article 1/3
+2025-09-28 13:03:06,762 - INFO - Fetching: https://www.yahoo.com/news/
+2025-09-28 13:03:07,676 - ERROR - Downloaded file is empty or doesn't exist: fdc636157710bb67a2c71483d68ea869.gif
+2025-09-28 13:03:07,744 - ERROR - Downloaded file is empty or doesn't exist: f4f26e7c7c6980a8274a3462e78a9bd4.gif
+2025-09-28 13:03:07,881 - INFO - Downloaded image: 3dc92e3fa15b6538181717395cfe13ec.png (7324 bytes)
+2025-09-28 13:03:07,941 - INFO - Downloaded image: 2dc7cfa1b75f68fbdd878a5eef4098d8.webp (48102 bytes)
+2025-09-28 13:03:07,980 - INFO - Downloaded image: 343df5008f306c9bfb936e7742e94411.webp (23556 bytes)
+2025-09-28 13:03:08,069 - INFO - Downloaded image: 924b4c2255d1076f80c15badc3bf441d.webp (18330 bytes)
+2025-09-28 13:03:08,098 - INFO - Downloaded image: 141f278c8064ee5f355a4219e926ab26.webp (12926 bytes)
+2025-09-28 13:03:08,126 - INFO - Downloaded image: 109c4a116828fdd97f12480d1ce4d67a.webp (9512 bytes)
+2025-09-28 13:03:08,157 - INFO - Downloaded image: bfc78299b125544ff0c2fc14607a2eed.webp (13240 bytes)
+2025-09-28 13:03:08,187 - INFO - Downloaded image: 1a9b84ceb0e10377cc32a5fcaefe29a0.webp (10852 bytes)
+2025-09-28 13:03:08,220 - INFO - Downloaded image: bce3dcc058c1f4fae40dbfc9e112edc1.webp (21256 bytes)
+2025-09-28 13:03:08,254 - INFO - Downloaded image: 0b250b7d4e8fbbb15342e4d879a4e58d.webp (27030 bytes)
+2025-09-28 13:03:08,285 - INFO - Downloaded image: c44fd4700c6b559e83c2f9f62d571b26.webp (19810 bytes)
+2025-09-28 13:03:08,320 - INFO - Downloaded image: b42936ba188026c1c288e07339c11344.webp (13280 bytes)
+2025-09-28 13:03:08,345 - INFO - Downloaded image: 35583bc1f806a4ba4fa4846fd3c5e022.webp (12200 bytes)
+2025-09-28 13:03:08,380 - INFO - Downloaded image: 66a70a2944458a2ce97efc8feefc56f7.webp (14752 bytes)
+2025-09-28 13:03:08,514 - INFO - Downloaded image: 3bfbfdad08cc78c50fa865755cf80785.gif (43 bytes)
+2025-09-28 13:03:08,578 - ERROR - Downloaded file is empty or doesn't exist: d62293d6925c1df86f62fc4db08fad1b.gif
+2025-09-28 13:03:08,608 - INFO - Saved article: adfb0076f94308a407d4f63c6a096624.json and 18 images metadata: adfb0076f94308a407d4f63c6a096624_images.json
+2025-09-28 13:03:09,613 - INFO - Scraping article 2/3
+2025-09-28 13:03:09,614 - INFO - Fetching: https://www.yahoo.com/news/us/
+2025-09-28 13:03:10,404 - INFO - Downloaded image: 06f70d0677cc4a58b0dac0913f0445b6.webp (116338 bytes)
+2025-09-28 13:03:10,440 - INFO - Downloaded image: c63ad27d655e5989cdb7fa688f2197b9.webp (4766 bytes)
+2025-09-28 13:03:10,455 - INFO - Saved article: a535087c40be5564eba68933495d70be.json and 2 images metadata: a535087c40be5564eba68933495d70be_images.json
+2025-09-28 13:03:11,460 - INFO - Scraping article 3/3
+2025-09-28 13:03:11,461 - INFO - Fetching: https://www.yahoo.com/news/politics/
+2025-09-28 13:03:12,154 - INFO - Downloaded image: ce955d4cc326ce28f766a0b84dcfdfda.webp (93386 bytes)
+2025-09-28 13:03:12,189 - INFO - Image already exists: c63ad27d655e5989cdb7fa688f2197b9.webp
+2025-09-28 13:03:12,201 - INFO - Saved article: ad19ee36fa927d2e48e6fa763b7d183d.json and 2 images metadata: ad19ee36fa927d2e48e6fa763b7d183d_images.json
+2025-09-28 13:03:13,206 - INFO - Scraped 3 articles from https://www.yahoo.com/news/politics
+2025-09-28 13:03:13,207 - INFO - Scraping site: https://www.bbc.com/news/politics
+2025-09-28 13:03:13,207 - INFO - Fetching: https://www.bbc.com/news/politics
+2025-09-28 13:03:13,447 - INFO - Found 51 potential articles
+2025-09-28 13:03:13,448 - INFO - Scraping article 1/3
+2025-09-28 13:03:13,448 - INFO - Fetching: https://www.bbc.com/news/topics/c2vdnvdg6xxt
+2025-09-28 13:03:14,710 - INFO - Downloaded image: 9f70d90894b031e9f6b998273a4a821b.png (501 bytes)
+2025-09-28 13:03:14,850 - INFO - Downloaded image: 96f3bee85f4ee67f80bb0950204bd395.webp (19928 bytes)
+2025-09-28 13:03:14,886 - INFO - Downloaded image: a06a1f19cb4a84ac99fac372a714214b.webp (16890 bytes)
+2025-09-28 13:03:14,919 - INFO - Downloaded image: d512de7608d5ef113895052adfe9addc.webp (19542 bytes)
+2025-09-28 13:03:14,953 - INFO - Downloaded image: 64f847fbfa949b8df7ed441c158314f4.webp (12900 bytes)
+2025-09-28 13:03:14,993 - INFO - Downloaded image: 5096433896773218efaa5261fa18e52f.webp (24130 bytes)
+2025-09-28 13:03:15,021 - INFO - Downloaded image: 37aac7be6c3ea5ac98cbd5b6e3e16833.webp (17844 bytes)
+2025-09-28 13:03:15,044 - INFO - Downloaded image: 627350694721cdeb67fe195fbefa4a76.webp (10130 bytes)
+2025-09-28 13:03:15,070 - INFO - Downloaded image: f30d9ed7a6fe66934909ca0d6e3b1de6.webp (4422 bytes)
+2025-09-28 13:03:15,093 - INFO - Downloaded image: 60ee0aa287b19fdecae0577b56629914.webp (18994 bytes)
+2025-09-28 13:03:15,124 - INFO - Downloaded image: 1cafebf288b81e5e5bcb6f761bde6495.webp (8602 bytes)
+2025-09-28 13:03:15,150 - INFO - Downloaded image: 6aa117c1e07222440941bd0dfbd2166d.webp (22482 bytes)
+2025-09-28 13:03:15,202 - INFO - Downloaded image: 4063cd16340a3330c183caf608130a27.webp (30998 bytes)
+2025-09-28 13:03:15,247 - INFO - Downloaded image: dbe8827aa9ffbf04c53d1fea180b2183.webp (19012 bytes)
+2025-09-28 13:03:15,294 - INFO - Downloaded image: f4c987e0b50643d7f3971f99b9969052.webp (14866 bytes)
+2025-09-28 13:03:15,319 - INFO - Downloaded image: 69d7c9a145bb8ffbc1d1e69f7167ed31.webp (9846 bytes)
+2025-09-28 13:03:15,351 - INFO - Downloaded image: 9a396f17fd4344f05dc9c137a6fefda8.webp (6982 bytes)
+2025-09-28 13:03:15,974 - ERROR - Error downloading image https://ichef.bbci.co.uk/news/480/cpsprodpb/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png.webp: 403 Client Error: Forbidden for url: https://ichef.bbci.co.uk/news/480/cpsprodpb/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png.webp
+2025-09-28 13:03:16,068 - INFO - Downloaded image: fc275ffac2e52571ae213dad0ac171f0.webp (19544 bytes)
+2025-09-28 13:03:16,102 - INFO - Downloaded image: 5c416121268fc6bf938e82321b6089a4.webp (12246 bytes)
+2025-09-28 13:03:16,134 - INFO - Downloaded image: 3a3c2f4555bfd9a349a0d2000d75ed81.webp (18754 bytes)
+2025-09-28 13:03:16,166 - INFO - Downloaded image: 6f26109337085311c3a7eab050dfee0e.webp (17020 bytes)
+2025-09-28 13:03:16,189 - INFO - Downloaded image: a5a4ec1ded514553ba064b60020cd982.webp (15230 bytes)
+2025-09-28 13:03:16,218 - INFO - Downloaded image: ae5d3ffafcb080ab67cbcf8924c7bf62.webp (5124 bytes)
+2025-09-28 13:03:16,226 - INFO - Saved article: a1fa70cdc276ce4bd9572b765b516f70.json and 24 images metadata: a1fa70cdc276ce4bd9572b765b516f70_images.json
+2025-09-28 13:03:17,227 - INFO - Scraping article 2/3
+2025-09-28 13:03:17,227 - INFO - Fetching: https://www.bbc.com/news/war-in-ukraine
+2025-09-28 13:03:17,517 - INFO - Image already exists: 9f70d90894b031e9f6b998273a4a821b.png
+2025-09-28 13:03:17,548 - INFO - Downloaded image: 9fcec15231b5df1424fec3ce495b752c.webp (18186 bytes)
+2025-09-28 13:03:17,581 - INFO - Downloaded image: f62d6a0a71af94be1444f5ae9cc46e95.webp (15832 bytes)
+2025-09-28 13:03:17,604 - INFO - Downloaded image: 8a2b6786831e83009462f620337c245f.webp (9212 bytes)
+2025-09-28 13:03:17,640 - INFO - Downloaded image: 6e87d3e114861e6da5f3da7013f81fe8.webp (2594 bytes)
+2025-09-28 13:03:17,679 - INFO - Downloaded image: 325ad154bcb0b5a62be1e2c72ff9bcaf.webp (5210 bytes)
+2025-09-28 13:03:17,717 - INFO - Downloaded image: 7e69c54e0b1dcb1816d3fdc42c75891b.webp (16550 bytes)
+2025-09-28 13:03:17,756 - INFO - Downloaded image: a294ea11ff0d0165adbb8048c9b0eaec.webp (27850 bytes)
+2025-09-28 13:03:17,777 - INFO - Downloaded image: faab31e1186ed84952149ebe51a6b648.webp (8398 bytes)
+2025-09-28 13:03:17,804 - INFO - Downloaded image: 4954f44732e293f9396be233e824b79e.webp (20874 bytes)
+2025-09-28 13:03:17,832 - INFO - Downloaded image: 60db074737c954c86d354bd3df6c79e3.webp (21586 bytes)
+2025-09-28 13:03:17,870 - INFO - Downloaded image: aa5bd28190d619f9c7a1e0ae86d3d658.webp (25526 bytes)
+2025-09-28 13:03:17,892 - INFO - Downloaded image: e78a8896f18c3ad29c340f9ae6ad96b2.webp (16850 bytes)
+2025-09-28 13:03:17,928 - INFO - Downloaded image: 244a7bcd8274e405a36e27476c35921c.webp (11306 bytes)
+2025-09-28 13:03:17,958 - INFO - Downloaded image: 4aaa17d2851fe3acf9b1554f8d53191f.webp (10212 bytes)
+2025-09-28 13:03:17,983 - INFO - Downloaded image: 489887401c80f07088e159feac5959e2.webp (7800 bytes)
+2025-09-28 13:03:18,018 - INFO - Downloaded image: a8e51f5f3aaf863796da2719705fe014.webp (6984 bytes)
+2025-09-28 13:03:18,050 - INFO - Downloaded image: e047cd42e0e6ef5e59516b8f1b51bc01.webp (20058 bytes)
+2025-09-28 13:03:18,089 - INFO - Downloaded image: dbd37c5c7a4683ff5701475699a14e5b.webp (11740 bytes)
+2025-09-28 13:03:18,119 - INFO - Downloaded image: 124200a873778c08bd714286d68477f0.webp (14410 bytes)
+2025-09-28 13:03:18,147 - INFO - Downloaded image: 03c1793b99eddb2e903045e3b4dab26c.webp (17926 bytes)
+2025-09-28 13:03:18,176 - INFO - Downloaded image: f7e585c0663d2bda9a9f837a16c75ad0.webp (17524 bytes)
+2025-09-28 13:03:18,197 - INFO - Downloaded image: b1afcef54e3c17b5beb19aba840790e3.webp (14712 bytes)
+2025-09-28 13:03:18,220 - INFO - Downloaded image: e8b15dc8839d035c2286a6f80d0097ac.webp (5002 bytes)
+2025-09-28 13:03:18,241 - INFO - Downloaded image: f6aabff7d2138aff0fcd3f6460b817b4.webp (11250 bytes)
+2025-09-28 13:03:18,249 - INFO - Saved article: ef982a525a59c0105320a35fc4659448.json and 25 images metadata: ef982a525a59c0105320a35fc4659448_images.json
+2025-09-28 13:03:19,254 - INFO - Scraping article 3/3
+2025-09-28 13:03:19,255 - INFO - Fetching: https://www.bbc.com/news/us-canada
+2025-09-28 13:03:19,553 - INFO - Image already exists: 9f70d90894b031e9f6b998273a4a821b.png
+2025-09-28 13:03:19,583 - INFO - Downloaded image: 3a7faad6f8b75852b66adbc2fa77cc58.webp (12728 bytes)
+2025-09-28 13:03:19,612 - INFO - Downloaded image: d6134c06d7935e254839a4dfd8d9578e.webp (19450 bytes)
+2025-09-28 13:03:19,635 - INFO - Downloaded image: 1412aaa240503498495f54e3992a0693.webp (17580 bytes)
+2025-09-28 13:03:19,669 - INFO - Downloaded image: e3f2d23374ee628135692d184ffe4a4a.webp (15582 bytes)
+2025-09-28 13:03:19,702 - INFO - Downloaded image: 15a165da54b4b1de9fe41920a2e31b22.webp (4702 bytes)
+2025-09-28 13:03:19,738 - INFO - Downloaded image: d61f8d2bfa045a65efda07541247c110.webp (7056 bytes)
+2025-09-28 13:03:19,784 - INFO - Downloaded image: fdf95d9a2955ee98698b4ebf7434029c.webp (11638 bytes)
+2025-09-28 13:03:19,817 - INFO - Downloaded image: d68e0a7ec65ee6bfa2fc0b8e61808a20.webp (8420 bytes)
+2025-09-28 13:03:19,843 - INFO - Downloaded image: 3fa5aa7bce018d2a1f09e33897766065.webp (11110 bytes)
+2025-09-28 13:03:19,872 - INFO - Downloaded image: bdef922888e3fb068ed3da610d143d35.webp (3914 bytes)
+2025-09-28 13:03:19,901 - INFO - Downloaded image: c99f17c6c2378c2990f9550c73c6ddf2.webp (7350 bytes)
+2025-09-28 13:03:19,930 - INFO - Downloaded image: 4d2651a861456cc8d4269d8e1a8c63df.webp (8900 bytes)
+2025-09-28 13:03:19,967 - INFO - Downloaded image: c3d07ccd1a5ad90bf9bc5c8be700b6f6.webp (7530 bytes)
+2025-09-28 13:03:20,005 - INFO - Downloaded image: 2b0e5de3acbcc05044f486374d26baaf.webp (12288 bytes)
+2025-09-28 13:03:20,035 - INFO - Downloaded image: b806551a1dc17aed915fccb921716a09.webp (19666 bytes)
+2025-09-28 13:03:20,069 - INFO - Downloaded image: b0b8470e53c5fa293f4cc86c10dc9327.webp (22006 bytes)
+2025-09-28 13:03:20,092 - INFO - Downloaded image: 434302a9df468f69d0a767e873c28c7a.webp (16292 bytes)
+2025-09-28 13:03:20,122 - INFO - Downloaded image: 4f92105859f779c98d8272747c5a1ee2.webp (8250 bytes)
+2025-09-28 13:03:20,150 - INFO - Downloaded image: 9fbdf59c66383061a012cea43ca3f047.webp (12716 bytes)
+2025-09-28 13:03:20,171 - INFO - Downloaded image: 6e2aaf39040f78c9a6bd298e40075a3f.webp (10262 bytes)
+2025-09-28 13:03:20,198 - INFO - Downloaded image: 81a2ab59631559dffcde990f9386d584.webp (25400 bytes)
+2025-09-28 13:03:20,228 - INFO - Downloaded image: dd9b256a47dfedfb7c1aa80f6cd75dce.webp (11390 bytes)
+2025-09-28 13:03:20,248 - INFO - Downloaded image: 8ad083fcb1f5a799e27ae19dd4cdd4b5.webp (10302 bytes)
+2025-09-28 13:03:20,300 - INFO - Downloaded image: dc777252b71b07cc7d2422b68d557eb4.webp (6548 bytes)
+2025-09-28 13:03:20,331 - INFO - Downloaded image: 6357eb5f06793c0425bb690024cac2e6.webp (17110 bytes)
+2025-09-28 13:03:20,353 - INFO - Downloaded image: 2c4463bfe2e2a7a0e5ceb0b0ac6b5329.webp (9128 bytes)
+2025-09-28 13:03:20,364 - INFO - Saved article: 91ed4c1188db81be4e5e6d15926c26dc.json and 27 images metadata: 91ed4c1188db81be4e5e6d15926c26dc_images.json
+2025-09-28 13:03:21,365 - INFO - Scraped 3 articles from https://www.bbc.com/news/politics
+2025-09-28 13:03:21,365 - INFO - Scraping site: https://www.csmonitor.com/politics
+2025-09-28 13:03:21,366 - INFO - Fetching: https://www.csmonitor.com/politics
+2025-09-28 13:03:22,130 - INFO - Found 15 potential articles
+2025-09-28 13:03:22,130 - INFO - Scraping article 1/3
+2025-09-28 13:03:22,130 - INFO - Fetching: https://www.csmonitor.com/USA/Politics/2025/0926/comey-indictment-trump-weaponization
+2025-09-28 13:03:22,502 - INFO - Downloaded image: db8a40295e9f4d778cf30b092b178245.jpg (127027 bytes)
+2025-09-28 13:03:22,536 - INFO - Downloaded image: e33aae9b0f879f2b4b17fc39da46ce48.png (20375 bytes)
+2025-09-28 13:03:22,560 - INFO - Downloaded image: 769286152fe8e5c465bea18c9987aaa1.jpg (18692 bytes)
+2025-09-28 13:03:22,604 - INFO - Downloaded image: f2c72dbb402de34e929e8f28eadb7469.jpg (183283 bytes)
+2025-09-28 13:03:22,629 - INFO - Downloaded image: 5be689ab88e9a0b4fc2c2503f1b2e492.jpg (14541 bytes)
+2025-09-28 13:03:22,673 - INFO - Downloaded image: ac6332e3d747f67c4752aacb5ab75fc3.jpg (291763 bytes)
+2025-09-28 13:03:22,707 - INFO - Downloaded image: df61d235431d670fea544bd86bc03f61.jpg (31463 bytes)
+2025-09-28 13:03:22,729 - INFO - Downloaded image: 03fe45bc55d338cdef07818cf5b17b53.jpg (12167 bytes)
+2025-09-28 13:03:22,764 - INFO - Downloaded image: d25c2ca192cd6785e8da4dffc08e2cb6.png (76406 bytes)
+2025-09-28 13:03:22,773 - INFO - Saved article: 5e30f92ef0a979eda03e0680250bf18b.json and 9 images metadata: 5e30f92ef0a979eda03e0680250bf18b_images.json
+2025-09-28 13:03:23,778 - INFO - Scraping article 2/3
+2025-09-28 13:03:23,778 - INFO - Fetching: https://www.csmonitor.com/World/Asia-South-Central/2025/0926/bhutan-happiness-rich-experiment
+2025-09-28 13:03:23,939 - INFO - Downloaded image: eebc960c5de80a29dc4cd8e5003a6eb1.jpg (278228 bytes)
+2025-09-28 13:03:23,965 - INFO - Downloaded image: ec06d8c9bcefe712a0bb928150781d9a.jpg (14897 bytes)
+2025-09-28 13:03:23,984 - INFO - Image already exists: 769286152fe8e5c465bea18c9987aaa1.jpg
+2025-09-28 13:03:24,127 - INFO - Downloaded image: 7913e820d46d4e5cd8cb4fde07561eec.jpg (383092 bytes)
+2025-09-28 13:03:24,146 - INFO - Image already exists: 5be689ab88e9a0b4fc2c2503f1b2e492.jpg
+2025-09-28 13:03:24,299 - INFO - Downloaded image: af94760136f54c911d559a95acdd1553.png (347436 bytes)
+2025-09-28 13:03:24,327 - INFO - Downloaded image: 77cc47e7733f1e8d56cf475230560540.jpg (75557 bytes)
+2025-09-28 13:03:24,348 - INFO - Image already exists: df61d235431d670fea544bd86bc03f61.jpg
+2025-09-28 13:03:24,426 - INFO - Image already exists: d25c2ca192cd6785e8da4dffc08e2cb6.png
+2025-09-28 13:03:24,437 - INFO - Saved article: 729ff578961305fc271b77039f61170b.json and 9 images metadata: 729ff578961305fc271b77039f61170b_images.json
+2025-09-28 13:03:25,442 - INFO - Scraping article 3/3
+2025-09-28 13:03:25,442 - INFO - Fetching: https://www.csmonitor.com/World/Europe/2025/0928/france-clichy-bouna-zyed-police-race-immigrant
+2025-09-28 13:03:25,752 - INFO - Downloaded image: 5be6a4c6d06eb1735524e137023a6000.jpg (378911 bytes)
+2025-09-28 13:03:25,784 - INFO - Downloaded image: cb3cc733ccd310ea0cf298a5b3aaaa37.png (16599 bytes)
+2025-09-28 13:03:25,813 - INFO - Downloaded image: fb68611c8de441bf6aa7e263604be588.jpg (151924 bytes)
+2025-09-28 13:03:25,840 - INFO - Image already exists: 769286152fe8e5c465bea18c9987aaa1.jpg
+2025-09-28 13:03:25,980 - INFO - Downloaded image: 69d3adb72692e03bc03cd948d9ec6bcd.jpg (167865 bytes)
+2025-09-28 13:03:26,013 - INFO - Image already exists: 5be689ab88e9a0b4fc2c2503f1b2e492.jpg
+2025-09-28 13:03:26,131 - INFO - Downloaded image: 524eb025c3e09376343c78b4cf30882a.jpg (201582 bytes)
+2025-09-28 13:03:26,151 - INFO - Image already exists: df61d235431d670fea544bd86bc03f61.jpg
+2025-09-28 13:03:26,303 - INFO - Downloaded image: d263d00d02af26aa1b471077e0671fc0.jpg (303052 bytes)
+2025-09-28 13:03:26,326 - INFO - Image already exists: 03fe45bc55d338cdef07818cf5b17b53.jpg
+2025-09-28 13:03:26,462 - INFO - Downloaded image: f0f4e240906a966b263362cffad5b009.jpg (360360 bytes)
+2025-09-28 13:03:26,484 - INFO - Downloaded image: 01a6fb0373b0067db688c22607a1be28.jpg (12498 bytes)
+2025-09-28 13:03:26,510 - INFO - Downloaded image: b06a9720e3db2485a3f1ec2c40e1132d.jpg (25668 bytes)
+2025-09-28 13:03:26,535 - INFO - Downloaded image: 61117698e729ca9c01b4144c5fbe2018.jpg (131139 bytes)
+2025-09-28 13:03:26,570 - INFO - Downloaded image: 8a13fdc1f709801b6f8b600b340d358a.jpg (129786 bytes)
+2025-09-28 13:03:26,601 - INFO - Downloaded image: 3d189d3883f3fc60dae7621d4fc8b0d6.jpg (97760 bytes)
+2025-09-28 13:03:26,628 - INFO - Downloaded image: 3aa92fdf3cf79d4472d717ee7396e7e4.jpg (220260 bytes)
+2025-09-28 13:03:26,654 - INFO - Image already exists: d25c2ca192cd6785e8da4dffc08e2cb6.png
+2025-09-28 13:03:26,668 - INFO - Saved article: 049ea7331b20b6bf9dc1f3d6d1646e7f.json and 18 images metadata: 049ea7331b20b6bf9dc1f3d6d1646e7f_images.json
+2025-09-28 13:03:27,671 - INFO - Scraped 3 articles from https://www.csmonitor.com/politics
+2025-09-28 13:03:27,672 - INFO - Scraping site: https://www.forbes.com/politics
+2025-09-28 13:03:27,672 - INFO - Fetching: https://www.forbes.com/politics
+2025-09-28 13:03:28,278 - INFO - Found 14 potential articles
+2025-09-28 13:03:28,278 - INFO - Scraping article 1/3
+2025-09-28 13:03:28,278 - INFO - Fetching: https://www.forbes.com/sites/forbesstaff/article/tips-and-confidential-sources/
+2025-09-28 13:03:28,546 - INFO - Saved article: 6122b346c4bbbe0f9611678527425b02.json
+2025-09-28 13:03:29,551 - INFO - Scraping article 2/3
+2025-09-28 13:03:29,552 - INFO - Fetching: https://www.forbes.com/sites/forbesvideo/article/innovation-rules/
+2025-09-28 13:03:29,829 - INFO - Saved article: 71bdb2e03473987469cc78e53f478412.json
+2025-09-28 13:03:30,834 - INFO - Scraping article 3/3
+2025-09-28 13:03:30,834 - INFO - Fetching: https://www.forbes.com/sites/forbes-personal-shopper/article/nordstrom-promo-codes/
+2025-09-28 13:03:31,260 - INFO - Downloaded image: b39eba77fde59c01f4b05b5497f8a24d.jpg (73582 bytes)
+2025-09-28 13:03:31,295 - INFO - Downloaded image: 2eeaae806012ca429f5eb2ca3a90f53f.jpg (45826 bytes)
+2025-09-28 13:03:31,324 - INFO - Downloaded image: 3bd3c3b8f1084ec54264235df3f62b32.jpg (47009 bytes)
+2025-09-28 13:03:31,346 - INFO - Saved article: c2f88e41ed0744262d70a9c20f96208c.json and 3 images metadata: c2f88e41ed0744262d70a9c20f96208c_images.json
+2025-09-28 13:03:32,351 - INFO - Scraped 3 articles from https://www.forbes.com/politics
+2025-09-28 13:03:32,352 - INFO - Scraping site: https://www.thehill.com
+2025-09-28 13:03:32,352 - INFO - Fetching: https://www.thehill.com
+2025-09-28 13:03:32,736 - INFO - Found 1 potential articles
+2025-09-28 13:03:32,736 - INFO - Scraping article 1/1
+2025-09-28 13:03:32,736 - INFO - Fetching: https://www.thehill.com/news/
+2025-09-28 13:03:33,054 - INFO - Saved article: 6f4e05dd416b32d049d38261c9e6bb42.json
+2025-09-28 13:03:34,060 - INFO - Scraped 1 articles from https://www.thehill.com
+2025-09-28 13:03:34,060 - INFO - Scraping site: https://www.marketwatch.com/politics
+2025-09-28 13:03:34,060 - INFO - Fetching: https://www.marketwatch.com/politics
+2025-09-28 13:03:34,466 - ERROR - Error fetching https://www.marketwatch.com/politics: 403 Client Error: Forbidden for url: https://www.marketwatch.com/politics
+2025-09-28 13:03:34,467 - INFO - Scraped 0 articles from https://www.marketwatch.com/politics
+2025-09-28 13:03:34,467 - INFO - Scraping site: https://www.newsnationnow.com/politics
+2025-09-28 13:03:34,467 - INFO - Fetching: https://www.newsnationnow.com/politics
+2025-09-28 13:03:34,617 - ERROR - Error fetching https://www.newsnationnow.com/politics: 403 Client Error: Forbidden for url: https://www.newsnationnow.com/politics
+2025-09-28 13:03:34,618 - INFO - Scraped 0 articles from https://www.newsnationnow.com/politics
+2025-09-28 13:03:34,618 - INFO - Scraping site: https://www.newsweek.com/politics
+2025-09-28 13:03:34,618 - INFO - Fetching: https://www.newsweek.com/politics
+2025-09-28 13:03:34,897 - INFO - Found 0 potential articles
+2025-09-28 13:03:34,897 - INFO - Scraped 0 articles from https://www.newsweek.com/politics
+2025-09-28 13:03:34,897 - INFO - Scraping site: https://www.reason.com/politics
+2025-09-28 13:03:34,897 - INFO - Fetching: https://www.reason.com/politics
+2025-09-28 13:03:35,739 - ERROR - Error fetching https://www.reason.com/politics: 404 Client Error: Not Found for url: https://reason.com/politics/
+2025-09-28 13:03:35,739 - INFO - Scraped 0 articles from https://www.reason.com/politics
+2025-09-28 13:03:35,739 - INFO - Scraping site: https://www.reuters.com/politics
+2025-09-28 13:03:35,739 - INFO - Fetching: https://www.reuters.com/politics
+2025-09-28 13:03:36,281 - INFO - Found 0 potential articles
+2025-09-28 13:03:36,281 - INFO - Scraped 0 articles from https://www.reuters.com/politics
+2025-09-28 13:03:36,281 - INFO - Scraping site: https://www.straightarrownews.com/politics
+2025-09-28 13:03:36,281 - INFO - Fetching: https://www.straightarrownews.com/politics
+2025-09-28 13:03:36,612 - INFO - Found 0 potential articles
+2025-09-28 13:03:36,613 - INFO - Scraped 0 articles from https://www.straightarrownews.com/politics
+2025-09-28 13:03:36,613 - INFO - Scraping site: https://www.wsj.com/politics
+2025-09-28 13:03:36,613 - INFO - Fetching: https://www.wsj.com/politics
+2025-09-28 13:03:36,772 - ERROR - Error fetching https://www.wsj.com/politics: 401 Client Error: HTTP Forbidden for url: https://www.wsj.com/politics
+2025-09-28 13:03:36,772 - INFO - Scraped 0 articles from https://www.wsj.com/politics
+2025-09-28 13:03:36,772 - INFO - Scraping site: https://www.thedispatch.com/politics
+2025-09-28 13:03:36,772 - INFO - Fetching: https://www.thedispatch.com/politics
+2025-09-28 13:03:37,391 - ERROR - Error fetching https://www.thedispatch.com/politics: 404 Client Error: Not Found for url: https://thedispatch.com/politics
+2025-09-28 13:03:37,392 - INFO - Scraped 0 articles from https://www.thedispatch.com/politics
+2025-09-28 13:03:37,392 - INFO - Scraping site: https://www.theepochtimes.com/politics
+2025-09-28 13:03:37,392 - INFO - Fetching: https://www.theepochtimes.com/politics
+2025-09-28 13:03:38,133 - INFO - Found 23 potential articles
+2025-09-28 13:03:38,134 - INFO - Scraping article 1/3
+2025-09-28 13:03:38,134 - INFO - Fetching: https://www.theepochtimes.com/article/exclusive-eric-trump-recounts-relentless-attacks-on-father-family-5920983
+2025-09-28 13:03:38,296 - INFO - Downloaded image: 940ab48c137aae90343d9434a3a3f067.svg (16136 bytes)
+2025-09-28 13:03:38,334 - INFO - Downloaded image: 580d0a4ad0ffb5b496b86fa2320caf82.svg (685 bytes)
+2025-09-28 13:03:38,381 - INFO - Downloaded image: 57e00067ef186f6d73cf9dec3dd4936c.svg (10516 bytes)
+2025-09-28 13:03:38,657 - INFO - Downloaded image: 59531c81ee5b255e1e7af34f222d5cfc.jpg (3194979 bytes)
+2025-09-28 13:03:38,713 - INFO - Downloaded image: d4ce7b6f00fd15c2a02ad028c04c816b.webp (8600 bytes)
+2025-09-28 13:03:38,763 - INFO - Downloaded image: d5b9d02f8a42e149e313f6cb2e4e73f0.webp (50366 bytes)
+2025-09-28 13:03:38,819 - INFO - Downloaded image: 2e1fbaf9c02c7af319d7b72aa6666d88.webp (15936 bytes)
+2025-09-28 13:03:38,883 - INFO - Downloaded image: d9daaa1b216ecc49eb4dff7f9741ab5e.webp (52842 bytes)
+2025-09-28 13:03:38,950 - INFO - Downloaded image: 4d4bb76759891a40ae5f4c59e2d98819.webp (16950 bytes)
+2025-09-28 13:03:39,005 - INFO - Downloaded image: 8ffe40a8467809452587a3afc7582fc6.webp (27646 bytes)
+2025-09-28 13:03:39,054 - INFO - Downloaded image: 30b23ba3aa96ae4b5b23415d692f050a.webp (17450 bytes)
+2025-09-28 13:03:39,114 - INFO - Downloaded image: 93cf09fe0a05e5fa4e64f2e9a9d8c2ef.webp (33686 bytes)
+2025-09-28 13:03:39,155 - INFO - Downloaded image: fd14fd62a01e4d86c4ec2209186b78a2.webp (19942 bytes)
+2025-09-28 13:03:39,205 - INFO - Downloaded image: e47150b02d161ea9c603d151969c0a6f.webp (4824 bytes)
+2025-09-28 13:03:39,254 - INFO - Downloaded image: 375cbbaea0ae75664b6b02690ac39af4.png (2409 bytes)
+2025-09-28 13:03:39,261 - INFO - Saved article: a9b416d4a9d24dd8b88397585d4b03e7.json and 15 images metadata: a9b416d4a9d24dd8b88397585d4b03e7_images.json
+2025-09-28 13:03:40,266 - INFO - Scraping article 2/3
+2025-09-28 13:03:40,267 - INFO - Fetching: https://www.theepochtimes.com/article/exclusive-eric-trump-recounts-relentless-attacks-on-father-family-5920983?cmt=1
+2025-09-28 13:03:40,455 - INFO - Image already exists: 940ab48c137aae90343d9434a3a3f067.svg
+2025-09-28 13:03:40,561 - INFO - Image already exists: 580d0a4ad0ffb5b496b86fa2320caf82.svg
+2025-09-28 13:03:40,686 - INFO - Image already exists: 57e00067ef186f6d73cf9dec3dd4936c.svg
+2025-09-28 13:03:40,728 - INFO - Image already exists: 59531c81ee5b255e1e7af34f222d5cfc.jpg
+2025-09-28 13:03:40,863 - INFO - Image already exists: d4ce7b6f00fd15c2a02ad028c04c816b.webp
+2025-09-28 13:03:40,988 - INFO - Image already exists: d5b9d02f8a42e149e313f6cb2e4e73f0.webp
+2025-09-28 13:03:41,239 - INFO - Image already exists: 2e1fbaf9c02c7af319d7b72aa6666d88.webp
+2025-09-28 13:03:41,356 - INFO - Image already exists: d9daaa1b216ecc49eb4dff7f9741ab5e.webp
+2025-09-28 13:03:41,466 - INFO - Image already exists: 4d4bb76759891a40ae5f4c59e2d98819.webp
+2025-09-28 13:03:41,594 - INFO - Image already exists: 8ffe40a8467809452587a3afc7582fc6.webp
+2025-09-28 13:03:41,700 - INFO - Image already exists: 30b23ba3aa96ae4b5b23415d692f050a.webp
+2025-09-28 13:03:41,835 - INFO - Image already exists: 93cf09fe0a05e5fa4e64f2e9a9d8c2ef.webp
+2025-09-28 13:03:41,983 - INFO - Image already exists: fd14fd62a01e4d86c4ec2209186b78a2.webp
+2025-09-28 13:03:42,102 - INFO - Image already exists: e47150b02d161ea9c603d151969c0a6f.webp
+2025-09-28 13:03:42,222 - INFO - Image already exists: 375cbbaea0ae75664b6b02690ac39af4.png
+2025-09-28 13:03:42,231 - INFO - Saved article: 61cf11465624a5faa71fab2133d69f1d.json and 15 images metadata: 61cf11465624a5faa71fab2133d69f1d_images.json
+2025-09-28 13:03:43,237 - INFO - Scraping article 3/3
+2025-09-28 13:03:43,237 - INFO - Fetching: https://www.theepochtimes.com/article/how-social-media-is-warping-peoples-relationship-with-violence-5920280
+2025-09-28 13:03:43,830 - INFO - Downloaded image: b9023ebb1bf16e634c2eececf320f1fb.jpg (5758680 bytes)
+2025-09-28 13:03:43,835 - INFO - Saved article: 0b5c65192cc149dac8461c6b7c5078e2.json and 1 images metadata: 0b5c65192cc149dac8461c6b7c5078e2_images.json
+2025-09-28 13:03:44,835 - INFO - Scraped 3 articles from https://www.theepochtimes.com/politics
+2025-09-28 13:03:44,836 - INFO - Scraping site: https://www.foxbusiness.com/politics
+2025-09-28 13:03:44,836 - INFO - Fetching: https://www.foxbusiness.com/politics
+2025-09-28 13:03:45,025 - INFO - Found 0 potential articles
+2025-09-28 13:03:45,025 - INFO - Scraped 0 articles from https://www.foxbusiness.com/politics
+2025-09-28 13:03:45,025 - INFO - Scraping site: https://www.thefp.com/politics
+2025-09-28 13:03:45,025 - INFO - Fetching: https://www.thefp.com/politics
+2025-09-28 13:03:45,754 - ERROR - Error fetching https://www.thefp.com/politics: 404 Client Error: Not Found for url: https://www.thefp.com/politics
+2025-09-28 13:03:45,754 - INFO - Scraped 0 articles from https://www.thefp.com/politics
+2025-09-28 13:03:45,754 - INFO - Scraping site: https://www.justthenews.com/politics
+2025-09-28 13:03:45,754 - INFO - Fetching: https://www.justthenews.com/politics
+2025-09-28 13:03:46,214 - ERROR - Error fetching https://www.justthenews.com/politics: 404 Client Error: Not Found for url: https://justthenews.com/politics
+2025-09-28 13:03:46,214 - INFO - Scraped 0 articles from https://www.justthenews.com/politics
+2025-09-28 13:03:46,214 - INFO - Scraping site: https://www.nationalreview.com/politics
+2025-09-28 13:03:46,214 - INFO - Fetching: https://www.nationalreview.com/politics
+2025-09-28 13:03:46,345 - ERROR - Error fetching https://www.nationalreview.com/politics: 403 Client Error: Forbidden for url: https://www.nationalreview.com/politics
+2025-09-28 13:03:46,345 - INFO - Scraped 0 articles from https://www.nationalreview.com/politics
+2025-09-28 13:03:46,345 - INFO - Scraping site: https://www.nypost.com/politics
+2025-09-28 13:03:46,345 - INFO - Fetching: https://www.nypost.com/politics
+2025-09-28 13:03:47,539 - INFO - Found 1 potential articles
+2025-09-28 13:03:47,539 - INFO - Scraping article 1/1
+2025-09-28 13:03:47,539 - INFO - Fetching: https://pagesix.com/2025/09/28/entertainment/chess-moves-back-to-broadway-40-years-after-debut/
+2025-09-28 13:03:49,096 - INFO - Downloaded image: e71a95c30e49004980a8f5c5775ad5e8.webp (114760 bytes)
+2025-09-28 13:03:52,096 - INFO - Downloaded image: 972c824e08acbef28e32daecf3658dd1.webp (1062882 bytes)
+2025-09-28 13:03:53,484 - INFO - Downloaded image: 8577641096c6862fc2a967a56278438c.webp (509066 bytes)
+2025-09-28 13:03:54,449 - INFO - Downloaded image: 86b7c43e348887344b5190405c15acdc.webp (518478 bytes)
+2025-09-28 13:03:55,502 - INFO - Downloaded image: 02f1d165719900296be27d25fed61f19.webp (671490 bytes)
+2025-09-28 13:03:56,776 - INFO - Downloaded image: 19fc15e7117e25d2a6964de741abda0e.webp (810794 bytes)
+2025-09-28 13:03:56,794 - INFO - Saved article: 62c6719573ffd791fac388aab55fa113.json and 6 images metadata: 62c6719573ffd791fac388aab55fa113_images.json
+2025-09-28 13:03:57,799 - INFO - Scraped 1 articles from https://www.nypost.com/politics
+2025-09-28 13:03:57,799 - INFO - Scraping site: https://www.realclearpolitics.com
+2025-09-28 13:03:57,800 - INFO - Fetching: https://www.realclearpolitics.com
+2025-09-28 13:03:57,995 - INFO - Found 11 potential articles
+2025-09-28 13:03:57,995 - INFO - Scraping article 1/3
+2025-09-28 13:03:57,995 - INFO - Fetching: https://www.msnbc.com/news/news-analysis/democrats-shutdown-trump-rescissions-spending-rcna233554
+2025-09-28 13:03:58,644 - ERROR - Error downloading image https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428: 404 Client Error: Not Found for url: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428
+2025-09-28 13:03:58,663 - INFO - Saved article: 2ef30b6d2bd05ac6e0e11772a8d4517f.json and 1 images metadata: 2ef30b6d2bd05ac6e0e11772a8d4517f_images.json
+2025-09-28 13:03:59,668 - INFO - Scraping article 2/3
+2025-09-28 13:03:59,668 - INFO - Fetching: https://www.msn.com/en-us/news/politics/comey-case-raises-question-of-who-are-trump-s-next-political-targets/ar-AA1Nsfgs
+2025-09-28 13:03:59,837 - INFO - Saved article: 4b39b4580e647256d12051a63e949177.json
+2025-09-28 13:04:00,843 - INFO - Scraping article 3/3
+2025-09-28 13:04:00,843 - INFO - Fetching: https://www.washingtontimes.com/news/2025/sep/28/democrats-shout-fascist-behaving-like-brownshirts/
+2025-09-28 13:04:00,985 - ERROR - Error fetching https://www.washingtontimes.com/news/2025/sep/28/democrats-shout-fascist-behaving-like-brownshirts/: 403 Client Error: Forbidden for url: https://www.washingtontimes.com/news/2025/sep/28/democrats-shout-fascist-behaving-like-brownshirts/
+2025-09-28 13:04:01,990 - INFO - Scraped 2 articles from https://www.realclearpolitics.com
+2025-09-28 13:04:01,990 - INFO - Scraping site: https://www.upward.news/politics
+2025-09-28 13:04:01,991 - INFO - Fetching: https://www.upward.news/politics
+2025-09-28 13:04:02,665 - ERROR - Error fetching https://www.upward.news/politics: 404 Client Error: Not Found for url: https://upward.news/politics
+2025-09-28 13:04:02,666 - INFO - Scraped 0 articles from https://www.upward.news/politics
+2025-09-28 13:04:02,666 - INFO - Scraping site: https://www.washingtonexaminer.com/politics
+2025-09-28 13:04:02,666 - INFO - Fetching: https://www.washingtonexaminer.com/politics
+2025-09-28 13:04:03,052 - INFO - Found 21 potential articles
+2025-09-28 13:04:03,052 - INFO - Scraping article 1/3
+2025-09-28 13:04:03,052 - INFO - Fetching: https://www.washingtonexaminer.com/section/news/
+2025-09-28 13:04:03,404 - INFO - Downloaded image: 7d5b2b530272c47c5193583ee2be2164.webp (7534 bytes)
+2025-09-28 13:04:03,483 - INFO - Downloaded image: 9a0a257c9ba04a6daaad06b827531237.webp (14952 bytes)
+2025-09-28 13:04:03,555 - INFO - Downloaded image: 6317cd6aff8c33413b1f1b4c703537bf.webp (78390 bytes)
+2025-09-28 13:04:03,567 - INFO - Saved article: f49f4077f6890a26cf2f5bdce9b58fc9.json and 3 images metadata: f49f4077f6890a26cf2f5bdce9b58fc9_images.json
+2025-09-28 13:04:04,572 - INFO - Scraping article 2/3
+2025-09-28 13:04:04,573 - INFO - Fetching: https://www.washingtonexaminer.com/section/news/white-house/
+2025-09-28 13:04:04,880 - INFO - Image already exists: 7d5b2b530272c47c5193583ee2be2164.webp
+2025-09-28 13:04:05,008 - INFO - Image already exists: 9a0a257c9ba04a6daaad06b827531237.webp
+2025-09-28 13:04:05,163 - INFO - Image already exists: 6317cd6aff8c33413b1f1b4c703537bf.webp
+2025-09-28 13:04:05,185 - INFO - Saved article: 529c8d7ee6614496960f877912734e68.json and 3 images metadata: 529c8d7ee6614496960f877912734e68_images.json
+2025-09-28 13:04:06,189 - INFO - Scraping article 3/3
+2025-09-28 13:04:06,189 - INFO - Fetching: https://www.washingtonexaminer.com/section/news/senate/
+2025-09-28 13:04:09,565 - ERROR - Error fetching https://www.washingtonexaminer.com/section/news/senate/: Exceeded 30 redirects.
+2025-09-28 13:04:10,571 - INFO - Scraped 2 articles from https://www.washingtonexaminer.com/politics
+2025-09-28 13:04:10,572 - INFO - Scraping site: https://www.washingtontimes.com/politics
+2025-09-28 13:04:10,572 - INFO - Fetching: https://www.washingtontimes.com/politics
+2025-09-28 13:04:10,612 - ERROR - Error fetching https://www.washingtontimes.com/politics: 403 Client Error: Forbidden for url: https://www.washingtontimes.com/politics
+2025-09-28 13:04:10,613 - INFO - Scraped 0 articles from https://www.washingtontimes.com/politics
+2025-09-28 13:04:10,613 - INFO - Scraping site: https://www.zerohedge.com/politics
+2025-09-28 13:04:10,613 - INFO - Fetching: https://www.zerohedge.com/politics
+2025-09-28 13:04:11,266 - ERROR - Error fetching https://www.zerohedge.com/politics: 404 Client Error: Not Found for url: https://www.zerohedge.com/politics
+2025-09-28 13:04:11,266 - INFO - Scraped 0 articles from https://www.zerohedge.com/politics
+2025-09-28 13:04:11,266 - INFO - Scraping site: https://www.theamericanconservative.com/politics
+2025-09-28 13:04:11,266 - INFO - Fetching: https://www.theamericanconservative.com/politics
+2025-09-28 13:04:12,069 - INFO - Found 0 potential articles
+2025-09-28 13:04:12,069 - INFO - Scraped 0 articles from https://www.theamericanconservative.com/politics
+2025-09-28 13:04:12,069 - INFO - Scraping site: https://www.spectator.org/politics
+2025-09-28 13:04:12,069 - INFO - Fetching: https://www.spectator.org/politics
+2025-09-28 13:04:12,229 - ERROR - Error fetching https://www.spectator.org/politics: 403 Client Error: Forbidden for url: https://www.spectator.org/politics
+2025-09-28 13:04:12,230 - INFO - Scraped 0 articles from https://www.spectator.org/politics
+2025-09-28 13:04:12,230 - INFO - Scraping site: https://www.blazemedia.com/politics
+2025-09-28 13:04:12,230 - INFO - Fetching: https://www.blazemedia.com/politics
+2025-09-28 13:04:12,955 - INFO - Found 13 potential articles
+2025-09-28 13:04:12,955 - INFO - Scraping article 1/3
+2025-09-28 13:04:12,955 - INFO - Fetching: https://www.theblaze.com/news/
+2025-09-28 13:04:13,080 - INFO - Saved article: 5634e85335f7763e48ff61a9d0c4d468.json and 1 images metadata: 5634e85335f7763e48ff61a9d0c4d468_images.json
+2025-09-28 13:04:14,085 - INFO - Scraping article 2/3
+2025-09-28 13:04:14,085 - INFO - Fetching: https://www.blazemedia.com/news/
+2025-09-28 13:04:14,430 - INFO - Saved article: 9103bb137ad28ecef02132bce4d3c42c.json and 1 images metadata: 9103bb137ad28ecef02132bce4d3c42c_images.json
+2025-09-28 13:04:15,435 - INFO - Scraping article 3/3
+2025-09-28 13:04:15,435 - INFO - Fetching: https://www.theblaze.com/news/video-3-dead-multiple-victims-injured-in-north-carolina-mass-shooting-suspect-reportedly-flees-by-boat
+2025-09-28 13:04:15,608 - INFO - Downloaded image: 7212d5c3616895314a8e4f08c0e5008a.avif (9573 bytes)
+2025-09-28 13:04:15,615 - INFO - Saved article: b7426b4a4ed38c4347f91b45c6a76dfc.json and 1 images metadata: b7426b4a4ed38c4347f91b45c6a76dfc_images.json
+2025-09-28 13:04:16,620 - INFO - Scraped 3 articles from https://www.blazemedia.com/politics
+2025-09-28 13:04:16,620 - INFO - Scraping site: https://www.breitbart.com/politics
+2025-09-28 13:04:16,621 - INFO - Fetching: https://www.breitbart.com/politics
+2025-09-28 13:04:17,091 - INFO - Found 18 potential articles
+2025-09-28 13:04:17,091 - INFO - Scraping article 1/3
+2025-09-28 13:04:17,091 - INFO - Fetching: https://www.breitbart.com/news/
+2025-09-28 13:04:17,413 - INFO - Downloaded image: 2ec04b35ed105767c4471d897f32ddc4.jpg (25928 bytes)
+2025-09-28 13:04:17,419 - INFO - Saved article: 377b96874e9d0389a29c7a94091e9aa8.json and 1 images metadata: 377b96874e9d0389a29c7a94091e9aa8_images.json
+2025-09-28 13:04:18,424 - INFO - Scraping article 2/3
+2025-09-28 13:04:18,425 - INFO - Fetching: https://www.breitbart.com/news/the-taliban-release-a-us-citizen-from-afghan-prison/
+2025-09-28 13:04:18,572 - INFO - Saved article: 5a9a5988161f19664b25bc9f1623400a.json
+2025-09-28 13:04:19,577 - INFO - Scraping article 3/3
+2025-09-28 13:04:19,578 - INFO - Fetching: https://www.breitbart.com/politics/2025/09/28/nyc-mayor-eric-adams-ends-reelection-campaign/
+2025-09-28 13:04:19,716 - INFO - Saved article: c3b41c1037af631aad43b7c1ac8f9532.json
+2025-09-28 13:04:20,721 - INFO - Scraped 3 articles from https://www.breitbart.com/politics
+2025-09-28 13:04:20,722 - INFO - Scraping site: https://www.cbn.com/politics
+2025-09-28 13:04:20,722 - INFO - Fetching: https://www.cbn.com/politics
+2025-09-28 13:04:22,116 - INFO - Found 15 potential articles
+2025-09-28 13:04:22,116 - INFO - Scraping article 1/3
+2025-09-28 13:04:22,116 - INFO - Fetching: https://www2.cbn.com/news/christian-world-news
+2025-09-28 13:04:23,045 - INFO - Downloaded image: 9b44069f0eb6ba9148a14a27f732cb7b.jpg (14682 bytes)
+2025-09-28 13:04:23,060 - INFO - Saved article: 1916e616784d98693fe5fb0c2d2af884.json and 1 images metadata: 1916e616784d98693fe5fb0c2d2af884_images.json
+2025-09-28 13:04:24,066 - INFO - Scraping article 2/3
+2025-09-28 13:04:24,067 - INFO - Fetching: https://www2.cbn.com/news/cbn-newswatch
+2025-09-28 13:04:24,784 - INFO - Image already exists: 9b44069f0eb6ba9148a14a27f732cb7b.jpg
+2025-09-28 13:04:24,796 - INFO - Saved article: 94804d6a1279ac53d81d7bf1fd8663c6.json and 1 images metadata: 94804d6a1279ac53d81d7bf1fd8663c6_images.json
+2025-09-28 13:04:25,801 - INFO - Scraping article 3/3
+2025-09-28 13:04:25,802 - INFO - Fetching: https://www2.cbn.com/news/jerusalem-dateline
+2025-09-28 13:04:26,483 - INFO - Image already exists: 9b44069f0eb6ba9148a14a27f732cb7b.jpg
+2025-09-28 13:04:26,497 - INFO - Saved article: 7bb7a720d2dfd1ffadb9cf118c793ebf.json and 1 images metadata: 7bb7a720d2dfd1ffadb9cf118c793ebf_images.json
+2025-09-28 13:04:27,502 - INFO - Scraped 3 articles from https://www.cbn.com/politics
+2025-09-28 13:04:27,502 - INFO - Scraping site: https://www.dailycaller.com/politics
+2025-09-28 13:04:27,502 - INFO - Fetching: https://www.dailycaller.com/politics
+2025-09-28 13:04:28,306 - ERROR - Error fetching https://www.dailycaller.com/politics: 404 Client Error: Not Found for url: https://dailycaller.com/404
+2025-09-28 13:04:28,306 - INFO - Scraped 0 articles from https://www.dailycaller.com/politics
+2025-09-28 13:04:28,306 - INFO - Scraping site: https://www.dailymail.co.uk/news/politics
+2025-09-28 13:04:28,307 - INFO - Fetching: https://www.dailymail.co.uk/news/politics
+2025-09-28 13:04:29,355 - INFO - Found 96 potential articles
+2025-09-28 13:04:29,355 - INFO - Scraping article 1/3
+2025-09-28 13:04:29,355 - INFO - Fetching: https://www.dailymail.co.uk/news/us/index.html
+2025-09-28 13:04:30,472 - INFO - Downloaded image: e28e58da4c40cb383607ba8a68c37b65.png (14803 bytes)
+2025-09-28 13:04:30,521 - INFO - Downloaded image: c8ac72cbd1de6cd930ecc8918e6ad496.png (1939 bytes)
+2025-09-28 13:04:30,549 - INFO - Downloaded image: 9b71fd1d6e588356aac9348ac370c4f8.png (2374 bytes)
+2025-09-28 13:04:30,601 - INFO - Downloaded image: 0774e7fef68259385cf5c876dc9ac313.jpg (49262 bytes)
+2025-09-28 13:04:30,645 - INFO - Downloaded image: 723eaf0cc481463cf11cf7f930083d85.jpg (18600 bytes)
+2025-09-28 13:04:30,682 - INFO - Downloaded image: 2b47c40bd7ecbe891c30f6494a016c42.jpg (19828 bytes)
+2025-09-28 13:04:30,715 - INFO - Downloaded image: 18d82d52aa19bce2d263b720cc98e24c.jpg (21647 bytes)
+2025-09-28 13:04:30,752 - INFO - Downloaded image: 6275f4b8cb1e92c77abe3c414d4f4b59.jpg (17590 bytes)
+2025-09-28 13:04:30,782 - INFO - Downloaded image: 968ade3736a92d1e780b27799777343e.jpg (16905 bytes)
+2025-09-28 13:04:30,814 - INFO - Downloaded image: 9696fc97bcb037408d70dfd868689093.jpg (20730 bytes)
+2025-09-28 13:04:30,848 - INFO - Downloaded image: 10d757971742ba9e1d8c9da904ca1c77.jpg (17197 bytes)
+2025-09-28 13:04:30,884 - INFO - Downloaded image: d423e36db56ba5c88ce20446188a6fe0.jpg (22662 bytes)
+2025-09-28 13:04:30,927 - INFO - Downloaded image: 94ebf87b73c723ed6b542b2b0bb53814.jpg (20716 bytes)
+2025-09-28 13:04:30,955 - INFO - Downloaded image: 03ed084a47acb42402f7631636bdbae9.jpg (18619 bytes)
+2025-09-28 13:04:30,992 - INFO - Downloaded image: ac7177e5934031c9de6c6e8098218cb1.jpg (26252 bytes)
+2025-09-28 13:04:31,035 - INFO - Downloaded image: 967dedbf1a7e81d6a0d3c5cf334a223d.jpg (20920 bytes)
+2025-09-28 13:04:31,180 - INFO - Downloaded image: 85c85d59a70824f7cf28daa1398bce68.jpg (14030 bytes)
+2025-09-28 13:04:31,217 - INFO - Downloaded image: c8aba614e16594b12ab88e20d0eeceb6.jpg (21145 bytes)
+2025-09-28 13:04:31,321 - INFO - Downloaded image: 0923ff91152c802daa6dcfeb6c48156d.jpg (21308 bytes)
+2025-09-28 13:04:31,374 - INFO - Downloaded image: 09d345eda7f2df25c7c94a96ff0efb86.jpg (26329 bytes)
+2025-09-28 13:04:31,413 - INFO - Downloaded image: c6ef193666d4635def57ca6b2dfe7700.jpg (16869 bytes)
+2025-09-28 13:04:31,438 - INFO - Downloaded image: 54671f5b8f3772311201f11734b5b8c5.jpg (14763 bytes)
+2025-09-28 13:04:31,466 - INFO - Downloaded image: 55230091ec4afea3b5e2215fd176d566.jpg (24850 bytes)
+2025-09-28 13:04:31,507 - INFO - Downloaded image: 255e8652930c83eb6d14eb95d4d6a96e.jpg (14833 bytes)
+2025-09-28 13:04:31,546 - INFO - Downloaded image: 9f23ee8139bc5dac9af33b36fe8e3362.jpg (10452 bytes)
+2025-09-28 13:04:31,582 - INFO - Downloaded image: 6f5dda59e52dd06a9deec16529b55614.jpg (17341 bytes)
+2025-09-28 13:04:31,610 - INFO - Downloaded image: 2d67b8855e84b45196d096808a2f0125.jpg (23529 bytes)
+2025-09-28 13:04:31,640 - INFO - Downloaded image: 77928a256c59ae73c7796fddf82f4ae4.jpg (19603 bytes)
+2025-09-28 13:04:31,676 - INFO - Downloaded image: 251ebd52749413ba8db104960919d368.jpg (21597 bytes)
+2025-09-28 13:04:31,709 - INFO - Downloaded image: d9af0e56d706c7931715169cd1b8a1f6.jpg (15642 bytes)
+2025-09-28 13:04:31,745 - INFO - Downloaded image: 28e7fc2007fa414d4deb24202dd2a951.jpg (20637 bytes)
+2025-09-28 13:04:31,790 - INFO - Downloaded image: 733aad11cd56206bf23f97377f099b6f.jpg (15930 bytes)
+2025-09-28 13:04:31,823 - INFO - Downloaded image: 3238f49d91a9242c299d1c3cf67ee5b3.jpg (20406 bytes)
+2025-09-28 13:04:31,862 - INFO - Downloaded image: 7680dcdd5a1b20cdfb99302cef35fd2d.jpg (19894 bytes)
+2025-09-28 13:04:31,920 - INFO - Downloaded image: ff8529eb5c692cdd737d951de6273d33.jpg (18763 bytes)
+2025-09-28 13:04:31,952 - INFO - Downloaded image: 12fc7ab4ffc42f43548f5dc6e850c242.jpg (24977 bytes)
+2025-09-28 13:04:31,987 - INFO - Downloaded image: 13f7574c6171683b1573e5e5b24800ae.jpg (18648 bytes)
+2025-09-28 13:04:32,026 - INFO - Downloaded image: 68f585159f95f1c704c4ecc087096abe.jpg (17670 bytes)
+2025-09-28 13:04:32,062 - INFO - Downloaded image: 4a65a9aa4f31db68a3e76139c9c3e725.jpg (20415 bytes)
+2025-09-28 13:04:32,094 - INFO - Downloaded image: 5955b2585bb351a4acc1b3b37152e153.jpg (22066 bytes)
+2025-09-28 13:04:32,127 - INFO - Downloaded image: 635b0722571d94639b2cc097feda8288.jpg (22715 bytes)
+2025-09-28 13:04:32,175 - INFO - Downloaded image: 1eb4604a3788021c9a1718cf29a84131.jpg (18114 bytes)
+2025-09-28 13:04:32,216 - INFO - Downloaded image: 962a3a22b7378c833ab1073658a2769f.jpg (14787 bytes)
+2025-09-28 13:04:32,254 - INFO - Downloaded image: 9ddc95b379341f89935f343b74d49823.jpg (25450 bytes)
+2025-09-28 13:04:32,291 - INFO - Downloaded image: 46caa8e2f7e041f19535db077efb0599.jpg (14410 bytes)
+2025-09-28 13:04:32,348 - INFO - Downloaded image: dbb80cf5518a04663a68b6d95d45d262.jpg (24088 bytes)
+2025-09-28 13:04:32,383 - INFO - Downloaded image: 4b7e8e65bc5469c7edb225a6faf342e3.jpg (20166 bytes)
+2025-09-28 13:04:32,415 - INFO - Downloaded image: dbd6778410f38451a3c7c50324f4f039.jpg (18510 bytes)
+2025-09-28 13:04:32,455 - INFO - Downloaded image: ddf0a57b34cbd5f350d62de0f302b6da.jpg (18695 bytes)
+2025-09-28 13:04:32,487 - INFO - Downloaded image: 23c0c5022c0ca3ef158de324399dc09f.jpg (26627 bytes)
+2025-09-28 13:04:32,543 - INFO - Downloaded image: ee02be3fb9a53512b52b152f3c83c483.jpg (25784 bytes)
+2025-09-28 13:04:32,580 - INFO - Downloaded image: adb9ec0ccaa716140a3e1381185c03e5.jpg (17529 bytes)
+2025-09-28 13:04:32,613 - INFO - Downloaded image: fc0a1a6599d525cb02bfc3450b244cbc.jpg (19031 bytes)
+2025-09-28 13:04:32,648 - INFO - Downloaded image: 6b28074e6f8918f9abea927554433349.jpg (33340 bytes)
+2025-09-28 13:04:32,684 - INFO - Downloaded image: 57d81b546afd70bf7c609bf34246b450.jpg (18705 bytes)
+2025-09-28 13:04:32,718 - INFO - Downloaded image: 7b30509a97c18f4b29827a1612914601.jpg (29662 bytes)
+2025-09-28 13:04:32,754 - INFO - Downloaded image: 74e5d0ba90945fa890365379e34be9a7.jpg (18486 bytes)
+2025-09-28 13:04:32,803 - INFO - Downloaded image: 6313d9829089e8fcae622d7e756a2660.jpg (16227 bytes)
+2025-09-28 13:04:32,842 - INFO - Downloaded image: bd7f8bc91255972d2c43d30344b8a9fa.jpg (18932 bytes)
+2025-09-28 13:04:32,876 - INFO - Downloaded image: 24fa162f22f2b79fa9898d3819bc9a4d.jpg (20738 bytes)
+2025-09-28 13:04:32,910 - INFO - Downloaded image: c976d2340decdadbf910c6f3dc109075.jpg (20888 bytes)
+2025-09-28 13:04:32,962 - INFO - Downloaded image: 4efadbbb461f741fa1dfa9405fc9184d.jpg (22638 bytes)
+2025-09-28 13:04:32,994 - INFO - Downloaded image: 463fe3fbc1b3baff267dc64018bb1054.jpg (26960 bytes)
+2025-09-28 13:04:33,028 - INFO - Downloaded image: 8ebdba39c9fb13c6b7c3fae9667cf701.jpg (25430 bytes)
+2025-09-28 13:04:33,054 - INFO - Downloaded image: 40c419b29a0d9f4893b2c872b0c84f74.jpg (7635 bytes)
+2025-09-28 13:04:33,090 - INFO - Downloaded image: 9b0b24f0f15b0201cee678837f9075e7.jpg (10321 bytes)
+2025-09-28 13:04:33,124 - INFO - Downloaded image: 38903bfef5c82cb6407e9a22756b6c03.jpg (8668 bytes)
+2025-09-28 13:04:33,151 - INFO - Downloaded image: 7558d321bafaae1b824abcbbf9b87014.jpg (12274 bytes)
+2025-09-28 13:04:33,181 - INFO - Downloaded image: 2b0b68afebf71aaf266dd5d9679bbc0e.jpg (6981 bytes)
+2025-09-28 13:04:33,218 - INFO - Downloaded image: e1b8d65d7ebb9221d98ec432322dd90c.jpg (10274 bytes)
+2025-09-28 13:04:33,249 - INFO - Downloaded image: c21c3e8e9dfce113ac8f575617745163.jpg (9739 bytes)
+2025-09-28 13:04:33,280 - INFO - Downloaded image: f9e4687022d2076be4e8523248567f80.jpg (8464 bytes)
+2025-09-28 13:04:33,310 - INFO - Downloaded image: 095ef71d84cdcee34a8c54ec1aedaa49.jpg (9212 bytes)
+2025-09-28 13:04:33,342 - INFO - Downloaded image: 3c76ae66263a872f413d1ef33e591491.jpg (6512 bytes)
+2025-09-28 13:04:33,382 - INFO - Downloaded image: ff1c271a24509c5f61dc5a6b93d1750b.jpg (10323 bytes)
+2025-09-28 13:04:33,425 - INFO - Downloaded image: fb56c7fa6b596d14f12561e564716ea2.jpg (5292 bytes)
+2025-09-28 13:04:33,454 - INFO - Downloaded image: 1d99f40c377182ac10fa3543a7db0d0c.jpg (7471 bytes)
+2025-09-28 13:04:33,490 - INFO - Downloaded image: 36cc2b208139295dca1c464e7c7fe83f.jpg (9411 bytes)
+2025-09-28 13:04:33,526 - INFO - Downloaded image: 0ac3b8879c182fd518c887aa1a9d2eaf.jpg (11228 bytes)
+2025-09-28 13:04:33,563 - INFO - Downloaded image: 0295cb4e371e544fbaa5487fda2020f2.jpg (10970 bytes)
+2025-09-28 13:04:33,609 - INFO - Downloaded image: d5a49cd1d69b9e6770d4e5155c3cc9e6.jpg (7762 bytes)
+2025-09-28 13:04:33,645 - INFO - Downloaded image: 2b117b90592e4c7b4616b7945f29c11b.jpg (6133 bytes)
+2025-09-28 13:04:33,670 - INFO - Downloaded image: ef30ae64dbfccc6ce860e4a42c8659b6.jpg (10349 bytes)
+2025-09-28 13:04:33,709 - INFO - Downloaded image: 9b055a7f2c9dcbc335fba40eeb0c60c9.jpg (10788 bytes)
+2025-09-28 13:04:33,748 - INFO - Downloaded image: 58d3e0449c55d1c4b00f4770056fa413.jpg (7184 bytes)
+2025-09-28 13:04:33,778 - INFO - Downloaded image: 825896b1e2cabfbb09dfe62b4710c430.jpg (10481 bytes)
+2025-09-28 13:04:33,818 - INFO - Downloaded image: 40a67daeddce0791b0681a607fd98585.jpg (9158 bytes)
+2025-09-28 13:04:33,849 - INFO - Downloaded image: 23d0134348146d1abaedd36c12000cdd.jpg (9884 bytes)
+2025-09-28 13:04:33,882 - INFO - Downloaded image: b43fc285f6d6bb25c59ede809b90c795.jpg (7060 bytes)
+2025-09-28 13:04:33,931 - INFO - Downloaded image: b53486306fbd8f9668b67be1f9429cbd.jpg (6917 bytes)
+2025-09-28 13:04:33,977 - INFO - Downloaded image: cee98177d51a4c84c13308dca24ec191.jpg (11674 bytes)
+2025-09-28 13:04:34,004 - INFO - Downloaded image: 06ad4b81e6a4dc37434eeb37e76a649d.jpg (10324 bytes)
+2025-09-28 13:04:34,034 - INFO - Downloaded image: a6421c62f0641a860839a387b7ab203f.jpg (5555 bytes)
+2025-09-28 13:04:34,061 - INFO - Downloaded image: 14effc8de581c2fa27823920930beebb.jpg (5873 bytes)
+2025-09-28 13:04:34,094 - INFO - Downloaded image: 6ef4a5fda27575c69255d0bf533f7dd6.jpg (10438 bytes)
+2025-09-28 13:04:34,127 - INFO - Downloaded image: e6fb8ceb84bcf89a06fcdd3cbe254242.jpg (5809 bytes)
+2025-09-28 13:04:34,160 - INFO - Downloaded image: 6b623b030b96b317e03f1ca82be8ee40.jpg (5280 bytes)
+2025-09-28 13:04:34,201 - INFO - Downloaded image: ddffdf721d87106678db035620c49dbe.jpg (7382 bytes)
+2025-09-28 13:04:34,273 - INFO - Downloaded image: da8240b8505e71f04ec4887fb60763ae.jpg (4879 bytes)
+2025-09-28 13:04:34,302 - INFO - Downloaded image: 5d25e7f9c8ea7eb985125e3af62986b1.jpg (9014 bytes)
+2025-09-28 13:04:34,345 - INFO - Downloaded image: 4e890e9ad6cdaf00fa5f8c60fc6faee0.jpg (10432 bytes)
+2025-09-28 13:04:34,385 - INFO - Downloaded image: f66802f56cdc1c0ee9876289723dab3d.jpg (8468 bytes)
+2025-09-28 13:04:34,415 - INFO - Downloaded image: 71e4a53e3e46629823b4a7fa3720265b.jpg (6361 bytes)
+2025-09-28 13:04:34,451 - INFO - Downloaded image: 6123c2e5921fa756a109c7b1586d1fc9.jpg (9128 bytes)
+2025-09-28 13:04:34,510 - INFO - Downloaded image: 818e07454a42f8e064d6a2785a844c50.jpg (11440 bytes)
+2025-09-28 13:04:34,549 - INFO - Downloaded image: 14324f1a89c8616bba8a69690edae9da.jpg (5900 bytes)
+2025-09-28 13:04:34,579 - INFO - Downloaded image: ce2b7824657f6911426fd7eed618615c.jpg (7741 bytes)
+2025-09-28 13:04:34,606 - INFO - Downloaded image: 457ea2c21edd4d035155d3e62640dba5.jpg (7114 bytes)
+2025-09-28 13:04:34,636 - INFO - Downloaded image: 91524951fe214fde65cf876a20dd574a.jpg (6986 bytes)
+2025-09-28 13:04:34,666 - INFO - Downloaded image: d193fb35802a009ed1ca6741a2382f65.jpg (7444 bytes)
+2025-09-28 13:04:34,699 - INFO - Downloaded image: 1b1b03f246308bfde7370b80fbe382b2.jpg (9073 bytes)
+2025-09-28 13:04:34,745 - INFO - Downloaded image: 72ee807a3f61a2475917de9a7a66535c.jpg (5387 bytes)
+2025-09-28 13:04:34,781 - INFO - Downloaded image: 7760c4331774a6a742bf080ebea09b3f.jpg (8830 bytes)
+2025-09-28 13:04:34,813 - INFO - Downloaded image: 6e547b22c41a90833a54e9eb0f3f0b29.jpg (8895 bytes)
+2025-09-28 13:04:34,849 - INFO - Downloaded image: f909c9fefca6cb7adb90fd0af668ec87.jpg (10629 bytes)
+2025-09-28 13:04:34,881 - INFO - Downloaded image: 100f4af116e88c7a6132f5b5e360bff9.jpg (7788 bytes)
+2025-09-28 13:04:34,912 - INFO - Downloaded image: f64b58133c946624472406844cfabfb3.jpg (10549 bytes)
+2025-09-28 13:04:34,936 - INFO - Downloaded image: eb1fee0577cdd3a6549e5b1b3e7948fc.jpg (7985 bytes)
+2025-09-28 13:04:34,965 - INFO - Downloaded image: 7505e96c507b1c20a18913f93820424e.jpg (9936 bytes)
+2025-09-28 13:04:34,998 - INFO - Downloaded image: d3861169c0e92380e2030241933a4eb0.jpg (9940 bytes)
+2025-09-28 13:04:35,031 - INFO - Downloaded image: a8a26881cc24cea9080d3297a028d41a.jpg (10467 bytes)
+2025-09-28 13:04:35,075 - INFO - Downloaded image: 78b1326216251d9b1a426b24e6084f0b.jpg (9756 bytes)
+2025-09-28 13:04:35,119 - INFO - Downloaded image: 89cd329eb2aaae8a0fa6a68a73e6c6f6.jpg (7375 bytes)
+2025-09-28 13:04:35,162 - INFO - Downloaded image: 97165f3b21ad9a78b6041ecb19f0decb.jpg (8783 bytes)
+2025-09-28 13:04:35,193 - INFO - Downloaded image: 34151b195ed9f53507fc0382eddaca51.jpg (11385 bytes)
+2025-09-28 13:04:35,233 - INFO - Downloaded image: e1ad9f90d155cc93fa7769510441131b.jpg (9414 bytes)
+2025-09-28 13:04:35,264 - INFO - Downloaded image: 083144db9c7514bdebe69607bcc477fc.jpg (7717 bytes)
+2025-09-28 13:04:35,293 - INFO - Downloaded image: 228b8753782df1aaffae362b4f46a0c1.jpg (11219 bytes)
+2025-09-28 13:04:35,330 - INFO - Downloaded image: 3309ea62b99af81bd6c9e61f2c41701d.jpg (8834 bytes)
+2025-09-28 13:04:35,358 - INFO - Downloaded image: c2e2b56a97837a85fbff484feb1faac3.jpg (7169 bytes)
+2025-09-28 13:04:35,398 - INFO - Downloaded image: 276823d294f5991b435d677c3b3226dd.jpg (10199 bytes)
+2025-09-28 13:04:35,499 - INFO - Downloaded image: 59d5c8247f42e7f33ff4e567a4f3ddaa.jpg (10354 bytes)
+2025-09-28 13:04:35,896 - INFO - Downloaded image: 5fc35ecd4911fea40b93c0269ca4e585.jpg (11294 bytes)
+2025-09-28 13:04:35,933 - INFO - Downloaded image: 8a06bc2bfff41176cee2dc191485c4b7.jpg (10706 bytes)
+2025-09-28 13:04:35,974 - INFO - Downloaded image: 4760add1242f4ba7ed63615a68e66a2b.jpg (7684 bytes)
+2025-09-28 13:04:36,024 - INFO - Downloaded image: fc2c74d06e2627a3a1cd380b20072c24.jpg (7891 bytes)
+2025-09-28 13:04:36,065 - INFO - Downloaded image: da36601e4b1a46b518d339a624ce9a60.jpg (9545 bytes)
+2025-09-28 13:04:36,096 - INFO - Downloaded image: ecca846fee128c988394a1ddc84f07d0.jpg (11364 bytes)
+2025-09-28 13:04:36,127 - INFO - Downloaded image: fcf70176ac2f195a197c9c05458992d3.jpg (7186 bytes)
+2025-09-28 13:04:36,162 - INFO - Downloaded image: e6bd74e980be11bb2c3db03e6daab956.jpg (10851 bytes)
+2025-09-28 13:04:36,188 - INFO - Downloaded image: 2d75bd3aed53f919c0915823cfa77c8d.jpg (6839 bytes)
+2025-09-28 13:04:36,221 - INFO - Downloaded image: 37cbb0fe2d7a6f763c6875bcb8c4352e.jpg (9059 bytes)
+2025-09-28 13:04:36,259 - INFO - Downloaded image: f4bf27daeab90648ba6d11c77f1fcd40.jpg (7894 bytes)
+2025-09-28 13:04:36,299 - INFO - Downloaded image: 426930e0c493de864c97824e6d0ee818.jpg (9599 bytes)
+2025-09-28 13:04:36,338 - INFO - Downloaded image: 0bef082f5bcd7f15c8e0b4778c81fe8c.jpg (10079 bytes)
+2025-09-28 13:04:36,365 - INFO - Downloaded image: 91a2b18171bdd7e71a10582b7be26dd7.jpg (7423 bytes)
+2025-09-28 13:04:36,392 - INFO - Downloaded image: 2c8fc7d32459f3ab794abaaa85e3dc02.jpg (6026 bytes)
+2025-09-28 13:04:36,426 - INFO - Downloaded image: 4829c94f66450a5b6f9a38a484952c8d.jpg (6695 bytes)
+2025-09-28 13:04:36,457 - INFO - Downloaded image: e83f0530823a336881152bdd38303e7a.jpg (9897 bytes)
+2025-09-28 13:04:36,494 - INFO - Downloaded image: 737fc60ddb4ba4e08ed71d43bb2a1c46.jpg (4673 bytes)
+2025-09-28 13:04:36,521 - INFO - Downloaded image: c4ca0f9d9f3cbfe31a50aad7663d2e08.jpg (8833 bytes)
+2025-09-28 13:04:36,552 - INFO - Downloaded image: 570f84d869d225207d63f914dbc18635.jpg (8749 bytes)
+2025-09-28 13:04:36,582 - INFO - Downloaded image: afbcadd62f6942f2f21c126c71ad7332.jpg (5305 bytes)
+2025-09-28 13:04:36,662 - INFO - Downloaded image: 52cb5e315f97cc0d8ea96c327849b00d.jpg (7505 bytes)
+2025-09-28 13:04:36,689 - INFO - Downloaded image: 9b5ae913b912ff5b6ff0876a0c5fe732.jpg (5436 bytes)
+2025-09-28 13:04:36,722 - INFO - Downloaded image: aa58888079baa58329efb46a4abbccfe.jpg (7556 bytes)
+2025-09-28 13:04:36,752 - INFO - Downloaded image: 685c779247567ca9a1821b7d535920cd.jpg (9877 bytes)
+2025-09-28 13:04:36,784 - INFO - Downloaded image: 3fc7c35f1f7ed97a8684c2769382d7ac.jpg (9100 bytes)
+2025-09-28 13:04:36,815 - INFO - Downloaded image: fb1311b4728836d7541f40c34aafd005.jpg (10291 bytes)
+2025-09-28 13:04:36,842 - INFO - Downloaded image: 1a82472585d65c6dd98bf7a4fc3baf95.jpg (7106 bytes)
+2025-09-28 13:04:36,877 - INFO - Downloaded image: f1673fc1fd7316abf02356f2c2ab83ec.jpg (8988 bytes)
+2025-09-28 13:04:36,910 - INFO - Downloaded image: ce8f8b283021c7d576091ca90ee80a8a.jpg (8924 bytes)
+2025-09-28 13:04:36,938 - INFO - Downloaded image: d653aaaf8db5f8ee25dbecbf3fa96deb.jpg (8789 bytes)
+2025-09-28 13:04:36,985 - INFO - Downloaded image: 4b23f922f52cfdeff8eb42a1a88eca86.jpg (8378 bytes)
+2025-09-28 13:04:37,017 - INFO - Downloaded image: 0f3698e4396385c2f3d750721066d536.jpg (8162 bytes)
+2025-09-28 13:04:37,044 - INFO - Downloaded image: 24aadcbe64042b936f52689ef760b0db.jpg (6184 bytes)
+2025-09-28 13:04:37,073 - INFO - Downloaded image: ca89cac745f4fe0b38d53639886600bc.jpg (7290 bytes)
+2025-09-28 13:04:37,095 - INFO - Downloaded image: c27e25df3f4fdff8cf33d4ecbd779228.jpg (10978 bytes)
+2025-09-28 13:04:37,129 - INFO - Downloaded image: 4f0ce544e58a9ca509eb386c73f16ec9.jpg (9814 bytes)
+2025-09-28 13:04:37,158 - INFO - Downloaded image: da6874fb4cabdef89d504b5d6d324d0a.jpg (7026 bytes)
+2025-09-28 13:04:37,195 - INFO - Downloaded image: 53db218a8d66d659094ab9ad4a3d0ce5.jpg (6839 bytes)
+2025-09-28 13:04:37,232 - INFO - Downloaded image: f69a01aaf3959509b2253596708749b1.jpg (7713 bytes)
+2025-09-28 13:04:37,269 - INFO - Downloaded image: 0f26605beac17f16f12e454eebf8b619.jpg (8058 bytes)
+2025-09-28 13:04:37,304 - INFO - Downloaded image: 229e8ee222ebcbb79143baf652f5ffd5.jpg (7051 bytes)
+2025-09-28 13:04:37,381 - INFO - Downloaded image: 9513b5566f57105fd6f6d56b878de8a8.jpg (7044 bytes)
+2025-09-28 13:04:37,417 - INFO - Downloaded image: b565575df8433a4f845673b5f7535dd6.jpg (9271 bytes)
+2025-09-28 13:04:37,450 - INFO - Downloaded image: c93aea73bfcebe6ae1ea420183523f75.jpg (10162 bytes)
+2025-09-28 13:04:37,491 - INFO - Downloaded image: 8b2f924420700b4dd134a93ea39074a5.jpg (10056 bytes)
+2025-09-28 13:04:37,523 - INFO - Downloaded image: 0c23cd96beb16ab26ac9a13d43b292aa.jpg (4601 bytes)
+2025-09-28 13:04:37,558 - INFO - Downloaded image: 9853cccd762f85a780880241f19cfe7d.jpg (6824 bytes)
+2025-09-28 13:04:37,599 - INFO - Downloaded image: b361996f072f39f3e54637b1a35c32d7.jpg (7086 bytes)
+2025-09-28 13:04:37,639 - INFO - Downloaded image: 640046b83478b9e449270bc48a9dcb9b.jpg (7501 bytes)
+2025-09-28 13:04:37,673 - INFO - Downloaded image: a93fd02d30f87431aa1ea8411bb6e2c1.jpg (9986 bytes)
+2025-09-28 13:04:37,697 - INFO - Downloaded image: b737a6871baa97548a0d67a1e9f77188.jpg (8149 bytes)
+2025-09-28 13:04:37,735 - INFO - Downloaded image: 5d3f5b3716f26fe25a691599d71cdd3e.jpg (7318 bytes)
+2025-09-28 13:04:37,775 - INFO - Downloaded image: 3490aadc04ef387bba37039d363f2a5d.jpg (6187 bytes)
+2025-09-28 13:04:37,811 - INFO - Downloaded image: 9d42ac55cd7864ba6de3850e2062c3f7.jpg (8894 bytes)
+2025-09-28 13:04:37,850 - INFO - Downloaded image: 1a6075cfbd062976b2c1af9dce367a42.jpg (7735 bytes)
+2025-09-28 13:04:37,884 - INFO - Downloaded image: 0e161a6e9642955ea5d810df5da0b008.jpg (11292 bytes)
+2025-09-28 13:04:37,920 - INFO - Downloaded image: 33ead397d04b6c89be6c41cfce93695e.jpg (8624 bytes)
+2025-09-28 13:04:37,961 - INFO - Downloaded image: ea297bccd50f81a47c0411015d8d09aa.jpg (10550 bytes)
+2025-09-28 13:04:37,995 - INFO - Downloaded image: 5d1dd591cbdca81f1828835f1d0ba6bb.jpg (6371 bytes)
+2025-09-28 13:04:38,019 - INFO - Downloaded image: 52a5ac37b167690f77729c0904454024.jpg (9446 bytes)
+2025-09-28 13:04:38,056 - INFO - Downloaded image: 55fdd17a4fba021d3a0c846c69cafd11.jpg (9659 bytes)
+2025-09-28 13:04:38,094 - INFO - Downloaded image: e422abed882af4d90ac4d7a61afe4f2d.jpg (8776 bytes)
+2025-09-28 13:04:38,133 - INFO - Downloaded image: 17ac147522466d025b8755caf3d437f9.jpg (10455 bytes)
+2025-09-28 13:04:38,180 - INFO - Downloaded image: febc98c0692cc4924bfef5399ba331f7.jpg (9374 bytes)
+2025-09-28 13:04:38,215 - INFO - Downloaded image: f6472684e877d740aab9a299e0c6413f.jpg (11166 bytes)
+2025-09-28 13:04:38,244 - INFO - Downloaded image: fe2cd652919d2971258deae19df2e199.jpg (5608 bytes)
+2025-09-28 13:04:38,276 - INFO - Downloaded image: e38d1c9bdaaa1dc95319fdf42cd3fa41.jpg (8185 bytes)
+2025-09-28 13:04:38,308 - INFO - Downloaded image: bbdd8530f42701d2eb11a8cce7f3e5ee.jpg (10167 bytes)
+2025-09-28 13:04:38,344 - INFO - Downloaded image: 7cf407197b67448f60367ded5d7e389a.jpg (10809 bytes)
+2025-09-28 13:04:38,373 - INFO - Downloaded image: 298061c425113dd93493ad672eeb2d09.jpg (8280 bytes)
+2025-09-28 13:04:38,402 - INFO - Downloaded image: c74aad9cd9923ad9d97d90ca811f0cdb.jpg (5512 bytes)
+2025-09-28 13:04:38,430 - INFO - Downloaded image: 5f1de744672f73fd0182077abc3baf51.jpg (6269 bytes)
+2025-09-28 13:04:38,470 - INFO - Downloaded image: 03521ef9aa49005831e2e6b2fa03f4a9.jpg (6513 bytes)
+2025-09-28 13:04:38,510 - INFO - Downloaded image: 6cf21b72230114401dbcda654bcd2766.jpg (6820 bytes)
+2025-09-28 13:04:38,541 - INFO - Downloaded image: 160df59b4bb46eb1a3a6935815aa145f.jpg (6966 bytes)
+2025-09-28 13:04:38,571 - INFO - Downloaded image: acbe9ad9ea2028b90d397b648f008bdd.jpg (8078 bytes)
+2025-09-28 13:04:38,602 - INFO - Downloaded image: 23df07ab9c1564e70f0215718c981ea8.jpg (6704 bytes)
+2025-09-28 13:04:38,637 - INFO - Downloaded image: 61a2c91247b3c8e89b9dea44aa80dd7a.jpg (6954 bytes)
+2025-09-28 13:04:38,673 - INFO - Downloaded image: 720fe3170ac16df9aee15450fa2631c0.jpg (5660 bytes)
+2025-09-28 13:04:38,704 - INFO - Downloaded image: 7f7c6f6f711046e27ac8b62d3c1766d0.jpg (9014 bytes)
+2025-09-28 13:04:38,733 - INFO - Downloaded image: 8bc9d403dd7dc83490be449b250ec80c.jpg (10092 bytes)
+2025-09-28 13:04:38,771 - INFO - Downloaded image: 02a7bd1e27b88e1cb4dae9a25c981f9f.jpg (7725 bytes)
+2025-09-28 13:04:38,812 - INFO - Downloaded image: 5d1f42a940b779b9e9272bbf2361988f.jpg (8697 bytes)
+2025-09-28 13:04:38,848 - INFO - Downloaded image: 7b4c2fb8ffcca5efaa83dc86a2f73b27.jpg (9188 bytes)
+2025-09-28 13:04:38,875 - INFO - Downloaded image: d56ac9deec50b0ef57cbbc736da524d7.jpg (7211 bytes)
+2025-09-28 13:04:38,908 - INFO - Downloaded image: 2e14fd57be05da9fefad9f79c231f049.jpg (9509 bytes)
+2025-09-28 13:04:38,957 - INFO - Downloaded image: 4d2b120bd75aa7cfd6384f2b584110d3.jpg (8895 bytes)
+2025-09-28 13:04:38,997 - INFO - Downloaded image: 8a0c3a7d12183b50ad17d302509154e1.jpg (8390 bytes)
+2025-09-28 13:04:39,019 - INFO - Downloaded image: 2b1cabbb3cd99f1033e6a746fa870a13.jpg (6619 bytes)
+2025-09-28 13:04:39,043 - INFO - Downloaded image: c04a85cbc038b43edeed585914451d0a.jpg (7772 bytes)
+2025-09-28 13:04:39,135 - INFO - Downloaded image: 32d87a470d04f75fd52218664ebd3f18.jpg (6698 bytes)
+2025-09-28 13:04:39,168 - INFO - Downloaded image: be40a490a78bcfa72dfb7a43e550d29f.jpg (10391 bytes)
+2025-09-28 13:04:39,202 - INFO - Downloaded image: e2e0814a408613f33b3ae79c33031763.jpg (9495 bytes)
+2025-09-28 13:04:39,237 - INFO - Downloaded image: 5430f18ce2cee30ac374a9d722689dd5.jpg (5636 bytes)
+2025-09-28 13:04:39,279 - INFO - Downloaded image: 42b64ad92130ea6a3b3006a93b8db152.jpg (10467 bytes)
+2025-09-28 13:04:39,312 - INFO - Downloaded image: 86db7756aa847a05c93e0797be31896b.jpg (8841 bytes)
+2025-09-28 13:04:39,349 - INFO - Downloaded image: 18f145a78c3a41c5763253f455cccc7d.jpg (8377 bytes)
+2025-09-28 13:04:39,377 - INFO - Downloaded image: f7ae6d7350eb5d32c21f7ff9d730d7c7.jpg (9514 bytes)
+2025-09-28 13:04:39,409 - INFO - Downloaded image: 64a8dfbbc0690c5b9b8c2aa55a6fc625.jpg (6882 bytes)
+2025-09-28 13:04:39,435 - INFO - Downloaded image: c20057218e1b53dc88c357399fbd4dd9.jpg (7249 bytes)
+2025-09-28 13:04:39,474 - INFO - Downloaded image: 52ae0200d25ff42879322e72fca44600.jpg (10966 bytes)
+2025-09-28 13:04:39,504 - INFO - Downloaded image: dfa710d9b0ce9d51ac0a525762fba936.jpg (10616 bytes)
+2025-09-28 13:04:39,530 - INFO - Downloaded image: dce423ff156aaf7b54a3f28803cba6d0.jpg (10568 bytes)
+2025-09-28 13:04:39,567 - INFO - Downloaded image: 5e8792331bba9a777cd94171b310b35a.jpg (6817 bytes)
+2025-09-28 13:04:39,602 - INFO - Downloaded image: d540d257a83bbeb404c6b6f9b3aac2c0.jpg (9294 bytes)
+2025-09-28 13:04:39,644 - INFO - Downloaded image: 8465847a30b84169c68f083667f9984c.jpg (12227 bytes)
+2025-09-28 13:04:39,679 - INFO - Downloaded image: 6c74c5f00981c0114530faa6ed36b18c.jpg (10937 bytes)
+2025-09-28 13:04:39,709 - INFO - Downloaded image: b2f42a2c399e1767263c1af855e3631e.jpg (7731 bytes)
+2025-09-28 13:04:39,735 - INFO - Downloaded image: 81aedb5c10b4eb3a846ee5542bc2eb4d.jpg (10628 bytes)
+2025-09-28 13:04:39,766 - INFO - Downloaded image: 3b09c89b66c8445da8d10a964adcb81c.jpg (6242 bytes)
+2025-09-28 13:04:39,790 - INFO - Downloaded image: c9de68ff3fd3ff87f126b51881adf864.jpg (6999 bytes)
+2025-09-28 13:04:39,819 - INFO - Downloaded image: 0d3c6d1b6424be71fcfa69ab30ac70f1.jpg (7931 bytes)
+2025-09-28 13:04:39,858 - INFO - Downloaded image: 2911fac1f0dce1d819806ea978ab066e.jpg (7826 bytes)
+2025-09-28 13:04:39,898 - INFO - Downloaded image: 128d7ebc1b4f8725a87a683b62b29e41.jpg (9685 bytes)
+2025-09-28 13:04:39,930 - INFO - Downloaded image: 8e4f171b3bfefd213116566e4e84dc27.jpg (11889 bytes)
+2025-09-28 13:04:39,961 - INFO - Downloaded image: 31cbb28e11d4b561724bba77708f56db.jpg (11058 bytes)
+2025-09-28 13:04:39,991 - INFO - Downloaded image: da4fd0e2e0b0dc6c1bab88821bfb79d2.jpg (10086 bytes)
+2025-09-28 13:04:40,054 - INFO - Downloaded image: 799454d1c3aae98cef101980a047c043.jpg (10865 bytes)
+2025-09-28 13:04:40,094 - INFO - Downloaded image: 210ae278c03f40d226eb279c923f993d.jpg (6731 bytes)
+2025-09-28 13:04:40,121 - INFO - Downloaded image: 5bbc1a7315980dc529723f47df4c5fbd.jpg (4455 bytes)
+2025-09-28 13:04:40,152 - INFO - Downloaded image: 489f6f880d92fb3fd2177ea5ed3cd8d5.jpg (10419 bytes)
+2025-09-28 13:04:40,189 - INFO - Downloaded image: c0b14f5775cf5dd9e3ed4e58fdb630b8.jpg (10087 bytes)
+2025-09-28 13:04:40,216 - INFO - Downloaded image: 7f46ad168a84a2cc20677c03387e4371.jpg (10844 bytes)
+2025-09-28 13:04:40,247 - INFO - Downloaded image: bf609b2a508bf5e75bf4e7570f97d545.jpg (6270 bytes)
+2025-09-28 13:04:40,269 - INFO - Downloaded image: a2bff0d9cdade817187f0168d548a92d.jpg (11823 bytes)
+2025-09-28 13:04:40,304 - INFO - Downloaded image: fc47109fb0854f002133ad33bd4ead82.jpg (6181 bytes)
+2025-09-28 13:04:40,343 - INFO - Downloaded image: 804513a2f4ea7743b237a3bf403378bd.jpg (8904 bytes)
+2025-09-28 13:04:40,377 - INFO - Downloaded image: ebc0313392ea2b1809c82af6f8bb8a74.jpg (7240 bytes)
+2025-09-28 13:04:40,407 - INFO - Downloaded image: 17f25baf7d86f711b562e9d35e141dd1.jpg (10664 bytes)
+2025-09-28 13:04:40,439 - INFO - Downloaded image: 41735711699dc90c3b07f4cdb4484acd.jpg (6480 bytes)
+2025-09-28 13:04:40,474 - INFO - Downloaded image: 749aeb75565843bb91b11b25d990d460.jpg (8943 bytes)
+2025-09-28 13:04:40,511 - INFO - Downloaded image: 582551b5ad1a8cb1900b2b275fa9c6af.jpg (6292 bytes)
+2025-09-28 13:04:40,540 - INFO - Downloaded image: ed53988bf489c498a2e77c988b0ac9ee.jpg (6173 bytes)
+2025-09-28 13:04:40,571 - INFO - Downloaded image: 8ca3c93b9a8f023370aa0a255eaa0cde.jpg (9663 bytes)
+2025-09-28 13:04:40,634 - INFO - Downloaded image: 2891c21a33b29aeebb2acb97e010792b.jpg (6670 bytes)
+2025-09-28 13:04:40,671 - INFO - Downloaded image: 8daf06ec5f9147129786b6a4dfbf2e9d.jpg (10149 bytes)
+2025-09-28 13:04:40,714 - INFO - Downloaded image: 265352dde62193b76c0cd171db9d8599.jpg (10016 bytes)
+2025-09-28 13:04:40,757 - INFO - Downloaded image: f985e596e62c5e7b886c9795aa62fe70.jpg (10883 bytes)
+2025-09-28 13:04:40,788 - INFO - Downloaded image: aaa8e240bba0eb2d0909656d2893e27f.jpg (6055 bytes)
+2025-09-28 13:04:40,823 - INFO - Downloaded image: 43341ac69bebe802a3d671beb0301f60.jpg (6930 bytes)
+2025-09-28 13:04:40,860 - INFO - Downloaded image: 88b72e59834be50276fe07596b9492f7.jpg (7213 bytes)
+2025-09-28 13:04:40,892 - INFO - Downloaded image: 4b51615d1962bba8d5576e82821683f7.jpg (4671 bytes)
+2025-09-28 13:04:40,922 - INFO - Downloaded image: 440faabde03025befbb2abe4d876752f.jpg (11296 bytes)
+2025-09-28 13:04:40,955 - INFO - Downloaded image: 61cf32f3a62011eb8b316570db2dca9c.jpg (6373 bytes)
+2025-09-28 13:04:40,995 - INFO - Downloaded image: 884fe6bd837edde76c214da695b6f144.jpg (10903 bytes)
+2025-09-28 13:04:41,032 - INFO - Downloaded image: d21c365162543e1fc29b929c18d7c172.jpg (8004 bytes)
+2025-09-28 13:04:41,071 - INFO - Downloaded image: 42d815ca6559d8ad4e5b757187c56940.jpg (9023 bytes)
+2025-09-28 13:04:41,104 - INFO - Downloaded image: 5d94d1c08541f790fa315d0f706beca0.jpg (6850 bytes)
+2025-09-28 13:04:41,135 - INFO - Downloaded image: 89532f63f236b8ab21b59c66409b628c.jpg (8276 bytes)
+2025-09-28 13:04:41,167 - INFO - Downloaded image: e2c1fa7ce818857a23703b5599acfe24.jpg (8523 bytes)
+2025-09-28 13:04:41,201 - INFO - Downloaded image: 35f0cd6e6588a588c3adef26802ae066.jpg (9459 bytes)
+2025-09-28 13:04:41,230 - INFO - Downloaded image: ed4a94b0014c8136da11783b9b24bd68.jpg (8266 bytes)
+2025-09-28 13:04:41,260 - INFO - Downloaded image: a9b1ac4b4004975b9466116b28d87f32.jpg (6043 bytes)
+2025-09-28 13:04:41,286 - INFO - Downloaded image: 4749abb213530f02e05b45ee295644d0.jpg (7246 bytes)
+2025-09-28 13:04:41,315 - INFO - Downloaded image: aa7579a28a94dfd133ba99e789a7f41e.jpg (9667 bytes)
+2025-09-28 13:04:41,347 - INFO - Downloaded image: 7337c6bc23f42f614d3020b589f96f77.jpg (10223 bytes)
+2025-09-28 13:04:41,378 - INFO - Downloaded image: a26e328b6dba987d4426207d7adf8557.jpg (6322 bytes)
+2025-09-28 13:04:41,413 - INFO - Downloaded image: f7bb6ad4c2a526f0faa78350a32d78e3.jpg (9323 bytes)
+2025-09-28 13:04:41,446 - INFO - Downloaded image: 72c3dba0b108bb93575b4de020a5c58f.jpg (7600 bytes)
+2025-09-28 13:04:41,477 - INFO - Downloaded image: 1dd43a3ea074c556a211fcb6f03c4c21.jpg (6321 bytes)
+2025-09-28 13:04:41,506 - INFO - Downloaded image: e285334854ba85521ce5ca3804b9756e.jpg (6985 bytes)
+2025-09-28 13:04:41,529 - INFO - Downloaded image: 8149fe88d92c8740bd59be6643955a46.jpg (6331 bytes)
+2025-09-28 13:04:41,570 - INFO - Downloaded image: b103e9203f07b73b3464a95bde70e044.jpg (6746 bytes)
+2025-09-28 13:04:41,610 - INFO - Downloaded image: 54d5ff43569375996079c466575e724d.jpg (10530 bytes)
+2025-09-28 13:04:41,650 - INFO - Downloaded image: 116a4a4c859e2e7aa3a7137003658ba9.jpg (6595 bytes)
+2025-09-28 13:04:41,691 - INFO - Downloaded image: 320fe32c3457b999c35f5929e81c31ef.jpg (7192 bytes)
+2025-09-28 13:04:41,728 - INFO - Downloaded image: 4c539cc92b5a79c8927f50af2f5688c1.jpg (6713 bytes)
+2025-09-28 13:04:41,769 - INFO - Downloaded image: d33eb7f34e86cfbdad01fc16618a1125.jpg (7128 bytes)
+2025-09-28 13:04:41,805 - INFO - Downloaded image: 47d15de727ee16b09c8d6d3bf8d20ec0.jpg (10434 bytes)
+2025-09-28 13:04:41,834 - INFO - Downloaded image: 50e03a728fd04bd1b0c2bdae398feec2.jpg (10075 bytes)
+2025-09-28 13:04:41,883 - INFO - Downloaded image: e362ab70b24b910d7a20cf7987b22582.jpg (7239 bytes)
+2025-09-28 13:04:41,920 - INFO - Downloaded image: d2dde4aad9dc90f805b27cf549982815.jpg (8832 bytes)
+2025-09-28 13:04:41,951 - INFO - Downloaded image: 08796605e6d16af9b1dc1ba0e0af03a8.jpg (6757 bytes)
+2025-09-28 13:04:41,976 - INFO - Downloaded image: a2478b6a0c8016bd4fa314bbe32361ef.jpg (6846 bytes)
+2025-09-28 13:04:42,011 - INFO - Downloaded image: 3304fb700955f717944057382252dc9d.jpg (7981 bytes)
+2025-09-28 13:04:42,044 - INFO - Downloaded image: 8e4a6189d274a25a5012dd2b6d8aa2c1.jpg (6094 bytes)
+2025-09-28 13:04:42,070 - INFO - Downloaded image: 8cc016cec1059d768812153e2db433cb.jpg (7511 bytes)
+2025-09-28 13:04:42,100 - INFO - Downloaded image: 1e1c38e1ed5e75f5ea78bd73c7c86b60.jpg (7006 bytes)
+2025-09-28 13:04:42,136 - INFO - Downloaded image: 724a1ae5f9af2f55ed04a986bc38e695.jpg (7587 bytes)
+2025-09-28 13:04:42,188 - INFO - Downloaded image: 45c34f4c9018fcb9e3189a6ad67f643a.jpg (8228 bytes)
+2025-09-28 13:04:42,216 - INFO - Downloaded image: 514c551267380897696573631a079827.jpg (10538 bytes)
+2025-09-28 13:04:42,244 - INFO - Downloaded image: 7c5f612733ad28e63e12f12d544c0df1.jpg (6582 bytes)
+2025-09-28 13:04:42,276 - INFO - Downloaded image: 91910d0de6b44fb0399c0079975c68f5.jpg (7959 bytes)
+2025-09-28 13:04:42,308 - INFO - Downloaded image: d6a4442411362dfc0a85a7753d880704.jpg (7795 bytes)
+2025-09-28 13:04:42,338 - INFO - Downloaded image: 9ca0a1beadbf48e0d53771539c9e4168.jpg (10773 bytes)
+2025-09-28 13:04:42,374 - INFO - Downloaded image: 6aea39c64d2a02d50d5f83784b8b5277.jpg (10948 bytes)
+2025-09-28 13:04:42,406 - INFO - Downloaded image: 5db104d7c89ef418580c4cb74ebc62ec.jpg (6291 bytes)
+2025-09-28 13:04:42,436 - INFO - Downloaded image: 71379130bd19085dcefcf4faeac7ae51.jpg (5640 bytes)
+2025-09-28 13:04:42,473 - INFO - Downloaded image: 3e21bb37348b0f1211f20a3a61a3bf1c.jpg (9823 bytes)
+2025-09-28 13:04:42,509 - INFO - Downloaded image: d43ea7bda60d1b10c67d1b24931b1007.jpg (9879 bytes)
+2025-09-28 13:04:42,543 - INFO - Downloaded image: 1ef6ce03245af12a8c911e1ab29eb79f.jpg (7715 bytes)
+2025-09-28 13:04:42,580 - INFO - Downloaded image: 84ba6695affad207e9095c21ae3ca850.jpg (7720 bytes)
+2025-09-28 13:04:42,614 - INFO - Downloaded image: e680f9bf571dafa2ab1c2f597dc88f18.jpg (6114 bytes)
+2025-09-28 13:04:42,668 - INFO - Downloaded image: 8628a1658801b43f32a3552b2d4917c6.jpg (8482 bytes)
+2025-09-28 13:04:42,705 - INFO - Downloaded image: c3f3f20e206ac19cdb550414ba058ba1.jpg (7605 bytes)
+2025-09-28 13:04:42,745 - INFO - Downloaded image: 848d1e17e7ee66923b63925110c32d6a.jpg (10922 bytes)
+2025-09-28 13:04:42,782 - INFO - Downloaded image: 5d15de427425d7b3c9f97a600a1653c6.jpg (10827 bytes)
+2025-09-28 13:04:42,815 - INFO - Downloaded image: 5d0e149096efc140f034f751f0ec2cb4.png (189 bytes)
+2025-09-28 13:04:42,851 - INFO - Saved article: 109e41f6ba1d2e9373b415544a5438ff.json and 332 images metadata: 109e41f6ba1d2e9373b415544a5438ff_images.json
+2025-09-28 13:04:43,856 - INFO - Scraping article 2/3
+2025-09-28 13:04:43,856 - INFO - Fetching: https://www.dailymail.co.uk/news/royals/index.html
+2025-09-28 13:04:45,204 - INFO - Image already exists: c8ac72cbd1de6cd930ecc8918e6ad496.png
+2025-09-28 13:04:45,293 - INFO - Image already exists: 9b71fd1d6e588356aac9348ac370c4f8.png
+2025-09-28 13:04:45,442 - INFO - Downloaded image: f483200bc6971a803d36613660ce4ee5.jpg (82396 bytes)
+2025-09-28 13:04:45,491 - INFO - Downloaded image: c62ed63e82c25ccce08f414e8d8b44b9.jpg (21869 bytes)
+2025-09-28 13:04:45,734 - INFO - Downloaded image: fb14bd34ca7f0af348ed430fdb6c35d8.jpg (20611 bytes)
+2025-09-28 13:04:45,792 - INFO - Downloaded image: 27eb8d8c517218e0c6697b9fcac204f5.jpg (11174 bytes)
+2025-09-28 13:04:45,839 - INFO - Downloaded image: a3b783d396ca7436b773bedc9ef2ed33.jpg (46426 bytes)
+2025-09-28 13:04:45,885 - INFO - Downloaded image: 3477b9eeeedcad7c87ee71a0d35371e5.jpg (33757 bytes)
+2025-09-28 13:04:45,920 - INFO - Downloaded image: 19f8d1433ceffc70088614bdf7682c49.jpg (17248 bytes)
+2025-09-28 13:04:46,000 - INFO - Downloaded image: c6812def75734efc971922b729b1a3e8.jpg (18501 bytes)
+2025-09-28 13:04:46,043 - INFO - Downloaded image: 4b679a4b440959ad3421569dbae900af.jpg (26036 bytes)
+2025-09-28 13:04:46,108 - INFO - Downloaded image: 7fea7aabd62bf1a6b6785ce82fe360fa.jpg (97927 bytes)
+2025-09-28 13:04:46,144 - INFO - Downloaded image: 4d72df6dfc79ea52a836f6caa3a6db66.jpg (24352 bytes)
+2025-09-28 13:04:46,178 - INFO - Downloaded image: b0b2c942205f1bbb69b1f3b107eb66f9.jpg (57182 bytes)
+2025-09-28 13:04:46,210 - INFO - Downloaded image: a58e29bf9f2862ddcfe7a1c9a5761edd.jpg (16825 bytes)
+2025-09-28 13:04:46,242 - INFO - Downloaded image: f7bed891557723268e148abc3c24750d.jpg (28930 bytes)
+2025-09-28 13:04:46,281 - INFO - Downloaded image: 54cedf9f55ea873c95b2ff9773132435.jpg (18010 bytes)
+2025-09-28 13:04:46,317 - INFO - Downloaded image: 90ecc7ea2d25a5d91eb1aa9e6f5fa324.jpg (12806 bytes)
+2025-09-28 13:04:46,350 - INFO - Downloaded image: a2c5a43ef4d720a70802b04ab97fc9dd.jpg (18531 bytes)
+2025-09-28 13:04:46,392 - INFO - Downloaded image: aa585496888c24d31ca04048d01d29ac.jpg (95691 bytes)
+2025-09-28 13:04:46,438 - INFO - Downloaded image: f43baf9bef549fe13260047aff2e61b1.jpg (32437 bytes)
+2025-09-28 13:04:46,484 - INFO - Downloaded image: a71a03dd273a8f17104549ba9df18c29.jpg (19221 bytes)
+2025-09-28 13:04:46,573 - INFO - Downloaded image: 034fe00dde013c62af62172ef321704c.jpg (54395 bytes)
+2025-09-28 13:04:46,640 - INFO - Downloaded image: 53245298dd0e01c75c82305df9787413.jpg (23192 bytes)
+2025-09-28 13:04:46,675 - INFO - Downloaded image: 47fa32f73658fb848de2af452dba657a.jpg (20597 bytes)
+2025-09-28 13:04:46,712 - INFO - Downloaded image: c4ce3d4e9e381675542d396589885107.jpg (14121 bytes)
+2025-09-28 13:04:46,746 - INFO - Downloaded image: 6103e403b14af7d12584af2f758fea8b.jpg (26051 bytes)
+2025-09-28 13:04:46,790 - INFO - Downloaded image: 895e98c2cd0068059a9ec1105520a565.jpg (87609 bytes)
+2025-09-28 13:04:46,820 - INFO - Downloaded image: 6ad7ccfdbe27eecd9beaf827ae134aef.jpg (20673 bytes)
+2025-09-28 13:04:46,857 - INFO - Downloaded image: bdd247e0d2f4cd41300486bff876a809.jpg (29727 bytes)
+2025-09-28 13:04:46,899 - INFO - Downloaded image: 329a77267287ef973ee608c31b75670b.jpg (17143 bytes)
+2025-09-28 13:04:46,933 - INFO - Downloaded image: 9fe7a5f441b6076ebc80e71df50369e4.jpg (19145 bytes)
+2025-09-28 13:04:46,961 - INFO - Downloaded image: 41f548787bf19f85d971013f2ac3e05a.jpg (30475 bytes)
+2025-09-28 13:04:46,993 - INFO - Downloaded image: 2dd8d5b3ffd75444c8533af9c996e903.jpg (30073 bytes)
+2025-09-28 13:04:47,035 - INFO - Downloaded image: b30f710f92c638eede109696fc57f27f.jpg (69567 bytes)
+2025-09-28 13:04:47,079 - INFO - Downloaded image: 81aaa6f33ab0b2695fe461f54b5c49a9.jpg (101670 bytes)
+2025-09-28 13:04:47,113 - INFO - Downloaded image: 04b3d26706880e5f30b6620cdd87d770.jpg (17548 bytes)
+2025-09-28 13:04:47,156 - INFO - Downloaded image: 0cb63eaeb47de024fd1073f3f33f67a3.jpg (30965 bytes)
+2025-09-28 13:04:47,196 - INFO - Downloaded image: 6033e62923628f41ea7c794e0c4413b6.jpg (28227 bytes)
+2025-09-28 13:04:47,237 - INFO - Downloaded image: 9aadff0b79a0b5fdcd0ac6e6372c01d0.jpg (49140 bytes)
+2025-09-28 13:04:47,283 - INFO - Downloaded image: d081436d198cd2f0cf7d77bd89a1faef.jpg (13514 bytes)
+2025-09-28 13:04:47,319 - INFO - Downloaded image: cd9cfbe952c638c9b76f3464bbb933b5.jpg (19272 bytes)
+2025-09-28 13:04:47,352 - INFO - Downloaded image: 7eebeaa82cdeb469ef909c7fd5cbfbb8.jpg (15246 bytes)
+2025-09-28 13:04:47,386 - INFO - Downloaded image: f5533d0f0c875348f32ca7539eface0d.jpg (97801 bytes)
+2025-09-28 13:04:47,416 - INFO - Downloaded image: e76685a2f12b9c3e7b4ab2ab8e47a7f0.jpg (64637 bytes)
+2025-09-28 13:04:47,447 - INFO - Downloaded image: 14b7c74c9bbc2031cb2c4cb718e84a12.jpg (25588 bytes)
+2025-09-28 13:04:47,485 - INFO - Downloaded image: 6d23681b5645a133b56e81c7a31b67a6.jpg (18300 bytes)
+2025-09-28 13:04:47,526 - INFO - Downloaded image: 187f40877564c509f79ce0aba9e536b1.jpg (14524 bytes)
+2025-09-28 13:04:47,572 - INFO - Downloaded image: 850619478f80f243642e71fc68f4b55d.jpg (120431 bytes)
+2025-09-28 13:04:47,607 - INFO - Downloaded image: d9b6322e39a26e0d2ec50ee210ed3a0e.jpg (23913 bytes)
+2025-09-28 13:04:47,656 - INFO - Downloaded image: a4eda7e2ee0ad217546d61faae2d1d4c.jpg (76677 bytes)
+2025-09-28 13:04:47,693 - INFO - Downloaded image: aef8eda3c4fe5b32c6841298277ee054.jpg (14051 bytes)
+2025-09-28 13:04:47,733 - INFO - Downloaded image: 806950edb661cc167baa80199ad395d5.jpg (13340 bytes)
+2025-09-28 13:04:47,767 - INFO - Downloaded image: 771b6f1fa4041c628d94816266a21af7.jpg (13699 bytes)
+2025-09-28 13:04:47,802 - INFO - Downloaded image: 35ac9d6eae590000f70919b389681710.jpg (22909 bytes)
+2025-09-28 13:04:47,839 - INFO - Downloaded image: b8bce24b0f992e1ffa999a7fd84294fa.jpg (40308 bytes)
+2025-09-28 13:04:47,870 - INFO - Downloaded image: c25fcde9a0a4c5c781a4a8c5197912b5.jpg (69239 bytes)
+2025-09-28 13:04:47,902 - INFO - Downloaded image: aff24e4f5d9e77f075ddfd88e42542c5.jpg (31394 bytes)
+2025-09-28 13:04:47,934 - INFO - Downloaded image: 8f1af35bdfdaca6ae406cf847aa0eda5.jpg (64621 bytes)
+2025-09-28 13:04:47,970 - INFO - Downloaded image: c98b347a99b564f6dd8923e5df4d3aeb.jpg (22974 bytes)
+2025-09-28 13:04:47,997 - INFO - Downloaded image: 8d8b88dc2d06601548fd0ecb53a4733c.jpg (25527 bytes)
+2025-09-28 13:04:48,036 - INFO - Downloaded image: e7a637db1f0c794eb497c469f41aa7e8.jpg (42390 bytes)
+2025-09-28 13:04:48,079 - INFO - Downloaded image: 0f8551699229304e2925329550eedafb.jpg (21428 bytes)
+2025-09-28 13:04:48,120 - INFO - Downloaded image: e34b8e02b3c12c41bff257dc0f580c3c.jpg (12357 bytes)
+2025-09-28 13:04:48,173 - INFO - Downloaded image: 3db2d19f727dcc6c76d7e35c6be548f7.jpg (16043 bytes)
+2025-09-28 13:04:48,212 - INFO - Downloaded image: 68abd4bc1e17205e2430ef5c6de7c4a3.jpg (91817 bytes)
+2025-09-28 13:04:48,243 - INFO - Downloaded image: c5dca2848cb181f71f76e436e3b85bc2.jpg (49660 bytes)
+2025-09-28 13:04:48,289 - INFO - Downloaded image: 356394f1a105545104c4b2500c3d7011.jpg (26255 bytes)
+2025-09-28 13:04:48,327 - INFO - Downloaded image: d067ddf6238d43d8fda967b08eeb86cf.jpg (77233 bytes)
+2025-09-28 13:04:48,358 - INFO - Downloaded image: 5068fcc45df71495d6489330a5cc4e99.jpg (30550 bytes)
+2025-09-28 13:04:48,393 - INFO - Downloaded image: 6b647d239abb1f43af49d1d5eecdc138.jpg (17484 bytes)
+2025-09-28 13:04:48,426 - INFO - Downloaded image: 18a2300913b645ff26be7be44b849ed1.jpg (41969 bytes)
+2025-09-28 13:04:48,469 - INFO - Downloaded image: e40a2c62d63edbfb43294a5599c2ec89.jpg (21721 bytes)
+2025-09-28 13:04:48,501 - INFO - Downloaded image: 65272481c251375a3306a24dace1e787.jpg (24988 bytes)
+2025-09-28 13:04:48,535 - INFO - Downloaded image: 804ce272783e14fc2137c5ca395b5510.jpg (9151 bytes)
+2025-09-28 13:04:48,565 - INFO - Downloaded image: 5ac683239f2666b2968478777207c46a.jpg (14417 bytes)
+2025-09-28 13:04:48,606 - INFO - Downloaded image: f75a1b660103f6f9977e4338824216d5.jpg (122525 bytes)
+2025-09-28 13:04:48,646 - INFO - Downloaded image: 29b8e1175b70fff934376611f2d0cb71.jpg (29661 bytes)
+2025-09-28 13:04:48,681 - INFO - Downloaded image: 9a861e1a73d1205b347f723f087f7648.jpg (24913 bytes)
+2025-09-28 13:04:48,718 - INFO - Downloaded image: 73a7351be9147e535401269e3d75adab.jpg (16186 bytes)
+2025-09-28 13:04:48,751 - INFO - Downloaded image: dbb788724a4304a851ed3ff020f90c7f.jpg (16511 bytes)
+2025-09-28 13:04:48,784 - INFO - Downloaded image: 3d0b4c2f738530aea52221eb9070d0a1.jpg (17474 bytes)
+2025-09-28 13:04:48,814 - INFO - Downloaded image: c154473be73bce5746fe04e34110ebfe.jpg (21079 bytes)
+2025-09-28 13:04:48,850 - INFO - Downloaded image: a5a56565bcea2ebfa296ae63106483f7.jpg (41594 bytes)
+2025-09-28 13:04:48,887 - INFO - Downloaded image: 894f4ad744749cfa4fb39565c74ba171.jpg (101394 bytes)
+2025-09-28 13:04:48,920 - INFO - Downloaded image: 3294fe782c0cc0129632b4745f12417d.jpg (43735 bytes)
+2025-09-28 13:04:48,960 - INFO - Downloaded image: b301a80be2121daf3e1d6bdba100f93c.jpg (29860 bytes)
+2025-09-28 13:04:48,988 - INFO - Downloaded image: e0a211ef9ef4aa4c77a6a40cca7c34cf.jpg (85751 bytes)
+2025-09-28 13:04:49,026 - INFO - Downloaded image: 35f0bbbb522bedc4c11c6ae1f5725fda.jpg (37098 bytes)
+2025-09-28 13:04:49,069 - INFO - Downloaded image: 771b54e69bc81d60e4f898507b770dfe.jpg (99530 bytes)
+2025-09-28 13:04:49,116 - INFO - Downloaded image: 6176eb49c19ce48a38360d9977e2dc76.jpg (31712 bytes)
+2025-09-28 13:04:49,157 - INFO - Downloaded image: 1b5342d51928d6e041ea7ea45c26c917.jpg (23920 bytes)
+2025-09-28 13:04:49,198 - INFO - Downloaded image: 869550ffe2a3027da8c930cee85ae432.jpg (20405 bytes)
+2025-09-28 13:04:49,227 - INFO - Downloaded image: b4448f0ac8bd7495b176daa72d5909d8.jpg (25828 bytes)
+2025-09-28 13:04:49,264 - INFO - Downloaded image: d4fb435da6da247136b6cd242c642414.jpg (16456 bytes)
+2025-09-28 13:04:49,291 - INFO - Downloaded image: 64b82a934e69a7514d5d03efa4546d88.jpg (17505 bytes)
+2025-09-28 13:04:49,329 - INFO - Downloaded image: af654aae9eb8b189cf258110107399f8.jpg (30077 bytes)
+2025-09-28 13:04:49,365 - INFO - Downloaded image: 4548c5ef175199ea18496cf6fd38c36a.jpg (24759 bytes)
+2025-09-28 13:04:49,398 - INFO - Downloaded image: 43848309acf2154b60410fdfcafdca88.jpg (55416 bytes)
+2025-09-28 13:04:49,442 - INFO - Downloaded image: 5495567240bf68345de6d03f2f62cec2.jpg (15487 bytes)
+2025-09-28 13:04:49,480 - INFO - Downloaded image: c16709b85156072ab9f56a35fa5f3d33.jpg (13799 bytes)
+2025-09-28 13:04:49,507 - INFO - Downloaded image: fad20b5dda2a3698681ecf97a6e02b8f.jpg (25638 bytes)
+2025-09-28 13:04:49,544 - INFO - Downloaded image: e0d1bd0b1af6fdec9ac1f2d36aa1597a.jpg (92466 bytes)
+2025-09-28 13:04:49,588 - INFO - Downloaded image: 1d243dd46f1355ae1b47fadb31cf0930.jpg (26351 bytes)
+2025-09-28 13:04:49,621 - INFO - Downloaded image: d9d61ce8228223472ef66e6334d50157.jpg (26816 bytes)
+2025-09-28 13:04:49,652 - INFO - Downloaded image: bd738619b5c8739b9d9f18b6f7815c49.jpg (10175 bytes)
+2025-09-28 13:04:49,692 - INFO - Downloaded image: fe828cf522aecb62d87a70ec9d5d02bb.jpg (9031 bytes)
+2025-09-28 13:04:49,728 - INFO - Downloaded image: 21c2cb67123c10900cf38ee18baabd01.jpg (9002 bytes)
+2025-09-28 13:04:49,766 - INFO - Downloaded image: b15e0cb950a140a593fb046bae6b083d.jpg (60957 bytes)
+2025-09-28 13:04:49,799 - INFO - Downloaded image: bf1ed4dd7799d382159a58dbf6282249.jpg (95285 bytes)
+2025-09-28 13:04:49,828 - INFO - Downloaded image: 1d8538819752a68f804fba1fe3e35e05.jpg (45190 bytes)
+2025-09-28 13:04:49,863 - INFO - Downloaded image: 0bbaa4b4a0fc70d59b3660dcb3871d01.jpg (9377 bytes)
+2025-09-28 13:04:49,911 - INFO - Downloaded image: 296227ca80a95ee0f55dc4a804660da2.jpg (10212 bytes)
+2025-09-28 13:04:49,958 - INFO - Downloaded image: 11f315b5edac4362fa74a7cf26e33dfe.jpg (92484 bytes)
+2025-09-28 13:04:49,993 - INFO - Downloaded image: 23f6147eae1e0923e4f6c427984bf353.jpg (8007 bytes)
+2025-09-28 13:04:50,029 - INFO - Downloaded image: e24e936bb1e8b4df1c91e4ee5ad23982.jpg (10558 bytes)
+2025-09-28 13:04:50,063 - INFO - Downloaded image: 6d9e57bd06aa49723714d6d854634b17.jpg (9912 bytes)
+2025-09-28 13:04:50,087 - INFO - Downloaded image: 6a52e2bcee0b4779f79ac6c6c5bf355e.jpg (24042 bytes)
+2025-09-28 13:04:50,115 - INFO - Downloaded image: f92bbe3c41e1f25c274936c1993ab4ca.jpg (35739 bytes)
+2025-09-28 13:04:50,150 - INFO - Downloaded image: 469f1fec6c5dab12f12e032fc7c7b4d0.jpg (69289 bytes)
+2025-09-28 13:04:50,184 - INFO - Downloaded image: 38c38d491766ad15e9a4b1fa970faf6c.jpg (23068 bytes)
+2025-09-28 13:04:50,218 - INFO - Downloaded image: 17343aff66828bac2b1278424206c60c.jpg (21595 bytes)
+2025-09-28 13:04:50,257 - INFO - Downloaded image: 5dcacc92e7655c8c087896f0fc691f80.jpg (58995 bytes)
+2025-09-28 13:04:50,286 - INFO - Downloaded image: 9da5fcd0aac1e54c38cbc53b1e8b475a.jpg (10415 bytes)
+2025-09-28 13:04:50,327 - INFO - Downloaded image: 67e820b548b2521c40a80d1d035af21f.jpg (7450 bytes)
+2025-09-28 13:04:50,362 - INFO - Downloaded image: 882558c15fb9dd7d4334c2cda3f8ff50.jpg (5777 bytes)
+2025-09-28 13:04:50,404 - INFO - Downloaded image: aa80d7efbe8a2d048fe13f8e6a094ebd.jpg (26501 bytes)
+2025-09-28 13:04:50,444 - INFO - Downloaded image: f344ad49a341e62cfaf05a8431323387.jpg (8702 bytes)
+2025-09-28 13:04:50,498 - INFO - Downloaded image: f69a10290dccacb783ce80d98b4ccde0.jpg (9899 bytes)
+2025-09-28 13:04:50,563 - INFO - Downloaded image: a4922e3108632ff91dbfae10e34f8712.jpg (26943 bytes)
+2025-09-28 13:04:50,615 - INFO - Downloaded image: 6a4764872f7b1496d682b4bbc7318e2d.jpg (52224 bytes)
+2025-09-28 13:04:50,654 - INFO - Downloaded image: 0a5607870e5482fc817eecf8a03b316d.jpg (65639 bytes)
+2025-09-28 13:04:50,683 - INFO - Downloaded image: a6944dcc27c0aafed0b0d441262ad09d.jpg (11826 bytes)
+2025-09-28 13:04:50,729 - INFO - Downloaded image: d2bd368dbaf86e488088a84ec71bdc4d.jpg (105444 bytes)
+2025-09-28 13:04:50,760 - INFO - Downloaded image: 82e8e19d7c5f7224241fd6cf13040984.jpg (15263 bytes)
+2025-09-28 13:04:50,799 - INFO - Downloaded image: 351c8f2305ff05eedb56b00e44e58db1.jpg (49117 bytes)
+2025-09-28 13:04:50,854 - INFO - Downloaded image: e7583270aa82648137cceca02bf9ec24.jpg (106572 bytes)
+2025-09-28 13:04:50,890 - INFO - Downloaded image: df57f3dedc4b45457bdfc807a66ea738.jpg (54490 bytes)
+2025-09-28 13:04:50,918 - INFO - Downloaded image: b500252f5b1933a667a5c23a0d40c0d3.jpg (15668 bytes)
+2025-09-28 13:04:50,964 - INFO - Downloaded image: 51e93cd11fe54773cda260eb6d8e55b1.jpg (105495 bytes)
+2025-09-28 13:04:50,992 - INFO - Downloaded image: a3fa6bc54a5f9461b04e09e6a4c93574.jpg (12082 bytes)
+2025-09-28 13:04:51,024 - INFO - Downloaded image: 5a4cf7d6446d796aed8247f52b3f497b.jpg (36085 bytes)
+2025-09-28 13:04:51,081 - INFO - Downloaded image: c6c9d9910fcd27b2c184abd9b58f4597.jpg (32749 bytes)
+2025-09-28 13:04:51,119 - INFO - Downloaded image: 899015ae2fe99569f4a2802ae4ac3ff8.jpg (28484 bytes)
+2025-09-28 13:04:51,159 - INFO - Downloaded image: ba614352773af05e0725199eb3013c69.jpg (21007 bytes)
+2025-09-28 13:04:51,215 - INFO - Downloaded image: 52e4d00d5e1d48cec324e4eb649511e7.jpg (424423 bytes)
+2025-09-28 13:04:51,245 - INFO - Downloaded image: 6f622f2cd67eef64ada961f26898e9c5.jpg (60574 bytes)
+2025-09-28 13:04:51,278 - INFO - Downloaded image: 6036a52a7e9647fd50c28de332b1f02c.jpg (22234 bytes)
+2025-09-28 13:04:51,310 - INFO - Downloaded image: d7f395a0848dc4634cbd35eb560e477f.jpg (18676 bytes)
+2025-09-28 13:04:51,340 - INFO - Downloaded image: 057a158dc1876e66ffffa1195ca0e076.jpg (25806 bytes)
+2025-09-28 13:04:51,377 - INFO - Downloaded image: 411990116595bbf6661dc9d1e554c546.jpg (29562 bytes)
+2025-09-28 13:04:51,405 - INFO - Downloaded image: 6ec5b3663ebb95a1cf3962341de37fa7.jpg (32921 bytes)
+2025-09-28 13:04:51,448 - INFO - Downloaded image: 285639de0771ab78246740f2ebf365d7.jpg (48967 bytes)
+2025-09-28 13:04:51,475 - INFO - Image already exists: 5d0e149096efc140f034f751f0ec2cb4.png
+2025-09-28 13:04:51,522 - INFO - Saved article: 8f5bfc8f37e4b430e25a3e9c9386f5c7.json and 155 images metadata: 8f5bfc8f37e4b430e25a3e9c9386f5c7_images.json
+2025-09-28 13:04:52,527 - INFO - Scraping article 3/3
+2025-09-28 13:04:52,528 - INFO - Fetching: https://www.dailymail.co.uk/news/donald_trump/index.html
+2025-09-28 13:04:54,153 - INFO - Image already exists: e28e58da4c40cb383607ba8a68c37b65.png
+2025-09-28 13:04:54,236 - INFO - Image already exists: c8ac72cbd1de6cd930ecc8918e6ad496.png
+2025-09-28 13:04:54,324 - INFO - Image already exists: 9b71fd1d6e588356aac9348ac370c4f8.png
+2025-09-28 13:04:55,127 - INFO - Downloaded image: c011759e9f75f04f92301caaa570269b.jpg (90846 bytes)
+2025-09-28 13:04:55,165 - INFO - Downloaded image: 545335fae3dae18ce6d3d45b02609b39.jpg (8307 bytes)
+2025-09-28 13:04:55,194 - INFO - Image already exists: b53486306fbd8f9668b67be1f9429cbd.jpg
+2025-09-28 13:04:55,332 - INFO - Downloaded image: 39fb80ebaca3929a4b91447c2a0a4f9f.jpg (10961 bytes)
+2025-09-28 13:04:55,388 - INFO - Image already exists: 10d757971742ba9e1d8c9da904ca1c77.jpg
+2025-09-28 13:04:55,599 - INFO - Downloaded image: 7f0c0cd1d59128c958bdea84ed64eef4.jpg (6301 bytes)
+2025-09-28 13:04:55,649 - INFO - Downloaded image: ebb53c86a263b175b8df10e5c7fc3920.jpg (3259 bytes)
+2025-09-28 13:04:55,682 - INFO - Downloaded image: 329fa8cdb22176b179e128ff1ae15e68.jpg (2492 bytes)
+2025-09-28 13:04:55,721 - INFO - Downloaded image: d6a40c41bd7e5af25c3e36697470380e.jpg (6130 bytes)
+2025-09-28 13:04:55,770 - INFO - Downloaded image: bdfc2cc3f6f9e44eb3a1cdcea49c334b.jpg (3966 bytes)
+2025-09-28 13:04:55,798 - INFO - Downloaded image: 77452e6b4720c87babc9d5da67707b4b.jpg (3596 bytes)
+2025-09-28 13:04:55,834 - INFO - Downloaded image: 8b7421d11282e9c512e6521fa7e4dca2.jpg (6033 bytes)
+2025-09-28 13:04:55,872 - INFO - Downloaded image: f935ca9a338cf6646ba96f402be51934.jpg (9821 bytes)
+2025-09-28 13:04:55,904 - INFO - Downloaded image: 79391231c6fc61783697d7b6f35ead87.jpg (6623 bytes)
+2025-09-28 13:04:55,938 - INFO - Downloaded image: 72077b1f877022da9f4bc3243031ce84.jpg (5667 bytes)
+2025-09-28 13:04:55,971 - INFO - Downloaded image: 41430ff880d2f955c40a1aacd7642183.jpg (6816 bytes)
+2025-09-28 13:04:56,001 - INFO - Downloaded image: 18a1352b1fb21be6fe8ab902e3e1b61f.jpg (2443 bytes)
+2025-09-28 13:04:56,037 - INFO - Downloaded image: f11b876c34b7ebe78c88db272a50b325.jpg (6829 bytes)
+2025-09-28 13:04:56,079 - INFO - Downloaded image: 00a6267c8cb2b9d473eba53a66631053.jpg (3466 bytes)
+2025-09-28 13:04:56,118 - INFO - Downloaded image: 5f1b9f3aa7fc4707ee7a0b2d6fdf85ca.jpg (5965 bytes)
+2025-09-28 13:04:56,169 - INFO - Downloaded image: 14b4b687206f4964d5c89e7a943d908a.jpg (6535 bytes)
+2025-09-28 13:04:56,215 - INFO - Downloaded image: 39bc249718fbe5d824030d607e2565e6.jpg (6021 bytes)
+2025-09-28 13:04:56,255 - INFO - Downloaded image: ad798eac6f399f5122c1b38d31ea46f5.jpg (2995 bytes)
+2025-09-28 13:04:56,293 - INFO - Downloaded image: 9b8b1716f7b4785dbdada5730bdc37fd.jpg (6544 bytes)
+2025-09-28 13:04:56,332 - INFO - Downloaded image: ae21876c8fe3fa001439ecf87bccdfd9.jpg (6953 bytes)
+2025-09-28 13:04:56,373 - INFO - Downloaded image: 60fe97c5a6c6a8d25fe8a093ea43f8e7.jpg (6328 bytes)
+2025-09-28 13:04:56,403 - INFO - Downloaded image: 550561d2d9f065c0e5a778c4723643b6.jpg (2477 bytes)
+2025-09-28 13:04:56,445 - INFO - Downloaded image: 0948357881e0bbecf26a98d888334384.jpg (3713 bytes)
+2025-09-28 13:04:56,478 - INFO - Downloaded image: a18b3c3c45be872250bf74d105f92e5d.jpg (6401 bytes)
+2025-09-28 13:04:56,509 - INFO - Downloaded image: 493203d6d2a448799be29a0c37db6026.jpg (3526 bytes)
+2025-09-28 13:04:56,551 - INFO - Downloaded image: 7316283ed3bbeb3f3870ff5ba9615d3b.jpg (6671 bytes)
+2025-09-28 13:04:56,597 - INFO - Downloaded image: ff24010e364e4df61eace6475b9e2ad1.jpg (3116 bytes)
+2025-09-28 13:04:56,632 - INFO - Downloaded image: 1099b71c00ed892e34ba0a47d78468c9.jpg (7250 bytes)
+2025-09-28 13:04:56,674 - INFO - Downloaded image: a5e5e9a92c9ccd24b1c6bff0d194c45e.jpg (2317 bytes)
+2025-09-28 13:04:56,721 - INFO - Downloaded image: cf06eaa5b07245f97a21603e1e15020b.jpg (6341 bytes)
+2025-09-28 13:04:56,753 - INFO - Downloaded image: 2ac9c2a5ab69bf29902bb58864dba3e5.jpg (6889 bytes)
+2025-09-28 13:04:56,779 - INFO - Downloaded image: c4ff51b0888c5f29af7b7565bf85556f.jpg (3378 bytes)
+2025-09-28 13:04:56,911 - INFO - Downloaded image: 69dd913f1937554ff6546d0e397f4297.jpg (4604 bytes)
+2025-09-28 13:04:57,042 - INFO - Downloaded image: b52eb64a8449ac2d35540c07fa5e0bf8.jpg (6904 bytes)
+2025-09-28 13:04:57,083 - INFO - Downloaded image: 4a084a770a04ef51421d54f69c52519e.jpg (5923 bytes)
+2025-09-28 13:04:57,115 - INFO - Downloaded image: 988de38f85db9cfb9087397774ca8612.jpg (6348 bytes)
+2025-09-28 13:04:57,153 - INFO - Downloaded image: bdac90d3434a7b6e3de6497d6f0e9c39.jpg (6379 bytes)
+2025-09-28 13:04:57,187 - INFO - Downloaded image: 1d02274bcdadbdd5c78da058560c7771.jpg (4066 bytes)
+2025-09-28 13:04:57,213 - INFO - Downloaded image: 5c5951a9a8bbdfd4da7105a1f4618bf0.jpg (3116 bytes)
+2025-09-28 13:04:57,288 - INFO - Downloaded image: d2b8f38db55d3024e6c675e27e3b8bbd.jpg (3155 bytes)
+2025-09-28 13:04:57,339 - INFO - Downloaded image: 6e8e91b10cb7d7a08b3d0b06e6b3b5c7.jpg (5923 bytes)
+2025-09-28 13:04:57,369 - INFO - Downloaded image: 70ead1692008c0f4f8f689334a25ab1b.jpg (5961 bytes)
+2025-09-28 13:04:57,407 - INFO - Downloaded image: f3b3391ce3457bfeafa3cb0b7804d49d.jpg (7203 bytes)
+2025-09-28 13:04:57,434 - INFO - Downloaded image: 12636bf7c0b0618f2cd44c6eda1f2163.jpg (6345 bytes)
+2025-09-28 13:04:57,468 - INFO - Downloaded image: d072788e3b1067d36f3b37e257bb556f.jpg (5710 bytes)
+2025-09-28 13:04:57,505 - INFO - Downloaded image: f66387bd0b909684c23e188229c2718c.jpg (3844 bytes)
+2025-09-28 13:04:57,535 - INFO - Downloaded image: b09b2157d64fda988c1490a5b65f04a5.jpg (5926 bytes)
+2025-09-28 13:04:57,563 - INFO - Downloaded image: 8237411fbf3982eb628035df4b5f6c2c.jpg (2800 bytes)
+2025-09-28 13:04:57,600 - INFO - Downloaded image: 31e0292cb192943c3b85bf9de89290ff.jpg (3002 bytes)
+2025-09-28 13:04:57,627 - INFO - Downloaded image: 271acfa399bdb60b7068f608b1c1c251.jpg (2981 bytes)
+2025-09-28 13:04:57,671 - INFO - Downloaded image: 4989910a972138d826603f253cd4393a.jpg (6282 bytes)
+2025-09-28 13:04:57,698 - INFO - Downloaded image: b1b79771d7792dab94fa4ae3b2233aa5.jpg (2670 bytes)
+2025-09-28 13:04:57,737 - INFO - Downloaded image: 1ba03b91695b34bb039e3581e9c82d57.jpg (3322 bytes)
+2025-09-28 13:04:57,784 - INFO - Downloaded image: da3b578981f879967818c9aa4e9d4ebe.jpg (4229 bytes)
+2025-09-28 13:04:57,815 - INFO - Downloaded image: 99560c87affeba51a2f11d92fa8f742c.jpg (3573 bytes)
+2025-09-28 13:04:57,861 - INFO - Downloaded image: d7409abb14191ad0791d0972b5ef209f.jpg (2532 bytes)
+2025-09-28 13:04:57,916 - INFO - Downloaded image: ffdbcdc8a32ac410dafa6ac0a525f287.jpg (3598 bytes)
+2025-09-28 13:04:57,975 - INFO - Image already exists: 276823d294f5991b435d677c3b3226dd.jpg
+2025-09-28 13:04:58,064 - INFO - Image already exists: 06ad4b81e6a4dc37434eeb37e76a649d.jpg
+2025-09-28 13:04:58,160 - INFO - Downloaded image: f34e18f24fb641754a89c2ed5a7fc92c.jpg (9172 bytes)
+2025-09-28 13:04:58,191 - INFO - Downloaded image: 30b22c2c67453fa46959650f7fa36446.jpg (11423 bytes)
+2025-09-28 13:04:58,228 - INFO - Downloaded image: 8133d71e1865060779d293e180814c47.jpg (9736 bytes)
+2025-09-28 13:04:58,261 - INFO - Downloaded image: 462f7bb6e28f41991c8736135d853079.jpg (8059 bytes)
+2025-09-28 13:04:58,290 - INFO - Image already exists: 0295cb4e371e544fbaa5487fda2020f2.jpg
+2025-09-28 13:04:58,378 - INFO - Image already exists: 38903bfef5c82cb6407e9a22756b6c03.jpg
+2025-09-28 13:04:58,460 - INFO - Image already exists: 7505e96c507b1c20a18913f93820424e.jpg
+2025-09-28 13:04:58,543 - INFO - Downloaded image: 7f0b399d7445106448563cf4e1c03cb4.jpg (6740 bytes)
+2025-09-28 13:04:58,591 - INFO - Image already exists: 40a67daeddce0791b0681a607fd98585.jpg
+2025-09-28 13:04:58,671 - INFO - Image already exists: 457ea2c21edd4d035155d3e62640dba5.jpg
+2025-09-28 13:04:58,782 - INFO - Downloaded image: fc63784cd72f2cffd0b5123703a328ac.jpg (9807 bytes)
+2025-09-28 13:04:58,831 - INFO - Downloaded image: aece5dde172278f9c289d1c5e1501a4e.jpg (11220 bytes)
+2025-09-28 13:04:58,865 - INFO - Downloaded image: bde88cc29c574e6545a2a7ddcf8e553e.jpg (5623 bytes)
+2025-09-28 13:04:58,889 - INFO - Image already exists: 36cc2b208139295dca1c464e7c7fe83f.jpg
+2025-09-28 13:04:58,966 - INFO - Downloaded image: 005353c94b9fd617cde7b238b1e65304.jpg (6238 bytes)
+2025-09-28 13:04:59,001 - INFO - Downloaded image: b48022b0d12fdbb8d3f5c922f4059ea8.jpg (10937 bytes)
+2025-09-28 13:04:59,033 - INFO - Downloaded image: 6d9ba49076994b4a74aabc522fca9229.jpg (9994 bytes)
+2025-09-28 13:04:59,064 - INFO - Downloaded image: 22e9488f7efcb635130e9bbd4aefe90d.jpg (11828 bytes)
+2025-09-28 13:04:59,094 - INFO - Image already exists: 0ac3b8879c182fd518c887aa1a9d2eaf.jpg
+2025-09-28 13:04:59,181 - INFO - Image already exists: ef30ae64dbfccc6ce860e4a42c8659b6.jpg
+2025-09-28 13:04:59,285 - INFO - Downloaded image: 69bd885739eae2b4896fe7997194b8c2.jpg (11822 bytes)
+2025-09-28 13:04:59,312 - INFO - Image already exists: e6fb8ceb84bcf89a06fcdd3cbe254242.jpg
+2025-09-28 13:04:59,390 - INFO - Downloaded image: 17a6796f552878eab49017caff3f9b61.jpg (7523 bytes)
+2025-09-28 13:04:59,421 - INFO - Downloaded image: 9354bd282339838089ee3a4117815d6d.jpg (10847 bytes)
+2025-09-28 13:04:59,496 - INFO - Image already exists: 1d99f40c377182ac10fa3543a7db0d0c.jpg
+2025-09-28 13:04:59,584 - INFO - Image already exists: 9b055a7f2c9dcbc335fba40eeb0c60c9.jpg
+2025-09-28 13:04:59,684 - INFO - Image already exists: 40c419b29a0d9f4893b2c872b0c84f74.jpg
+2025-09-28 13:04:59,803 - INFO - Downloaded image: a99984ad1b39eb85edd83c245888c790.jpg (10543 bytes)
+2025-09-28 13:04:59,836 - INFO - Downloaded image: b520e3409421c6db6bd120d5185789b7.jpg (9829 bytes)
+2025-09-28 13:04:59,886 - INFO - Downloaded image: e9c2d921851f4205461529b58c748fa4.jpg (11396 bytes)
+2025-09-28 13:04:59,920 - INFO - Downloaded image: 85c57864ef650ec18cd55bde444fa47a.jpg (9506 bytes)
+2025-09-28 13:04:59,971 - INFO - Image already exists: 23d0134348146d1abaedd36c12000cdd.jpg
+2025-09-28 13:05:00,056 - INFO - Downloaded image: 5f56c4f05d232db04d937b08c9966e0c.jpg (10308 bytes)
+2025-09-28 13:05:00,086 - INFO - Image already exists: 6ef4a5fda27575c69255d0bf533f7dd6.jpg
+2025-09-28 13:05:00,167 - INFO - Image already exists: 6b623b030b96b317e03f1ca82be8ee40.jpg
+2025-09-28 13:05:00,258 - INFO - Image already exists: ff1c271a24509c5f61dc5a6b93d1750b.jpg
+2025-09-28 13:05:00,339 - INFO - Image already exists: da36601e4b1a46b518d339a624ce9a60.jpg
+2025-09-28 13:05:00,424 - INFO - Downloaded image: de050511c507db8b4fe3fd083f834290.jpg (9060 bytes)
+2025-09-28 13:05:00,455 - INFO - Downloaded image: 64c95d611f01472967e18e84f13c8619.jpg (9750 bytes)
+2025-09-28 13:05:00,499 - INFO - Image already exists: 818e07454a42f8e064d6a2785a844c50.jpg
+2025-09-28 13:05:00,594 - INFO - Image already exists: 100f4af116e88c7a6132f5b5e360bff9.jpg
+2025-09-28 13:05:00,686 - INFO - Downloaded image: 248800c68a3c341cb9c67ed1ce04d0c9.jpg (6580 bytes)
+2025-09-28 13:05:00,727 - INFO - Downloaded image: d25a33b553cfcafa6f5d3e8ea48bde68.jpg (9844 bytes)
+2025-09-28 13:05:00,774 - INFO - Downloaded image: 79340a3d4fc7dd17e04d4a0a766911c0.jpg (9925 bytes)
+2025-09-28 13:05:00,799 - INFO - Image already exists: e1b8d65d7ebb9221d98ec432322dd90c.jpg
+2025-09-28 13:05:00,871 - INFO - Downloaded image: 20c7d519192bf95125610ecb9ebca435.jpg (11102 bytes)
+2025-09-28 13:05:00,909 - INFO - Image already exists: ce2b7824657f6911426fd7eed618615c.jpg
+2025-09-28 13:05:00,986 - INFO - Downloaded image: fc86c41b7c57eeec19187a82c11bed82.jpg (6956 bytes)
+2025-09-28 13:05:01,078 - INFO - Image already exists: c21c3e8e9dfce113ac8f575617745163.jpg
+2025-09-28 13:05:01,220 - INFO - Image already exists: 6123c2e5921fa756a109c7b1586d1fc9.jpg
+2025-09-28 13:05:01,304 - INFO - Image already exists: 14324f1a89c8616bba8a69690edae9da.jpg
+2025-09-28 13:05:01,396 - INFO - Image already exists: eb1fee0577cdd3a6549e5b1b3e7948fc.jpg
+2025-09-28 13:05:01,496 - INFO - Downloaded image: 49533b6e4aac4a7580642dad61ee1572.jpg (5131 bytes)
+2025-09-28 13:05:01,528 - INFO - Image already exists: d3861169c0e92380e2030241933a4eb0.jpg
+2025-09-28 13:05:01,661 - INFO - Image already exists: e1ad9f90d155cc93fa7769510441131b.jpg
+2025-09-28 13:05:01,745 - INFO - Image already exists: 8a06bc2bfff41176cee2dc191485c4b7.jpg
+2025-09-28 13:05:01,832 - INFO - Image already exists: 5d25e7f9c8ea7eb985125e3af62986b1.jpg
+2025-09-28 13:05:01,907 - INFO - Downloaded image: c4a8b768bd62f41a1c1798d79869bde8.jpg (10137 bytes)
+2025-09-28 13:05:01,937 - INFO - Image already exists: 78b1326216251d9b1a426b24e6084f0b.jpg
+2025-09-28 13:05:02,041 - INFO - Image already exists: 228b8753782df1aaffae362b4f46a0c1.jpg
+2025-09-28 13:05:02,135 - INFO - Image already exists: 58d3e0449c55d1c4b00f4770056fa413.jpg
+2025-09-28 13:05:02,222 - INFO - Image already exists: 1b1b03f246308bfde7370b80fbe382b2.jpg
+2025-09-28 13:05:02,301 - INFO - Image already exists: a8a26881cc24cea9080d3297a028d41a.jpg
+2025-09-28 13:05:02,404 - INFO - Image already exists: 71e4a53e3e46629823b4a7fa3720265b.jpg
+2025-09-28 13:05:02,486 - INFO - Image already exists: 4760add1242f4ba7ed63615a68e66a2b.jpg
+2025-09-28 13:05:02,567 - INFO - Image already exists: 91524951fe214fde65cf876a20dd574a.jpg
+2025-09-28 13:05:02,670 - INFO - Image already exists: 2b0b68afebf71aaf266dd5d9679bbc0e.jpg
+2025-09-28 13:05:02,760 - INFO - Image already exists: 6e547b22c41a90833a54e9eb0f3f0b29.jpg
+2025-09-28 13:05:02,845 - INFO - Image already exists: f66802f56cdc1c0ee9876289723dab3d.jpg
+2025-09-28 13:05:02,930 - INFO - Downloaded image: 9d5d32a6ba04b224ea7ce423aa063f02.jpg (6962 bytes)
+2025-09-28 13:05:02,965 - INFO - Downloaded image: d5fb49b317cd5d2a4690eaf94e666dab.jpg (6570 bytes)
+2025-09-28 13:05:02,999 - INFO - Image already exists: 89cd329eb2aaae8a0fa6a68a73e6c6f6.jpg
+2025-09-28 13:05:03,090 - INFO - Image already exists: a6421c62f0641a860839a387b7ab203f.jpg
+2025-09-28 13:05:03,194 - INFO - Downloaded image: df6eefb5519e3df592291f1e55948069.jpg (12324 bytes)
+2025-09-28 13:05:03,227 - INFO - Downloaded image: fce398c1a11788bbdeba22ecee86b773.jpg (10385 bytes)
+2025-09-28 13:05:03,258 - INFO - Image already exists: 7558d321bafaae1b824abcbbf9b87014.jpg
+2025-09-28 13:05:03,346 - INFO - Image already exists: 2c8fc7d32459f3ab794abaaa85e3dc02.jpg
+2025-09-28 13:05:03,442 - INFO - Downloaded image: 8e0983fea576fc17ee7deabcb13e4cbf.jpg (10269 bytes)
+2025-09-28 13:05:03,479 - INFO - Downloaded image: efb3514f77adeb924ec50f5b7cacbe08.jpg (5667 bytes)
+2025-09-28 13:05:03,509 - INFO - Image already exists: f4bf27daeab90648ba6d11c77f1fcd40.jpg
+2025-09-28 13:05:03,585 - INFO - Image already exists: f9e4687022d2076be4e8523248567f80.jpg
+2025-09-28 13:05:03,674 - INFO - Downloaded image: 9bd0c97e2c95be4f141b5dfb77a589e5.jpg (12844 bytes)
+2025-09-28 13:05:03,710 - INFO - Downloaded image: 5fb075e74bb0e1e9e09c6895deca3ca9.jpg (10585 bytes)
+2025-09-28 13:05:03,737 - INFO - Image already exists: f64b58133c946624472406844cfabfb3.jpg
+2025-09-28 13:05:03,823 - INFO - Downloaded image: df56b3ccd68c69d7785f396ae60e73f8.jpg (9912 bytes)
+2025-09-28 13:05:03,869 - INFO - Image already exists: 34151b195ed9f53507fc0382eddaca51.jpg
+2025-09-28 13:05:03,952 - INFO - Downloaded image: 44119b958c0d53068951cd34a2bb4b9e.jpg (9914 bytes)
+2025-09-28 13:05:03,980 - INFO - Downloaded image: 1b96f7a1f06607e081fdd1660cded1fb.jpg (6525 bytes)
+2025-09-28 13:05:04,105 - INFO - Image already exists: 37cbb0fe2d7a6f763c6875bcb8c4352e.jpg
+2025-09-28 13:05:04,183 - INFO - Image already exists: 5fc35ecd4911fea40b93c0269ca4e585.jpg
+2025-09-28 13:05:04,283 - INFO - Downloaded image: 014ab32be6d9eb85b196376d3f70ef20.jpg (8135 bytes)
+2025-09-28 13:05:04,310 - INFO - Image already exists: 737fc60ddb4ba4e08ed71d43bb2a1c46.jpg
+2025-09-28 13:05:04,409 - INFO - Image already exists: fc2c74d06e2627a3a1cd380b20072c24.jpg
+2025-09-28 13:05:04,506 - INFO - Image already exists: ecca846fee128c988394a1ddc84f07d0.jpg
+2025-09-28 13:05:04,596 - INFO - Downloaded image: 83cc7c96a50bc5d6afeca332d194430f.jpg (8956 bytes)
+2025-09-28 13:05:04,625 - INFO - Image already exists: 7760c4331774a6a742bf080ebea09b3f.jpg
+2025-09-28 13:05:04,723 - INFO - Downloaded image: 29c5b39f8bf98f9ca0ffe07c5a6616c7.jpg (8034 bytes)
+2025-09-28 13:05:04,754 - INFO - Image already exists: e6bd74e980be11bb2c3db03e6daab956.jpg
+2025-09-28 13:05:04,862 - INFO - Image already exists: c2e2b56a97837a85fbff484feb1faac3.jpg
+2025-09-28 13:05:04,958 - INFO - Image already exists: f909c9fefca6cb7adb90fd0af668ec87.jpg
+2025-09-28 13:05:05,165 - INFO - Image already exists: 4829c94f66450a5b6f9a38a484952c8d.jpg
+2025-09-28 13:05:05,249 - INFO - Downloaded image: 3696822c183b0a3f691592018c550198.jpg (10400 bytes)
+2025-09-28 13:05:05,287 - INFO - Image already exists: 59d5c8247f42e7f33ff4e567a4f3ddaa.jpg
+2025-09-28 13:05:05,358 - INFO - Downloaded image: 38e7751d159505baaf835fc90d6010e0.jpg (9165 bytes)
+2025-09-28 13:05:05,393 - INFO - Image already exists: 4e890e9ad6cdaf00fa5f8c60fc6faee0.jpg
+2025-09-28 13:05:05,479 - INFO - Downloaded image: 4df80208ef2959ba535da8b1ef378662.jpg (10840 bytes)
+2025-09-28 13:05:05,522 - INFO - Downloaded image: cf3e8f10e1411e844dad8a2f4922bbd3.jpg (9411 bytes)
+2025-09-28 13:05:05,570 - INFO - Downloaded image: ed096ad3d91aa0c3a74237145c0ee855.jpg (10705 bytes)
+2025-09-28 13:05:05,602 - INFO - Image already exists: 91a2b18171bdd7e71a10582b7be26dd7.jpg
+2025-09-28 13:05:05,683 - INFO - Image already exists: 3309ea62b99af81bd6c9e61f2c41701d.jpg
+2025-09-28 13:05:05,764 - INFO - Downloaded image: 40b515dac0007cdba66f0f6a5c72d25c.jpg (5676 bytes)
+2025-09-28 13:05:05,807 - INFO - Image already exists: ca89cac745f4fe0b38d53639886600bc.jpg
+2025-09-28 13:05:05,886 - INFO - Downloaded image: a5d133831b227464422c7f5585614fd2.jpg (6504 bytes)
+2025-09-28 13:05:05,929 - INFO - Image already exists: 0bef082f5bcd7f15c8e0b4778c81fe8c.jpg
+2025-09-28 13:05:06,002 - INFO - Image already exists: afbcadd62f6942f2f21c126c71ad7332.jpg
+2025-09-28 13:05:06,109 - INFO - Downloaded image: 64ccd1f58664c041601fca6ce0293273.jpg (5205 bytes)
+2025-09-28 13:05:06,145 - INFO - Image already exists: fcf70176ac2f195a197c9c05458992d3.jpg
+2025-09-28 13:05:06,240 - INFO - Downloaded image: 56342f21e7dc9b112638a7eb5c61ae53.jpg (5802 bytes)
+2025-09-28 13:05:06,277 - INFO - Downloaded image: e2fc13cd6913979906c4c5a6d9731b65.jpg (11313 bytes)
+2025-09-28 13:05:06,315 - INFO - Image already exists: 0c23cd96beb16ab26ac9a13d43b292aa.jpg
+2025-09-28 13:05:06,399 - INFO - Downloaded image: 38930fdbbad76cc5afc4b3b935d9eb13.jpg (10997 bytes)
+2025-09-28 13:05:06,434 - INFO - Downloaded image: 71504f02bf20668aac46a41a725f18e8.jpg (9807 bytes)
+2025-09-28 13:05:06,460 - INFO - Downloaded image: 39cbe27988c8d3429f53a7b1eb9f666b.jpg (9916 bytes)
+2025-09-28 13:05:06,493 - INFO - Downloaded image: 20326e4711221100fcadae049652a7c3.jpg (10084 bytes)
+2025-09-28 13:05:06,518 - INFO - Downloaded image: 4ba76816177dc787ddc0f405c093e3a6.jpg (7941 bytes)
+2025-09-28 13:05:06,554 - INFO - Downloaded image: 691bb049c4de96f808a61b23a9b407a7.jpg (11066 bytes)
+2025-09-28 13:05:06,613 - INFO - Downloaded image: f19ccf7bd7b2485619b15dba772d4831.jpg (8217 bytes)
+2025-09-28 13:05:06,647 - INFO - Downloaded image: d44b4374ad7ba36ec93f812fed70e43b.jpg (9550 bytes)
+2025-09-28 13:05:06,684 - INFO - Image already exists: 426930e0c493de864c97824e6d0ee818.jpg
+2025-09-28 13:05:06,777 - INFO - Downloaded image: d5dd59553c1ee999c743d62a22f755f2.jpg (6446 bytes)
+2025-09-28 13:05:06,809 - INFO - Downloaded image: 73906da9aef8d3484b786a9c6d0ee7ad.jpg (7406 bytes)
+2025-09-28 13:05:06,840 - INFO - Image already exists: 97165f3b21ad9a78b6041ecb19f0decb.jpg
+2025-09-28 13:05:06,925 - INFO - Image already exists: e83f0530823a336881152bdd38303e7a.jpg
+2025-09-28 13:05:07,015 - INFO - Downloaded image: 57a7ec50c868f96065ae2e98099c6f22.jpg (9560 bytes)
+2025-09-28 13:05:07,049 - INFO - Downloaded image: cdefa82342fb1dc12174ddc09c4c7d07.jpg (7481 bytes)
+2025-09-28 13:05:07,089 - INFO - Downloaded image: 81922700b6469d55c06acb6b3e630154.jpg (10542 bytes)
+2025-09-28 13:05:07,122 - INFO - Downloaded image: b651dd4c758626d274b2fe5c0e7483f8.jpg (8370 bytes)
+2025-09-28 13:05:07,153 - INFO - Downloaded image: 829c83caa7254fe14379b126576184c1.jpg (11332 bytes)
+2025-09-28 13:05:07,186 - INFO - Image already exists: 3fc7c35f1f7ed97a8684c2769382d7ac.jpg
+2025-09-28 13:05:07,264 - INFO - Downloaded image: c27ec57576132a539831fcdbf5942abd.jpg (10287 bytes)
+2025-09-28 13:05:07,309 - INFO - Downloaded image: b0c9f5c2a7b079cb4375d1d91c84cde5.jpg (10477 bytes)
+2025-09-28 13:05:07,339 - INFO - Downloaded image: e3d2385f995f80dfefac4fc93c6dd33e.jpg (9795 bytes)
+2025-09-28 13:05:07,394 - INFO - Downloaded image: 91d583af52cc4c32b25600c1d8597af8.jpg (6038 bytes)
+2025-09-28 13:05:07,428 - INFO - Downloaded image: 5420ab6ce7b32bb332d0f638d9bf9d8c.jpg (5961 bytes)
+2025-09-28 13:05:07,463 - INFO - Image already exists: f1673fc1fd7316abf02356f2c2ab83ec.jpg
+2025-09-28 13:05:07,553 - INFO - Downloaded image: 93cc737fa9d52bc3585a3cf663943232.jpg (10380 bytes)
+2025-09-28 13:05:07,619 - INFO - Image already exists: 3c76ae66263a872f413d1ef33e591491.jpg
+2025-09-28 13:05:07,716 - INFO - Downloaded image: 3e4d3f1224abd9568a305b6c1585a08a.jpg (11619 bytes)
+2025-09-28 13:05:07,759 - INFO - Image already exists: fb1311b4728836d7541f40c34aafd005.jpg
+2025-09-28 13:05:07,854 - INFO - Downloaded image: ee0bdabe5eb703ee140efa4d3f9b0055.jpg (10126 bytes)
+2025-09-28 13:05:07,886 - INFO - Image already exists: c4ca0f9d9f3cbfe31a50aad7663d2e08.jpg
+2025-09-28 13:05:07,973 - INFO - Downloaded image: 6413dc4a6e461ca09ca57b5b83549600.jpg (6864 bytes)
+2025-09-28 13:05:08,009 - INFO - Downloaded image: 5fcbe6d7fff76f788266544a36ce2599.jpg (8849 bytes)
+2025-09-28 13:05:08,051 - INFO - Downloaded image: ac15d2d2463f7864cb00ac259819608c.jpg (11839 bytes)
+2025-09-28 13:05:08,099 - INFO - Downloaded image: 015186d4f4e4f4f9b086939d6f124189.jpg (10937 bytes)
+2025-09-28 13:05:08,146 - INFO - Image already exists: 1a82472585d65c6dd98bf7a4fc3baf95.jpg
+2025-09-28 13:05:08,412 - INFO - Downloaded image: 4a35218ad917165402f57d212e481df6.jpg (9130 bytes)
+2025-09-28 13:05:08,449 - INFO - Downloaded image: 3c20632bfbcbdcc86f5de1e8d756a154.jpg (9787 bytes)
+2025-09-28 13:05:08,495 - INFO - Downloaded image: 8be926a118a163c71c7628036f9d540a.jpg (10611 bytes)
+2025-09-28 13:05:08,537 - INFO - Image already exists: 4b23f922f52cfdeff8eb42a1a88eca86.jpg
+2025-09-28 13:05:08,639 - INFO - Downloaded image: e714e1d543c918dfa383c8c1123f461a.jpg (11536 bytes)
+2025-09-28 13:05:08,674 - INFO - Downloaded image: 1c648e0e6b4ee460de742315463d273f.jpg (9562 bytes)
+2025-09-28 13:05:08,707 - INFO - Downloaded image: 7be28a3b21a89abe1b06ce068cc29ab9.jpg (4237 bytes)
+2025-09-28 13:05:08,748 - INFO - Image already exists: 3490aadc04ef387bba37039d363f2a5d.jpg
+2025-09-28 13:05:08,837 - INFO - Downloaded image: 1d1ea404deb682a451c1ce9015280274.jpg (8806 bytes)
+2025-09-28 13:05:08,871 - INFO - Image already exists: 570f84d869d225207d63f914dbc18635.jpg
+2025-09-28 13:05:08,969 - INFO - Downloaded image: 470efd373de0a8b328b6b9981cd23559.jpg (11413 bytes)
+2025-09-28 13:05:08,994 - INFO - Image already exists: 9b5ae913b912ff5b6ff0876a0c5fe732.jpg
+2025-09-28 13:05:09,083 - INFO - Downloaded image: 6ef7d16d403054f97e55ac546382b4c2.jpg (6464 bytes)
+2025-09-28 13:05:09,137 - INFO - Downloaded image: 537dcfe22063b2b3fe8e67945dca8064.jpg (6610 bytes)
+2025-09-28 13:05:09,166 - INFO - Downloaded image: 0945c51ea7f8b49a95e494cf7d5539de.jpg (5568 bytes)
+2025-09-28 13:05:09,205 - INFO - Downloaded image: 0fe46ef39605d02176e5b6aa78b3ad20.jpg (5621 bytes)
+2025-09-28 13:05:09,242 - INFO - Downloaded image: 3546cd41642743dbe9bb6e16497d7e2e.jpg (6762 bytes)
+2025-09-28 13:05:09,277 - INFO - Downloaded image: 3ef5a29fb61268a557846ac8cdc3fa81.jpg (10002 bytes)
+2025-09-28 13:05:09,312 - INFO - Downloaded image: fc87137c265813f5325149f275881c3b.jpg (9381 bytes)
+2025-09-28 13:05:09,345 - INFO - Downloaded image: dee83aea88b5b5fd358164a7ff03615d.jpg (10651 bytes)
+2025-09-28 13:05:09,377 - INFO - Downloaded image: b03cd382952d978a4cb0da1e4d5f4b35.jpg (11212 bytes)
+2025-09-28 13:05:09,414 - INFO - Downloaded image: a9329f05965d66d59bc938ce537508ea.jpg (11139 bytes)
+2025-09-28 13:05:09,449 - INFO - Image already exists: 52a5ac37b167690f77729c0904454024.jpg
+2025-09-28 13:05:09,536 - INFO - Image already exists: 5d0e149096efc140f034f751f0ec2cb4.png
+2025-09-28 13:05:09,570 - INFO - Saved article: 160835d4d587bda07ac53771fe5e5ad7.json and 248 images metadata: 160835d4d587bda07ac53771fe5e5ad7_images.json
+2025-09-28 13:05:10,576 - INFO - Scraped 3 articles from https://www.dailymail.co.uk/news/politics
+2025-09-28 13:05:10,576 - INFO - Scraping site: https://www.dailywire.com/politics
+2025-09-28 13:05:10,576 - INFO - Fetching: https://www.dailywire.com/politics
+2025-09-28 13:05:11,006 - ERROR - Error fetching https://www.dailywire.com/politics: 404 Client Error: Not Found for url: https://www.dailywire.com/politics
+2025-09-28 13:05:11,006 - INFO - Scraped 0 articles from https://www.dailywire.com/politics
+2025-09-28 13:05:11,006 - INFO - Scraping site: https://www.foxnews.com/politics
+2025-09-28 13:05:11,006 - INFO - Fetching: https://www.foxnews.com/politics
+2025-09-28 13:05:11,248 - INFO - Found 2 potential articles
+2025-09-28 13:05:11,248 - INFO - Scraping article 1/2
+2025-09-28 13:05:11,248 - INFO - Fetching: https://www.foxnews.com/story/foxnews-com-rss-feeds
+2025-09-28 13:05:11,451 - INFO - Saved article: b1a156c07daed0050ebe6b4827c7aad5.json
+2025-09-28 13:05:12,456 - INFO - Scraping article 2/2
+2025-09-28 13:05:12,456 - INFO - Fetching: https://www.foxnews.com/story/where-in-the-world-is-fox
+2025-09-28 13:05:12,835 - INFO - Saved article: 211946ed7775bf276f9b2208bacfbc2f.json
+2025-09-28 13:05:13,840 - INFO - Scraped 2 articles from https://www.foxnews.com/politics
+2025-09-28 13:05:13,841 - INFO - Scraping site: https://www.thefederalist.com/politics
+2025-09-28 13:05:13,841 - INFO - Fetching: https://www.thefederalist.com/politics
+2025-09-28 13:05:14,331 - ERROR - Error fetching https://www.thefederalist.com/politics: 403 Client Error: Forbidden for url: https://www.thefederalist.com/politics
+2025-09-28 13:05:14,331 - INFO - Scraped 0 articles from https://www.thefederalist.com/politics
+2025-09-28 13:05:14,332 - INFO - Scraping site: https://www.ijr.com/politics
+2025-09-28 13:05:14,332 - INFO - Fetching: https://www.ijr.com/politics
+2025-09-28 13:05:15,967 - INFO - Found 0 potential articles
+2025-09-28 13:05:15,967 - INFO - Scraped 0 articles from https://www.ijr.com/politics
+2025-09-28 13:05:15,968 - INFO - Scraping site: https://www.newsmax.com/politics
+2025-09-28 13:05:15,968 - INFO - Fetching: https://www.newsmax.com/politics
+2025-09-28 13:05:34,428 - ERROR - Error fetching https://www.newsmax.com/politics: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-28 13:05:34,429 - INFO - Scraped 0 articles from https://www.newsmax.com/politics
+2025-09-28 13:05:34,430 - INFO - Scraping site: https://www.oann.com/politics
+2025-09-28 13:05:34,430 - INFO - Fetching: https://www.oann.com/politics
+2025-09-28 13:05:36,688 - ERROR - Error fetching https://www.oann.com/politics: 404 Client Error: Not Found for url: https://www.oann.com/politics
+2025-09-28 13:05:36,688 - INFO - Scraped 0 articles from https://www.oann.com/politics
+2025-09-28 13:05:36,689 - INFO - Scraping site: https://www.thepostmillennial.com/politics
+2025-09-28 13:05:36,689 - INFO - Fetching: https://www.thepostmillennial.com/politics
+2025-09-28 13:05:38,946 - ERROR - Error fetching https://www.thepostmillennial.com/politics: 404 Client Error: Not Found for url: https://thepostmillennial.com/politics
+2025-09-28 13:05:38,947 - INFO - Scraped 0 articles from https://www.thepostmillennial.com/politics
+2025-09-28 13:05:38,947 - INFO - Scraping site: https://www.freebeacon.com/politics
+2025-09-28 13:05:38,947 - INFO - Fetching: https://www.freebeacon.com/politics
+2025-09-28 13:05:40,454 - INFO - Found 0 potential articles
+2025-09-28 13:05:40,454 - INFO - Scraped 0 articles from https://www.freebeacon.com/politics
+2025-09-28 13:05:40,457 - INFO - Created summary: scraping_summary_20250928_130540.json

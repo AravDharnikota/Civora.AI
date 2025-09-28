@@ -1,0 +1,21 @@
+{
+  "article_url": "https://www.thenation.com/article/politics/rodney-taylor-ice-deportation/",
+  "article_title": "Log In",
+  "scraped_at": "2025-09-28T13:01:19.159848",
+  "images": [
+    {
+      "src": "https://www.thenation.com/wp-content/uploads/2025/09/rodney-taylor.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "Rodney Taylor(Courtesy of EMP Law)",
+      "downloaded_path": "scraped_news/images/787b8c9f5ef03764348040300733b212.jpg"
+    },
+    {
+      "src": "https://www.thenation.com/wp-content/uploads/2025/09/cover1025.jpg",
+      "alt": "Cover of October 2025 Issue",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/41d27bdf150b079039c31049099759ca.jpg"
+    }
+  ]
+}

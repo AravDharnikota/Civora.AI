@@ -1,0 +1,1092 @@
+{
+  "article_url": "https://www.dailymail.co.uk/news/royals/index.html",
+  "article_title": "Royal Family",
+  "scraped_at": "2025-09-28T13:04:45.090540",
+  "images": [
+    {
+      "src": "data:image/gif;base64",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": null
+    },
+    {
+      "src": "https://i.dailymail.co.uk/i/pix/channelheaders/US.png",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c8ac72cbd1de6cd930ecc8918e6ad496.png"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/i/furniture/facebook/DailyMail/DailyMail.png",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9b71fd1d6e588356aac9348ac370c4f8.png"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/09/102513931-0-image-m-4_1759049882561.jpg",
+      "alt": "Princess Beatrice 'loses all hope' of becoming a working Royal after mother Sarah",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f483200bc6971a803d36613660ce4ee5.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/13/102515581-0-image-m-6_1759064340801.jpg",
+      "alt": "Meghan Markle shares a rare glimpse inside her $14million mansion's living room - complete",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c62ed63e82c25ccce08f414e8d8b44b9.jpg"
+    },
+    {
+      "src": "https://video.dailymail.co.uk/preview/mol/2025/09/26/423901719051484795/636x382_JPG-SINGLE_423901719051484795.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/fb14bd34ca7f0af348ed430fdb6c35d8.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/16/12/102178767-0-image-a-367_1758023276109.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/27eb8d8c517218e0c6697b9fcac204f5.jpg"
+    },
+    {
+      "src": "https://video.dailymail.co.uk/preview/mol/2025/09/27/7032491651387932438/636x382_JPG-SINGLE_7032491651387932438.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/a3b783d396ca7436b773bedc9ef2ed33.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/09/102212681-0-image-m-3_1759049850584.jpg",
+      "alt": "How Meghan Markle's father described her love life before she met Prince Harry, according",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/3477b9eeeedcad7c87ee71a0d35371e5.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/16/102502545-0-image-m-59_1758986799746.jpg",
+      "alt": "Churchill was 'madly in love with' Queen Elizabeth and she waived royal protocol to show",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/19f8d1433ceffc70088614bdf7682c49.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/23/102509875-0-image-a-21_1759011412832.jpg",
+      "alt": "Night the Windsors hopped on Hogwarts Express...in Windsor: William and Kate took their",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c6812def75734efc971922b729b1a3e8.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/28/09/102247747-0-image-m-1_1759049722666.jpg",
+      "alt": "Revealed: The scathing nickname diplomats coined for Prince Andrew thanks to his 'childish",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4b679a4b440959ad3421569dbae900af.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/16/102502245-0-image-m-14_1758987771941.jpg",
+      "alt": "Prince Harry's fierce statement at 'sources intent on sabotaging reconciliation' with",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/7fea7aabd62bf1a6b6785ce82fe360fa.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/16/102247747-0-image-m-16_1758987861733.jpg",
+      "alt": "Revealed: The scathing nickname diplomats coined for Prince Andrew thanks to his 'childish",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4d72df6dfc79ea52a836f6caa3a6db66.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/15/102449737-0-image-a-2_1758811276053.jpg",
+      "alt": "How Meghan crafted her public persona after Princess Diana - even BEFORE she married Harry",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b0b2c942205f1bbb69b1f3b107eb66f9.jpg"
+    },
+    {
+      "src": "https://video.dailymail.co.uk/preview/mol/2025/09/25/8988862624732170670/636x382_JPG-SINGLE_8988862624732170670.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/a58e29bf9f2862ddcfe7a1c9a5761edd.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/09/102445495-0-image-m-13_1758959994375.jpg",
+      "alt": "Kate Middleton's signature coats - and the best high street buys to emulate her flawless",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f7bed891557723268e148abc3c24750d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/23/102492279-0-image-a-2_1758926206675.jpg",
+      "alt": "EDEN CONFIDENTIAL: Princess Beatrice is bound out of her grandfather Prince Philip's",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/54cedf9f55ea873c95b2ff9773132435.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/08/102481785-0-image-m-5_1758959512039.jpg",
+      "alt": "Sarah Ferguson sells her £4.2million Belgravia townhouse - and funds 'may keep her and",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/90ecc7ea2d25a5d91eb1aa9e6f5fa324.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/27/08/102476249-0-image-m-10_1758959588481.jpg",
+      "alt": "How Sarah Ferguson made and squandered millions in eclectic money-making schemes in her",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/a2c5a43ef4d720a70802b04ab97fc9dd.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/15/16/102155595-0-image-a-41_1757949324282.jpg",
+      "alt": "Why Prince Andrew was accused of 'lacking self-awareness' and living on 'Planet Windsor',",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/aa585496888c24d31ca04048d01d29ac.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/10/102472595-0-image-a-15_1758878628135.jpg",
+      "alt": "Is this the end of the House of York? Royal experts weigh in on Sarah Ferguson's bombshell",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f43baf9bef549fe13260047aff2e61b1.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/11/102470963-0-image-m-4_1758882368628.jpg",
+      "alt": "Sarah Ferguson should be stripped of her royal title says Virginia Giuffre's family after",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/a71a03dd273a8f17104549ba9df18c29.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/22/16/102351885-0-image-a-17_1758555293423.jpg",
+      "alt": "Fashion expert reveals the hidden meaning behind Kate Middleton's burgundy outfits",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/034fe00dde013c62af62172ef321704c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/07/102440945-0-image-m-27_1758867565289.jpg",
+      "alt": "Royal-approved brand LK Bennett launches diffusion line with same high quality and more",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/53245298dd0e01c75c82305df9787413.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/22/102461767-0-image-a-14_1758835368833.jpg",
+      "alt": "Meghan's wardrobe is alienating the public... but she's using it to send a secret message",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/47fa32f73658fb848de2af452dba657a.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/07/102278391-0-image-m-24_1758867485551.jpg",
+      "alt": "Prince Harry would 'love' to spend more time in UK: Duke wants to visit every few months,",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c4ce3d4e9e381675542d396589885107.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/26/07/102449771-0-image-m-25_1758867502365.jpg",
+      "alt": "Harry's birthday present to Meghan? She shows off huge new 'Queen' ring with gem",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6103e403b14af7d12584af2f758fea8b.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/12/102443709-0-image-a-1_1758799194126.jpg",
+      "alt": "There's a sinister Establishment 'plot' to undermine Prince William and Kate and bring",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/895e98c2cd0068059a9ec1105520a565.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/07/102411311-0-image-m-18_1758781766834.jpg",
+      "alt": "Should Prince Andrew and Sarah Ferguson be forced out of Royal Lodge? Have your say in the",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6ad7ccfdbe27eecd9beaf827ae134aef.jpg"
+    },
+    {
+      "src": "https://video.dailymail.co.uk/preview/mol/2025/09/24/4289841558839997561/636x382_JPG-SINGLE_4289841558839997561.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/bdd247e0d2f4cd41300486bff876a809.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/07/102348439-0-image-m-20_1758781816083.jpg",
+      "alt": "Inside Prince Andrew's affair with ex-model and gangster's moll Vicki Hodge",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/329a77267287ef973ee608c31b75670b.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/07/102425069-0-image-m-10_1758781171469.jpg",
+      "alt": "RICHARD KAY: If Charles cuts Andrew off, I fear this is what the Duke of York will do",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9fe7a5f441b6076ebc80e71df50369e4.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/11/102421347-0-image-m-23_1758794903544.jpg",
+      "alt": "Queen Camilla was just spotted with this season's biggest bag trend - and it looks so much",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/41f548787bf19f85d971013f2ac3e05a.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/25/10/102431651-0-image-m-21_1758791902246.jpg",
+      "alt": "Revealed: Brits' biggest obsessions... from Prince Harry and William's feud to a pint at",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/2dd8d5b3ffd75444c8533af9c996e903.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/24/12/102411559-0-image-a-374_1758712719877.jpg",
+      "alt": "How Kate Middleton conveys authority through her evolving coat collection - and the hidden",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b30f710f92c638eede109696fc57f27f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/24/13/102413431-0-image-a-1_1758716140099.jpg",
+      "alt": "Sarah Ferguson claims she was trying to protect Princesses Beatrice and Eugenie when she",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/81aaa6f33ab0b2695fe461f54b5c49a9.jpg"
+    },
+    {
+      "src": "https://video.dailymail.co.uk/preview/mol/2025/09/24/3851733014534769369/636x382_JPG-SINGLE_3851733014534769369.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/04b3d26706880e5f30b6620cdd87d770.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/24/13/102395087-0-image-m-10_1758716403433.jpg",
+      "alt": "Meghan Markle 'is in conversations about her own radio show'",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/0cb63eaeb47de024fd1073f3f33f67a3.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/24/13/102052433-0-image-m-8_1758716295833.jpg",
+      "alt": "Prince William's kind gesture to an elderly lady was a 'classic Diana move', according to",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6033e62923628f41ea7c794e0c4413b6.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/23/12/102375977-0-image-a-5_1758628418127.jpg",
+      "alt": "The sting operation that became 'the biggest crises of Sarah Ferguson's life'... up until",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9aadff0b79a0b5fdcd0ac6e6372c01d0.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/24/10/102381157-0-image-m-6_1758705387398.jpg",
+      "alt": "SARAH VINE: The striking similarities between Sarah Ferguson and Meghan... and why",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d081436d198cd2f0cf7d77bd89a1faef.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/24/10/102383593-0-image-m-5_1758705380485.jpg",
+      "alt": "Zara Tindall's countryside style proves waxed jackets, skinny jeans and wellies are",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/cd9cfbe952c638c9b76f3464bbb933b5.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/24/10/102372819-0-image-m-4_1758705364476.jpg",
+      "alt": "Sarah Ferguson is 'devastated and wishes she never met Jeffrey Epstein' after email leak",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/7eebeaa82cdeb469ef909c7fd5cbfbb8.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/23/16/102376689-0-image-m-5_1758641253157.jpg",
+      "alt": "Kate and William's support for Southport: Royals visit schools of tragic stabbing victims",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f5533d0f0c875348f32ca7539eface0d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/22/16/102351393-0-image-a-21_1758553773381.jpg",
+      "alt": "Kate Middleton delivers a 'mic drop' moment in dazzling gold dress identical to the late",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e76685a2f12b9c3e7b4ab2ab8e47a7f0.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/23/14/102377571-0-image-m-4_1758635356279.jpg",
+      "alt": "Kate Middleton's luxurious grey coat is the perfect autumn staple - shop her exact style",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/14b7c74c9bbc2031cb2c4cb718e84a12.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/23/12/102373995-0-image-m-1_1758625196297.jpg",
+      "alt": "How Princess Beatrice and Princess Eugenie could be affected by their mother Sarah",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6d23681b5645a133b56e81c7a31b67a6.jpg"
+    },
+    {
+      "src": "https://video.dailymail.co.uk/preview/mol/2025/09/25/8477030002647413690/636x382_JPG-SINGLE_8477030002647413690.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/187f40877564c509f79ce0aba9e536b1.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/23/11/102373657-0-image-a-24_1758624424175.jpg",
+      "alt": "Sussex Squad turns on Meghan: 'Furious' star dubbed duchess's 'biggest fan' unfollows her",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/850619478f80f243642e71fc68f4b55d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/23/12/102372919-0-image-m-50_1758626828362.jpg",
+      "alt": "Why Queen Camilla's white state visit dress is a lesson in elegance - and how to recreate",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d9b6322e39a26e0d2ec50ee210ed3a0e.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/15/11/102147641-0-image-a-18_1757933144610.jpg",
+      "alt": "The Queen's surprising response to rumours about her health, according to royal author",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/a4eda7e2ee0ad217546d61faae2d1d4c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/22/20/102357935-0-image-a-1_1758570020982.jpg",
+      "alt": "Netflix boss says Meghan Markle and Prince Harry's documentary was 'successful on every",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/aef8eda3c4fe5b32c6841298277ee054.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/23/12/102358489-0-LONDON_ENGLAND_SEPTEMBER_16_Prince_Andrew_Duke_of_York_and_Sarah-m-52_1758626865543.jpg",
+      "alt": "Exposed: How Fergie's relationship with Epstein lasted for two YEARS longer than she said",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/806950edb661cc167baa80199ad395d5.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/22/19/102355691-0-image-m-18_1758565422498.jpg",
+      "alt": "AMANDA PLATELL: I'm so disgusted Charles hasn't acted on leeches Andrew and Fergie. Her",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/771b6f1fa4041c628d94816266a21af7.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/23/13/102364085-0-image-m-2_1758632233764.jpg",
+      "alt": "Will the King banish Fergie? Photos that show just how close she and Epstein were - as",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/35ac9d6eae590000f70919b389681710.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/22/12/102346297-0-image-a-22_1758542169741.jpg",
+      "alt": "Ex-Vogue editor Edward Enninful hints he won't work with Meghan Markle again as he fails",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b8bce24b0f992e1ffa999a7fd84294fa.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/22/11/102344819-0-image-a-217_1758538703196.jpg",
+      "alt": "All of Sophie, Duchess of Edinburgh's chic Japan tour dresses - and the high street pieces",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c25fcde9a0a4c5c781a4a8c5197912b5.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/22/14/102339483-0-image-m-29_1758547333503.jpg",
+      "alt": "Duchess of Edinburgh wows in a £625 blue polka dot dress as she joins Princess Takamado at",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/aff24e4f5d9e77f075ddfd88e42542c5.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/18/15/102254087-0-image-a-32_1758206296335.jpg",
+      "alt": "So is Meghan Markle's former best pal about to tell all? Jessica Mulroney has an axe to",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/8f1af35bdfdaca6ae406cf847aa0eda5.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/22/11/97916259-0-image-m-17_1758538012444.jpg",
+      "alt": "Revealed: The stinging nicknames Princes William and Harry gave Camilla after the death of",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c98b347a99b564f6dd8923e5df4d3aeb.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/22/12/102344685-0-image-m-18_1758539915548.jpg",
+      "alt": "POLL OF THE DAY: Should Andrew and Fergie be banned from all Royal Family private events?",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/8d8b88dc2d06601548fd0ecb53a4733c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/22/13/102347001-0-image-a-4_1758543805996.jpg",
+      "alt": "Seven charities including Teenage Cancer Trust cut ties with Sarah Ferguson after leaked",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e7a637db1f0c794eb497c469f41aa7e8.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/22/07/102336507-0-image-m-5_1758521380000.jpg",
+      "alt": "Prince Harry reflects on 'amazing' Disney World trip with Meghan and their kids... 32",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/0f8551699229304e2925329550eedafb.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/21/19/102327663-0-image-a-24_1758479306169.jpg",
+      "alt": "The Fergie-Epstein scandal is far from being a personal one for the Yorks... it could",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e34b8e02b3c12c41bff257dc0f580c3c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/22/13/102329411-0-image-m-19_1758543983239.jpg",
+      "alt": "Prince Harry will NEVER be allowed to return as a 'half-in, half-out' working royal - and",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/3db2d19f727dcc6c76d7e35c6be548f7.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/12/14/102081961-0-image-a-7_1757684800161.jpg",
+      "alt": "How Princess Diana almost starred in a Kevin Costner movie following the success of the",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/68abd4bc1e17205e2430ef5c6de7c4a3.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/21/15/102324299-0-image-a-26_1758466659612.jpg",
+      "alt": "King Charles may be forced to ban the Yorks from private family occasions as 'the last",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c5dca2848cb181f71f76e436e3b85bc2.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/21/19/69821095-0-image-m-3_1758480071102.jpg",
+      "alt": "Meghan Markle is brushed off by Edward Enninful's new magazine - but former Vogue editor",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/356394f1a105545104c4b2500c3d7011.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/15/12/102149189-0-image-a-16_1757936734098.jpg",
+      "alt": "How Meghan Markle's ambition to be the 'House of Windsor's Melinda Gates' hit stumbling",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d067ddf6238d43d8fda967b08eeb86cf.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/21/14/102038845-0-image-m-1_1758461657486.jpg",
+      "alt": "Prince Andrew 'plotted with Queen Elizabeth II' to secretly smuggle Fergie into Balmoral",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5068fcc45df71495d6489330a5cc4e99.jpg"
+    },
+    {
+      "src": "https://video.dailymail.co.uk/preview/mol/2025/09/02/1798020831687492362/636x382_JPG-SINGLE_1798020831687492362.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6b647d239abb1f43af49d1d5eecdc138.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/11/08/102011511-0-image-a-2_1757577231219.jpg",
+      "alt": "Meghan and Harry's closely kept secret that not even the nanny knew about, according to",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/18a2300913b645ff26be7be44b849ed1.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/21/10/102223495-0-image-m-5_1758445587972.jpg",
+      "alt": "I'm a royal fashion expert - here are the John Lewis buys for autumn that copy Kate",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e40a2c62d63edbfb43294a5599c2ec89.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/16/12/102178773-0-image-a-361_1758023267269.jpg",
+      "alt": "Kate Middleton and Camilla are making the case for tartan this autumn - here's where to",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/65272481c251375a3306a24dace1e787.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/21/09/102312535-0-image-m-1_1758445053005.jpg",
+      "alt": "TALK OF THE TOWN: Pippa Middleton causes uproar after arranging Spitfire display for 50th",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/804ce272783e14fc2137c5ca395b5510.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/21/14/102317105-0-image-m-2_1758461763239.jpg",
+      "alt": "Meghan Markle joins Prince Harry at Kevin Costner's starry charity event in first outing",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5ac683239f2666b2968478777207c46a.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/16/13/102181441-0-image-a-57_1758027524074.jpg",
+      "alt": "From 'trophy wife' to 'trophy husband': Body language expert reveals the difference",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f75a1b660103f6f9977e4338824216d5.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/22/14/102223495-0-image-m-25_1758546660104.jpg",
+      "alt": "I'm a royal fashion expert - here are the John Lewis buys for autumn that copy Kate",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/29b8e1175b70fff934376611f2d0cb71.jpg"
+    },
+    {
+      "src": "https://video.dailymail.co.uk/preview/mol/2025/09/15/5944839547937600101/636x382_JPG-SINGLE_5944839547937600101.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9a861e1a73d1205b347f723f087f7648.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/20/09/102294101-0-image-m-7_1758356600232.jpg",
+      "alt": "EDEN CONFIDENTIAL: Harry's confidant predicts he and brother William 'will embrace soon'",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/73a7351be9147e535401269e3d75adab.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/18/19/102221081-0-image-m-10_1758220102598.jpg",
+      "alt": "The NOT so special relationship: Inside the most controversial moments during state visits",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/dbb788724a4304a851ed3ff020f90c7f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/19/20/102293989-0-image-a-3_1758310080713.jpg",
+      "alt": "Pippa Middleton's grand designs! Kate's sister unveils impressive plans for £15m home to",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/3d0b4c2f738530aea52221eb9070d0a1.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/19/16/102287617-0-image-a-32_1758296560575.jpg",
+      "alt": "William's had a rotten 18 months. Many have remarked he's appeared unusually sombre - and",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c154473be73bce5746fe04e34110ebfe.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/20/09/102094479-0-image-m-9_1758356680608.jpg",
+      "alt": "Prince Harry asked pal Joss Stone about her move from America back to Britain in another",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/a5a56565bcea2ebfa296ae63106483f7.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/19/14/102280375-0-image-m-15_1758286829157.jpg",
+      "alt": "Revealed: How King's chefs clashed with Secret Service in furious behind-the-scenes row at",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/894f4ad744749cfa4fb39565c74ba171.jpg"
+    },
+    {
+      "src": "https://video.dailymail.co.uk/preview/mol/2025/09/19/869598580377535251/636x382_JPG-SINGLE_869598580377535251.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/3294fe782c0cc0129632b4745f12417d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/19/15/102277661-0-image-m-25_1758293935962.jpg",
+      "alt": "Kate Middleton reveals Prince Louis's new autumn obsession that he 'hides everywhere'",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b301a80be2121daf3e1d6bdba100f93c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/19/18/102282253-0-image-m-14_1758301234693.jpg",
+      "alt": "Duchess of Edinburgh watches a sumo wrestling match as she and Prince Edward kick off",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e0a211ef9ef4aa4c77a6a40cca7c34cf.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/19/18/102287249-0-image-m-15_1758301399835.jpg",
+      "alt": "Duchess Sophie stuns in blue silk floral dress as she starts official Japan tour - and",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/35f0bbbb522bedc4c11c6ae1f5725fda.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/19/13/102281531-0-image-a-70_1758283734584.jpg",
+      "alt": "Duchess Sophie just proved paisley is back in style for autumn - and we've found her exact",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/771b54e69bc81d60e4f898507b770dfe.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/19/13/102278291-0-image-m-7_1758286568590.jpg",
+      "alt": "A fashionable extravaganza of France's most fashionable ill-fated tragic teen-Queen on",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6176eb49c19ce48a38360d9977e2dc76.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/19/13/102207477-0-image-m-6_1758286552984.jpg",
+      "alt": "How Kate Middleton uses the 'soft power of fashion' to highlight her charities and causes,",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/1b5342d51928d6e041ea7ea45c26c917.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/19/13/102279381-0-image-m-11_1758286732502.jpg",
+      "alt": "Prince Andrew is spotted for the first time since his frosty exchange with Prince William",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/869550ffe2a3027da8c930cee85ae432.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/19/13/102267827-0-image-m-9_1758286690081.jpg",
+      "alt": "The hidden messages behind Melania Trump's fashion thunderbolts during state visit",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b4448f0ac8bd7495b176daa72d5909d8.jpg"
+    },
+    {
+      "src": "https://video.dailymail.co.uk/preview/mol/2025/09/19/6970392940306218578/636x382_JPG-SINGLE_6970392940306218578.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d4fb435da6da247136b6cd242c642414.jpg"
+    },
+    {
+      "src": "https://video.dailymail.co.uk/preview/mol/2025/09/18/2193152297977987536/636x382_JPG-SINGLE_2193152297977987536.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/64b82a934e69a7514d5d03efa4546d88.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/19/07/102253103-0-image-m-16_1758264675369.jpg",
+      "alt": "Melania follows Kate's lead! US First Lady looks to Princess of Wales for inspiration",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/af654aae9eb8b189cf258110107399f8.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/19/07/102256419-0-image-m-18_1758264804260.jpg",
+      "alt": "Prince William's kind gesture for First Lady Melania Trump during lavish state banquet",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4548c5ef175199ea18496cf6fd38c36a.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/12/14/102080463-0-image-a-5_1757684226966.jpg",
+      "alt": "Inside Sarah Ferguson's turbulent bond with her mother Susan: From royal scandal to tragic",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/43848309acf2154b60410fdfcafdca88.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/19/07/102267651-0-image-m-3_1758263105131.jpg",
+      "alt": "Trump just humiliated Harry and Meghan with two brutal words... but even more embarrassing",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5495567240bf68345de6d03f2f62cec2.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/19/07/102211857-0-image-m-6_1758263157565.jpg",
+      "alt": "Was it right to invite Prince Andrew to the Duchess of Kent's funeral? Have your say in",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c16709b85156072ab9f56a35fa5f3d33.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/19/07/102189507-0-image-m-7_1758263165776.jpg",
+      "alt": "Kate Middleton's favourite brand Boden unveils impressive sale with up to 60% off wardrobe",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/fad20b5dda2a3698681ecf97a6e02b8f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/18/16/102255865-0-image-m-35_1758208605277.jpg",
+      "alt": "It's Ladies Day! Melania Trump meets Scouts with the Princess of Wales after tour of",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e0d1bd0b1af6fdec9ac1f2d36aa1597a.jpg"
+    },
+    {
+      "src": "https://video.dailymail.co.uk/preview/mol/2025/09/18/247055307163677176/636x382_JPG-SINGLE_247055307163677176.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/1d243dd46f1355ae1b47fadb31cf0930.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/18/17/102257159-0-image-m-3_1758212081902.jpg",
+      "alt": "Melania Trump just stepped out in this season's biggest fashion trend - shop suede jackets",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d9d61ce8228223472ef66e6334d50157.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/18/14/102250549-0-image-a-71_1758201510454.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/bd738619b5c8739b9d9f18b6f7815c49.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/18/09/102241245-0-image-m-20_1758183116467.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/fe828cf522aecb62d87a70ec9d5d02bb.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/18/11/102245481-0-image-a-5_1758191632237.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/21c2cb67123c10900cf38ee18baabd01.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/18/10/102243137-0-image-a-2_1758186906333.jpg",
+      "alt": "The secrets to Kate's best look yet! Beauty experts reveal subtle tricks behind the",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b15e0cb950a140a593fb046bae6b083d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/18/08/102229055-0-image-m-1_1758179502240.jpg",
+      "alt": "Princess Kate and Prince William beam at King and Queen's state banquet for the Trumps:",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/bf1ed4dd7799d382159a58dbf6282249.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/18/08/102241141-0-image-m-16_1758181957720.jpg",
+      "alt": "The tiara that's so heavy it gave Diana headaches: Kate wears dazzling diamond and pearl",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/1d8538819752a68f804fba1fe3e35e05.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/17/22/102230041-0-image-a-29_1758144685862.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/0bbaa4b4a0fc70d59b3660dcb3871d01.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/18/11/102245335-0-image-m-17_1758191604638.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/296227ca80a95ee0f55dc4a804660da2.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/18/07/102235853-0-image-m-12_1758175919182.jpg",
+      "alt": "The state visit second to none: Donald Trump says it's 'one of highest honours of my life'",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/11f315b5edac4362fa74a7cf26e33dfe.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/18/10/102243857-0-image-m-28_1758188604513.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/23f6147eae1e0923e4f6c427984bf353.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/18/11/102240695-0-image-m-12_1758191543103.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e24e936bb1e8b4df1c91e4ee5ad23982.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/17/20/102227319-0-image-m-24_1758135674889.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6d9e57bd06aa49723714d6d854634b17.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/17/16/102216059-0-image-m-3_1758122347775.jpg",
+      "alt": "Kate Middleton's statement burgundy coat is very on trend for autumn - we've found her",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6a52e2bcee0b4779f79ac6c6c5bf355e.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/17/14/102217165-0-image-a-2_1758114385395.jpg",
+      "alt": "Kate and Melania's fashion face off: LAURA CRAIK reveals outfit clues that show the First",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f92bbe3c41e1f25c274936c1993ab4ca.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/17/13/102210131-0-image-m-19_1758113053372.jpg",
+      "alt": "Moment Andrew was shunned by the Royals: An awkward exchange with William, an",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/469f1fec6c5dab12f12e032fc7c7b4d0.jpg"
+    },
+    {
+      "src": "https://video.dailymail.co.uk/preview/mol/2025/09/17/8718222007279960066/636x382_JPG-SINGLE_8718222007279960066.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/38c38d491766ad15e9a4b1fa970faf6c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/18/08/102211857-0-Britain_s_Prince_Andrew_reacts_next_to_Prince_William_at_the_end-m-15_1758181942132.jpg",
+      "alt": "Was it right to invite Prince Andrew to the Duchess of Kent's funeral? Have your say in",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/17343aff66828bac2b1278424206c60c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/17/07/102189073-0-image-m-1_1758089873217.jpg",
+      "alt": "Grief-stricken Duke of Kent shows his emotions as he bids his wife of 64 years farewell -",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5dcacc92e7655c8c087896f0fc691f80.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/16/17/102189015-0-image-m-21_1758038415356.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9da5fcd0aac1e54c38cbc53b1e8b475a.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/16/14/102181389-0-image-m-61_1758028202931.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/67e820b548b2521c40a80d1d035af21f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/16/15/102186885-0-image-m-30_1758034793170.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/882558c15fb9dd7d4334c2cda3f8ff50.jpg"
+    },
+    {
+      "src": "https://video.dailymail.co.uk/preview/mol/2025/09/17/2301292918661165266/636x382_JPG-SINGLE_2301292918661165266.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/aa80d7efbe8a2d048fe13f8e6a094ebd.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/16/16/102187413-0-image-m-22_1758035660520.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f344ad49a341e62cfaf05a8431323387.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/16/14/102181467-0-image-m-69_1758027651672.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/f69a10290dccacb783ce80d98b4ccde0.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/16/15/102173061-0-image-m-5_1758031427609.jpg",
+      "alt": "Bad heir day, Harry? Meghan Markle mocked for posting ten-year-old picture of a bouffant",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/a4922e3108632ff91dbfae10e34f8712.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/16/16/102185339-0-image-a-45_1758035082875.jpg",
+      "alt": "Prince Harry turns up at Polish burger truck... and stuns staff with his order (but only",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6a4764872f7b1496d682b4bbc7318e2d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/09/09/101965301-0-image-a-2_1757408384573.jpg",
+      "alt": "The Duchess of Kent's secret heartbreak: Inside the royal's 'longing' for a fourth child",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/0a5607870e5482fc817eecf8a03b316d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/16/08/102149375-0-image-m-13_1758007274534.jpg",
+      "alt": "Princess Beatrice just proved a little black dress will never go out of style - shop her",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/a6944dcc27c0aafed0b0d441262ad09d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/07/24/12/100593547-0-image-a-12_1753357753208.jpg",
+      "alt": "'Slapped wrists' and secret club nights: Royal author on how young Harry's party boy image",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d2bd368dbaf86e488088a84ec71bdc4d.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/15/13/102128911-0-image-m-2_1757937622583.jpg",
+      "alt": "I didn't air any dirty laundry in public - my conscience is clear, says Prince Harry",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/82e8e19d7c5f7224241fd6cf13040984.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/15/14/102152031-0-image-a-32_1757942707799.jpg",
+      "alt": "CHRISTOPHER WILSON: The Duke and Duchess of Windsor received a royal welcome when they",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/351c8f2305ff05eedb56b00e44e58db1.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/10/16/102009927-0-image-a-170_1757516444737.jpg",
+      "alt": "How Meghan Markle used clothes to send a subtle message: Duchess's Invictus Games wardrobe",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e7583270aa82648137cceca02bf9ec24.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/15/06/102140985-0-image-a-2_1757915223114.jpg",
+      "alt": "Why did the Queen's offer to 'pop out and pick up' Barack Obama spark a 'serious row'",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/df57f3dedc4b45457bdfc807a66ea738.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/15/13/102146093-0-image-m-5_1757937709225.jpg",
+      "alt": "Duchess Sophie just showcased the perfect blazer for autumn - it's almost sold out so",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b500252f5b1933a667a5c23a0d40c0d3.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/08/28/16/101636077-0-image-a-11_1756395560685.jpg",
+      "alt": "The protocols and royal rules Meghan hated, and her distaste for being a 'second-rate",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/51e93cd11fe54773cda260eb6d8e55b1.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/14/14/102044095-0-image-m-9_1757856627221.jpg",
+      "alt": "I'm a royal fashion expert and I know Kate Middleton will love M&S' new collection -",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/a3fa6bc54a5f9461b04e09e6a4c93574.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/10/11/102000129-0-image-a-19_1757499749541.jpg",
+      "alt": "The signs of Harry and Meghan's 'obsessive desire to be loved' and their relationship",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5a4cf7d6446d796aed8247f52b3f497b.jpg"
+    },
+    {
+      "src": "https://video.dailymail.co.uk/preview/mol/2025/09/10/2058643413754950511/964x580_JPG-SINGLE_2058643413754950511.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c6c9d9910fcd27b2c184abd9b58f4597.jpg"
+    },
+    {
+      "src": "https://video.dailymail.co.uk/preview/mol/2025/08/27/6318947806225347426/636x382_JPG-SINGLE_6318947806225347426.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/899015ae2fe99569f4a2802ae4ac3ff8.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/14/10/102109915-0-image-m-7_1757842215104.jpg",
+      "alt": "'If you mention him, he'll throw you out of the room': Why William is more determined than",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/ba614352773af05e0725199eb3013c69.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/18/08/102086185-0-image-m-5_1758180122967.jpg",
+      "alt": "How Sarah Ferguson 'betrayed Princess Diana's trust' and they never spoke again, according",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/52e4d00d5e1d48cec324e4eb649511e7.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/03/11/101791981-0-image-a-26_1756896484053.jpg",
+      "alt": "Meghan Markle's touchy question to Kate that sparked a fiery royal feud: Prince Harry",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6f622f2cd67eef64ada961f26898e9c5.jpg"
+    },
+    {
+      "src": "https://video.dailymail.co.uk/preview/mol/2025/09/10/1217968618010163940/636x382_JPG-SINGLE_1217968618010163940.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6036a52a7e9647fd50c28de332b1f02c.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/13/09/102076777-0-image-m-2_1757753938533.jpg",
+      "alt": "Prince Harry has 'regrets' and wants to 'reset' his relationship with the Royal Family and",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d7f395a0848dc4634cbd35eb560e477f.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/12/14/102073611-0-image-m-37_1757682409506.jpg",
+      "alt": "Schoolgirl has a VERY cheeky response after meeting the Princess of Wales",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/057a158dc1876e66ffffa1195ca0e076.jpg"
+    },
+    {
+      "src": "https://video.dailymail.co.uk/preview/mol/2025/09/12/5293061561485736728/636x382_JPG-SINGLE_5293061561485736728.jpg",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/411990116595bbf6661dc9d1e554c546.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/12/11/102075373-0-image-m-35_1757672952234.jpg",
+      "alt": "King Charles' designer friend BANS nepo babies from his London Fashion Week show after",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6ec5b3663ebb95a1cf3962341de37fa7.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/1s/2025/09/09/16/101977395-0-image-a-47_1757430220346.jpg",
+      "alt": "How Meghan Markle and Kate Middleton have made Princess Diana's jewellery their own after",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/285639de0771ab78246740f2ebf365d7.jpg"
+    },
+    {
+      "src": "https://i.dailymail.co.uk/i/furniture/misc/logo_cookie_reg.png",
+      "alt": "Cookie regulation logo",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/5d0e149096efc140f034f751f0ec2cb4.png"
+    }
+  ]
+}

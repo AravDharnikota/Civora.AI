@@ -1,0 +1,196 @@
+{
+  "article_url": "https://www.bbc.com/news/us-canada",
+  "article_title": "NewsNews",
+  "scraped_at": "2025-09-28T13:03:19.446005",
+  "images": [
+    {
+      "src": "https://static.files.bbci.co.uk/bbcdotcom/web/20250919-090805-05e5ba0164-web-2.30.1-2/grey-placeholder.png",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9f70d90894b031e9f6b998273a4a821b.png"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/b2fa/live/b2d0e7d0-9c99-11f0-928c-71dbb8619e94.jpg.webp",
+      "alt": "A fire breaks out at a Mormon church in Michigan",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/3a7faad6f8b75852b66adbc2fa77cc58.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/f730/live/021eaaf0-9c01-11f0-928c-71dbb8619e94.jpg.webp",
+      "alt": "ICE agents stand guard during a protest against the Trump administration's immigration policies, outside an ICE detention facility in Portland, Oregon, on 01 September, 2025",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d6134c06d7935e254839a4dfd8d9578e.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/9b10/live/22759610-9bb6-11f0-852e-075d0572b37f.jpg.webp",
+      "alt": "Demonstrators holds up an anti-Trump sign and a 'Hands Off Birthright Citizenship Sign' outside the US Supreme Court in Washington, DC, on June 27, 2025. Scaffolding is visible on the outer facade of the Supreme Court building. ",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/1412aaa240503498495f54e3992a0693.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/64b6/live/a6e984b0-9c6f-11f0-8277-67a32d4ec754.jpg.webp",
+      "alt": "A photo of the Southport Marina in North Carolina showing several posts and docking places for boats, with several white boats that can be seen parked on the water. Behind them is a blue sky. ",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/e3f2d23374ee628135692d184ffe4a4a.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/507d/live/22a1d6d0-9b61-11f0-92db-77261a15b9d2.jpg.webp",
+      "alt": "James Comey speaks at an event in New York City.",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/15a165da54b4b1de9fe41920a2e31b22.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/5b59/live/c9307e00-9c3a-11f0-b741-177e3e2c2fc7.png.webp",
+      "alt": "Selena Gomez, a young woman with dark hair, looks to the side as she poses in front of trees while wearing a while wedding dress.",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d61f8d2bfa045a65efda07541247c110.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/52a6/live/15592e70-9b15-11f0-92db-77261a15b9d2.jpg.webp",
+      "alt": "Image shows the woman inside the New York courthouse",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/fdf95d9a2955ee98698b4ebf7434029c.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/de34/live/814ec380-9a96-11f0-88f7-0f8a7eda6f0c.png.webp",
+      "alt": "Harjit Kaur wearing a blue salwar and dupatta.",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/d68e0a7ec65ee6bfa2fc0b8e61808a20.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/3af7/live/3ac1de80-9afe-11f0-928c-71dbb8619e94.jpg.webp",
+      "alt": "A colour image of Assata Shakur sitting on a the ground and holding the manuscript of her autobiography. The skyline of Old Havana is a body of water is behind her.",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/3fa5aa7bce018d2a1f09e33897766065.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/a300/live/b1579750-9b72-11f0-923b-292f982dfb5c.png.webp",
+      "alt": "Ian Roberts seen in a mugshot. He looks into the camera and wears a tie and vest",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/bdef922888e3fb068ed3da610d143d35.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/cdba/live/5d0b1890-9b07-11f0-928c-71dbb8619e94.jpg.webp",
+      "alt": "Shane Tamura in a green football jersey standing on a field",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c99f17c6c2378c2990f9550c73c6ddf2.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/e069/live/5c77ccb0-9b1c-11f0-928c-71dbb8619e94.jpg.webp",
+      "alt": "Donald Trump, wearing a blue striped tie and dark suit, shakes hands with James Comey, wearing a blue suit, in the White House.",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4d2651a861456cc8d4269d8e1a8c63df.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/eeba/live/08035820-9af4-11f0-b741-177e3e2c2fc7.jpg.webp",
+      "alt": "President Trump answer questions on the White House lawn wearing a blue suit, white shirt and no tie, he has a gold fighter jet pin and American flag pin on his lapel.",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/c3d07ccd1a5ad90bf9bc5c8be700b6f6.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/6a0c/live/dcbf1430-9aba-11f0-92db-77261a15b9d2.jpg.webp",
+      "alt": "Split screen of BBC correspondent Suranjana Tewari and a TikTok logo on a smart phone screen",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/2b0e5de3acbcc05044f486374d26baaf.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/0d90/live/250d0e20-9a27-11f0-97f5-bd38218a3641.jpg.webp",
+      "alt": "Numerous perpetrators are stealing from a jewellery store.",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b806551a1dc17aed915fccb921716a09.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/c5fe/live/2e3d49f0-9974-11f0-97f5-bd38218a3641.jpg.webp",
+      "alt": "A pictures of an auto signature framed on a wall",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/b0b8470e53c5fa293f4cc86c10dc9327.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/f844/live/316dacc0-9afd-11f0-b741-177e3e2c2fc7.jpg.webp",
+      "alt": "James Comey",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/434302a9df468f69d0a767e873c28c7a.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/b2e5/live/9ccd0ec0-9a9e-11f0-b741-177e3e2c2fc7.jpg.webp",
+      "alt": "President Donald Trump, left, shakes hands with James Comey, then-director of the Federal Bureau of Investigation at the White House on 22 January, 2017. ",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/4f92105859f779c98d8272747c5a1ee2.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2bbf/live/de7d5e70-9a98-11f0-b741-177e3e2c2fc7.jpg.webp",
+      "alt": "Trump sitting on black tufted leather chair in Oval Office holds up black folio containing the order he signed, slightly obscuring his face",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/9fbdf59c66383061a012cea43ca3f047.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/bb12/live/828acbd0-996b-11f0-80b9-69e2e45f1309.jpg.webp",
+      "alt": "A woman wearing a light blue cardigan and a black shirt poses in front of a brick wall.",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6e2aaf39040f78c9a6bd298e40075a3f.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/f078/live/6f02ffa0-997b-11f0-92db-77261a15b9d2.png.webp",
+      "alt": "The crew in their orange flight suits standing in what looks like an Orion training room all smiling and with their arms folded",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/81a2ab59631559dffcde990f9386d584.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/f76b/live/b72b1700-9c95-11f0-928c-71dbb8619e94.jpg.webp",
+      "alt": "Aerial view of the church building complex on fire. ",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/dd9b256a47dfedfb7c1aa80f6cd75dce.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/0f10/live/68429800-9b02-11f0-92db-77261a15b9d2.jpg.webp",
+      "alt": "Larry Ellison, in a grey suit and black turtleneck, puts his arm around the shoulders of his son David, who wears a black three-piece suit and white shirt, collar unbuttoned with no tie",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/8ad083fcb1f5a799e27ae19dd4cdd4b5.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/381f/live/ad907870-9899-11f0-9b4d-3db5bd560027.jpg.webp",
+      "alt": "Canadian Prime Minister Mark Carney looks on at the Council on Foreign Relations in New York City, U.S., September 22, 2025. He is seen seated, wearing a black suit and a deep purple tie with a small Order of Canada pin attached to his right suit jacket collar. Behind him is a blue display featuring the logo of the Council on Foreign Relations.\n",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/dc777252b71b07cc7d2422b68d557eb4.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/5c3c/live/bfa11940-9b8f-11f0-bdeb-9de9348d5d1d.jpg.webp",
+      "alt": "File image of the back of two FBI agents, wearing bullet-proof vests with the writing 'FBI' in yellow",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/6357eb5f06793c0425bb690024cac2e6.webp"
+    },
+    {
+      "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/b157/live/0a72c3f0-9b14-11f0-a0ea-414bd016a286.jpg.webp",
+      "alt": "Jimmy Kimmel sits at his desk on his late night show ",
+      "title": "",
+      "caption": "",
+      "downloaded_path": "scraped_news/images/2c4463bfe2e2a7a0e5ceb0b0ac6b5329.webp"
+    }
+  ]
+}
